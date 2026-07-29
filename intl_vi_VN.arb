@@ -2520,9 +2520,9 @@
   "@whereDidISetItUpTitle": {
     "description": "Where did I set it up?"
   },
-  "whereDidISetItUpDesc": "Bạn có thể tìm thấy trình xác thực nếu trước đó bạn đã thiết lập nó trong các sản phẩm do Tomo cung cấp, bao gồm Ví WLFI, Ví Tomo hoặc Ví MyDoge.",
+  "whereDidISetItUpDesc": "Hãy tìm mục MyDoge Wallet trong ứng dụng xác thực. Mục này có thể đã được tạo khi bạn bảo mật ví lần đầu.",
   "@whereDidISetItUpDesc": {
-    "description": "You may find the authenticator if you previously set it up in products powered by Tomo, including WLFI Wallet, Tomo Wallet, or MyDoge Wallet."
+    "description": "Look for the MyDoge Wallet entry in your authenticator app. It may have been created when you first secured your wallet."
   },
   "authMethod": "Phương thức xác thực",
   "@authMethod": {

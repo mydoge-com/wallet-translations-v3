@@ -2418,7 +2418,7 @@
   "hour48SecurityTitle": "48 時間のセキュリティ確認",
   "hour48SecurityDesc": "リスクを防ぐため、連携には 48 時間のセキュリティ確認が必要です。心当たりがない場合は、すぐに OTP メールのパスワードを変更してください。",
   "whereDidISetItUpTitle": "どこで設定しましたか？",
-  "whereDidISetItUpDesc": "WLFI Wallet、Tomo Wallet、MyDoge Wallet など、Tomo 提供の製品で以前設定している場合、authenticator を見つけられる可能性があります。",
+  "whereDidISetItUpDesc": "認証アプリで MyDoge Wallet のエントリを探してください。ウォレットを初めて保護したときに作成されている場合があります。",
   "authMethod": "認証方法",
   "authMethodDesc": "アカウントログインと seed phrase のエクスポートには authenticator が必要で、保護層が追加されます。",
   "passkey": "Passkey",

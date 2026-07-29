@@ -2418,7 +2418,7 @@
   "hour48SecurityTitle": "Vérification de sécurité de 48 heures",
   "hour48SecurityDesc": "La liaison nécessite 48 heures de vérification de sécurité afin d’éviter les risques. Si vous n’êtes pas à l’origine de cette action, changez immédiatement le mot de passe de l’e-mail OTP.",
   "whereDidISetItUpTitle": "Où l’ai-je configuré ?",
-  "whereDidISetItUpDesc": "Vous pouvez retrouver l’authenticator si vous l’avez déjà configuré dans des produits propulsés par Tomo, notamment WLFI Wallet, Tomo Wallet ou MyDoge Wallet.",
+  "whereDidISetItUpDesc": "Recherchez l’entrée MyDoge Wallet dans votre application d’authentification. Elle a peut-être été créée lorsque vous avez sécurisé votre portefeuille pour la première fois.",
   "authMethod": "Méthode d’authentification",
   "authMethodDesc": "La connexion au compte et l’export de la seed phrase nécessitent un authenticator, ajoutant une couche de protection supplémentaire.",
   "passkey": "Passkey",
