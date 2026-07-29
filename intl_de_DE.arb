@@ -630,7 +630,7 @@
   "hour48SecurityTitle": "48-Stunden-Sicherheitsprüfung",
   "hour48SecurityDesc": "Das Verknüpfen erfordert 48 Stunden Sicherheitsprüfung, um Risiken zu vermeiden. Wenn du das nicht veranlasst hast, ändere bitte sofort das Passwort deiner OTP-E-Mail.",
   "whereDidISetItUpTitle": "Wo habe ich das eingerichtet?",
-  "whereDidISetItUpDesc": "Du findest den Authenticator möglicherweise, wenn du ihn zuvor in Produkten eingerichtet hast, die von Tomo betrieben werden, darunter WLFI Wallet, Tomo Wallet oder MyDoge Wallet.",
+  "whereDidISetItUpDesc": "Suche in deiner Authenticator-App nach dem Eintrag „MyDoge Wallet“. Er wurde möglicherweise erstellt, als du dein Wallet zum ersten Mal gesichert hast.",
   "authMethod": "Authentifizierungsmethode",
   "authMethodDesc": "Konto-Login und Seed-Phrase-Export erfordern einen Authenticator und bieten so eine zusätzliche Schutzschicht.",
   "passkey": "Passkey",

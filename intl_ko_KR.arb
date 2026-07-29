@@ -2520,9 +2520,9 @@
   "@whereDidISetItUpTitle": {
     "description": "Where did I set it up?"
   },
-  "whereDidISetItUpDesc": "WLFI Wallet, Tomo Wallet 또는 MyDoge Wallet을 포함하여 Tomo에서 제공하는 제품에서 이전에 인증기를 설정한 경우 인증기를 찾을 수 있습니다.",
+  "whereDidISetItUpDesc": "인증 앱에서 MyDoge Wallet 항목을 찾아보세요. 지갑을 처음 보호할 때 생성되었을 수 있습니다.",
   "@whereDidISetItUpDesc": {
-    "description": "You may find the authenticator if you previously set it up in products powered by Tomo, including WLFI Wallet, Tomo Wallet, or MyDoge Wallet."
+    "description": "Look for the MyDoge Wallet entry in your authenticator app. It may have been created when you first secured your wallet."
   },
   "authMethod": "인증 방법",
   "@authMethod": {

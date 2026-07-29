@@ -630,7 +630,7 @@
   "hour48SecurityTitle": "48-hour security verification",
   "hour48SecurityDesc": "Binding requires 48 hours of security verification to prevent risks. If it is not done by you, please change the OTP email password immediately.",
   "whereDidISetItUpTitle": "Where did I set it up?",
-  "whereDidISetItUpDesc": "You may find the authenticator if you previously set it up in products powered by Tomo, including WLFI Wallet, Tomo Wallet, or MyDoge Wallet.",
+  "whereDidISetItUpDesc": "Look for the MyDoge Wallet entry in your authenticator app. It may have been created when you first secured your wallet.",
   "authMethod": "Authentication Method",
   "authMethodDesc": "Account login and seed phrase export require an authenticator, adding an extra layer of protection.",
   "passkey": "Passkey",
