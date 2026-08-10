@@ -2834,7 +2834,7 @@
   "unableSwitchCurrencyTryAgainLater": "Impossible de changer de devise, veuillez réessayer plus tard",
   "unknownAuthenticationError": "Erreur inconnue pendant l’authentification : {error}",
   "unsupportedNetwork": "Réseau non pris en charge",
-  "swapNoRouteForAmount": "Aucune route n’est disponible pour ce montant. Essayez un montant plus élevé ou une autre route.",
+  "swapNoRouteForAmount": "Aucune cotation n’est disponible pour le moment. Essayez un autre montant puis réessayez.",
   "userCancelledAuthentication": "Authentification annulée par l’utilisateur",
   "userChoseFallbackAuthentication": "L’utilisateur a choisi d’utiliser la méthode d’authentification de secours",
   "userWalletNotRegisteredYet": "L’utilisateur n’a pas encore enregistré de wallet.",

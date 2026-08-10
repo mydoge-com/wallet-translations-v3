@@ -3566,7 +3566,7 @@
   "unableSwitchCurrencyTryAgainLater": "Não foi possível trocar de moeda. Tente novamente mais tarde",
   "unknownAuthenticationError": "Ocorreu um erro desconhecido durante a autenticação: {error}",
   "unsupportedNetwork": "Rede não suportada",
-  "swapNoRouteForAmount": "Não há rota disponível para este valor. Tente um valor maior ou uma rota diferente.",
+  "swapNoRouteForAmount": "Não há cotação disponível neste momento. Tente um valor diferente e volte a tentar.",
   "userCancelledAuthentication": "Autenticação cancelada pelo usuário",
   "userChoseFallbackAuthentication": "O usuário optou por usar o método de autenticação substituto",
   "userWalletNotRegisteredYet": "O usuário ainda não registrou uma carteira.",
