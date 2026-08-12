@@ -1046,7 +1046,7 @@
   "unableSwitchCurrencyTryAgainLater": "Währung kann nicht gewechselt werden, bitte versuche es später erneut",
   "unknownAuthenticationError": "Unbekannter Fehler während der Authentifizierung: {error}",
   "unsupportedNetwork": "Nicht unterstütztes Netzwerk",
-  "swapNoRouteForAmount": "Für diesen Betrag ist keine Route verfügbar. Versuche einen höheren Betrag oder eine andere Route.",
+  "swapNoRouteForAmount": "Derzeit ist kein Angebot verfügbar. Versuche einen anderen Betrag und versuche es erneut.",
   "userCancelledAuthentication": "Benutzer hat die Authentifizierung abgebrochen",
   "userChoseFallbackAuthentication": "Benutzer hat die Fallback-Authentifizierungsmethode gewählt",
   "userWalletNotRegisteredYet": "Der Benutzer hat noch keine Wallet registriert.",

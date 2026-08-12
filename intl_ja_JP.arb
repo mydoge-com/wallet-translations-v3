@@ -2834,7 +2834,7 @@
   "unableSwitchCurrencyTryAgainLater": "通貨を切り替えられません。後でもう一度お試しください",
   "unknownAuthenticationError": "認証中に不明なエラーが発生しました: {error}",
   "unsupportedNetwork": "サポートされていないネットワークです",
-  "swapNoRouteForAmount": "この金額で利用できるルートはありません。より高い金額または別のルートをお試しください。",
+  "swapNoRouteForAmount": "現在、見積もりを取得できません。別の金額で再度お試しください。",
   "userCancelledAuthentication": "ユーザーが認証をキャンセルしました",
   "userChoseFallbackAuthentication": "ユーザーが代替の認証方法を使用することを選択しました",
   "userWalletNotRegisteredYet": "ユーザーはまだウォレットを登録していません。",
