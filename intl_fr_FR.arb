@@ -2812,6 +2812,7 @@
   "socialWalletIntroDesc": "Un wallet multichain qui débloque des apps, des jeux, des opportunités de gain et des transactions cross-chain.",
   "socialWalletOwnershipDesc": "Possédez vos actifs avec une connexion sociale, effectuez des transactions sur toutes les chaînes et découvrez des moyens de gagner dans l’écosystème DogeOS.",
   "somethingWentWrong": "Une erreur s’est produite",
+  "seedExportUnsupportedDevice": "Cet appareil ne peut pas afficher une phrase de récupération en toute sécurité.",
   "stayUpdatedFavoriteChannels": "Restez informé des dernières tendances de vos chaînes préférées",
   "success": "Succès",
   "switchWalletDropdownHint": "Passez d’un wallet à l’autre avec le menu déroulant au-dessus de votre solde.",

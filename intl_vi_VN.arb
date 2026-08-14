@@ -3544,6 +3544,7 @@
   "socialWalletIntroDesc": "Ví multichain giúp mở khóa ứng dụng, trò chơi, cơ hội kiếm thưởng và giao dịch xuyên chuỗi.",
   "socialWalletOwnershipDesc": "Sở hữu tài sản của bạn bằng thông tin đăng nhập mạng xã hội, giao dịch trên mọi chuỗi và khám phá các cách kiếm tiền trong hệ sinh thái DogeOS.",
   "somethingWentWrong": "Đã xảy ra lỗi",
+  "seedExportUnsupportedDevice": "Thiết bị này không thể hiển thị cụm từ khôi phục một cách an toàn.",
   "stayUpdatedFavoriteChannels": "Luôn cập nhật những xu hướng mới nhất từ ​​các kênh yêu thích của bạn",
   "success": "Thành công",
   "switchWalletDropdownHint": "Chuyển đổi giữa các ví bằng cách sử dụng menu thả xuống phía trên số dư của bạn.",

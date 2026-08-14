@@ -1024,6 +1024,7 @@
   "socialWalletIntroDesc": "Eine Multichain-Wallet, die Apps, Games, Verdienstmöglichkeiten und Cross-Chain-Transaktionen freischaltet.",
   "socialWalletOwnershipDesc": "Besitze deine Assets mit einem Social Login, transagiere über jede Chain hinweg und entdecke Möglichkeiten, im DogeOS-Ökosystem zu verdienen.",
   "somethingWentWrong": "Etwas ist schiefgelaufen",
+  "seedExportUnsupportedDevice": "Dieses Gerät kann eine Seed-Phrase nicht sicher anzeigen.",
   "stayUpdatedFavoriteChannels": "Bleib über die neuesten Trends deiner Lieblingskanäle auf dem Laufenden",
   "success": "Erfolg",
   "switchWalletDropdownHint": "Wechsle zwischen Wallets über das Dropdown über deinem Guthaben.",

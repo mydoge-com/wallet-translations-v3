@@ -2812,6 +2812,7 @@
   "socialWalletIntroDesc": "アプリ、ゲーム、収益機会、クロスチェーン取引を利用できるマルチチェーンウォレットです。",
   "socialWalletOwnershipDesc": "ソーシャルログインで資産を所有し、あらゆるチェーンで取引し、DogeOS エコシステムで稼ぐ方法を見つけましょう。",
   "somethingWentWrong": "問題が発生しました",
+  "seedExportUnsupportedDevice": "このデバイスではシードフレーズを安全に表示できません。",
   "stayUpdatedFavoriteChannels": "お気に入りのチャンネルの最新トレンドをチェックしましょう",
   "success": "成功",
   "switchWalletDropdownHint": "残高の上にあるドロップダウンを使ってウォレットを切り替えます。",

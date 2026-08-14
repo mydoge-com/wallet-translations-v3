@@ -3544,6 +3544,7 @@
   "socialWalletIntroDesc": "앱, 게임, 수익 기회, 크로스체인 거래를 이용할 수 있는 멀티체인 지갑입니다.",
   "socialWalletOwnershipDesc": "소셜 로그인으로 자산을 소유하고, 모든 체인에서 거래하고, DogeOS 생태계에서 수익을 창출할 수 있는 방법을 찾아보세요.",
   "somethingWentWrong": "문제가 발생했습니다.",
+  "seedExportUnsupportedDevice": "이 기기에서는 시드 문구를 안전하게 표시할 수 없습니다.",
   "stayUpdatedFavoriteChannels": "즐겨찾는 채널의 최신 트렌드에 대한 최신 정보를 받아보세요.",
   "success": "성공",
   "switchWalletDropdownHint": "잔액 위의 드롭다운을 사용하여 지갑 간에 전환하세요.",
