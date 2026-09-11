@@ -3585,5 +3585,12 @@
   "webBrowser": "Trình duyệt web",
   "peopleCurrencyWalletDesc": "Social Wallet cho đồng tiền của cộng đồng",
   "errorWithMessage": "Lỗi: {error}",
-  "filter": "Bộ lọc"
+  "filter": "Bộ lọc",
+  "seedExportInProgress": "Đang xuất cụm từ khôi phục. Vui lòng chờ.",
+  "seedExportNotFound": "Không tìm thấy yêu cầu xuất cụm từ khôi phục đang hoạt động. Vui lòng thử lại.",
+  "seedExportExpired": "Yêu cầu xuất cụm từ khôi phục này đã hết hạn. Hãy quay lại trang xuất để tạo yêu cầu mới.",
+  "seedExportRecoveryRequired": "Yêu cầu xuất này vẫn còn hiệu lực nhưng không thể khôi phục khóa bảo mật của thiết bị. Hãy mở lại trang này hoặc liên hệ bộ phận hỗ trợ.",
+  "seedExportSignInRequired": "Hãy đăng nhập lại để tiếp tục xuất cụm từ khôi phục.",
+  "seedExportTryAgain": "Không thể tiếp tục xuất cụm từ khôi phục một cách an toàn. Vui lòng thử lại.",
+  "seedExportVerifyAgain": "Không thể sử dụng xác minh này nữa. Hãy quay lại trang xuất và xác minh lại."
 }
