@@ -2525,6 +2525,7 @@
     "description": "Look for the MyDoge Wallet entry in your authenticator app. It may have been created when you first secured your wallet."
   },
   "authMethod": "Método de autenticação",
+  "authenticationMethods": "Métodos de autenticação",
   "@authMethod": {
     "description": "Authentication Method"
   },
@@ -2533,6 +2534,7 @@
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
   "passkey": "Chave de acesso",
+  "passkeys": "Chaves de acesso",
   "@passkey": {
     "description": "Passkey"
   },
