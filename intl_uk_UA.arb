@@ -2525,6 +2525,7 @@
     "description": "Look for the MyDoge Wallet entry in your authenticator app. It may have been created when you first secured your wallet."
   },
   "authMethod": "Метод автентифікації",
+  "authenticationMethods": "Методи автентифікації",
   "@authMethod": {
     "description": "Authentication Method"
   },
@@ -2533,6 +2534,7 @@
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
   "passkey": "Passkey",
+  "passkeys": "Passkey",
   "@passkey": {
     "description": "Passkey"
   },
@@ -3544,6 +3546,7 @@
   "socialWalletIntroDesc": "Мультичейн-гаманець, що відкриває доступ до застосунків, ігор, можливостей заробітку й транзакцій між мережами.",
   "socialWalletOwnershipDesc": "Володійте своїми активами за допомогою соціального входу, здійснюйте транзакції в усіх мережах і відкривайте способи заробітку в екосистемі DogeOS.",
   "somethingWentWrong": "Щось пішло не так",
+  "seedExportUnsupportedDevice": "Цей пристрій не може безпечно показати seed-фразу.",
   "stayUpdatedFavoriteChannels": "Будьте в курсі останніх тенденцій з ваших улюблених каналів",
   "success": "Успіх",
   "switchWalletDropdownHint": "Перемикайтеся між гаманцями за допомогою спадного меню над балансом.",

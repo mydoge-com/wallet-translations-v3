@@ -2525,6 +2525,7 @@
     "description": "Look for the MyDoge Wallet entry in your authenticator app. It may have been created when you first secured your wallet."
   },
   "authMethod": "认证方式",
+  "authenticationMethods": "认证方式",
   "@authMethod": {
     "description": "Authentication Method"
   },
@@ -2533,6 +2534,7 @@
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
   "passkey": "通行密钥",
+  "passkeys": "通行密钥",
   "@passkey": {
     "description": "Passkey"
   },
@@ -3544,6 +3546,7 @@
   "socialWalletIntroDesc": "一个多链钱包，可解锁应用、游戏、收益机会和跨链交易。",
   "socialWalletOwnershipDesc": "通过社交登录拥有您的资产，在每条链上进行交易，并探索在 DogeOS 生态系统中赚钱的方法。",
   "somethingWentWrong": "出了点问题",
+  "seedExportUnsupportedDevice": "此设备无法安全显示助记词。",
   "stayUpdatedFavoriteChannels": "通过您喜爱的频道了解最新趋势",
   "success": "成功",
   "switchWalletDropdownHint": "使用余额上方的下拉菜单在钱包之间切换。",

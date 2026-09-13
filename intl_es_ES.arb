@@ -2525,6 +2525,7 @@
     "description": "Look for the MyDoge Wallet entry in your authenticator app. It may have been created when you first secured your wallet."
   },
   "authMethod": "Método de autenticación",
+  "authenticationMethods": "Métodos de autenticación",
   "@authMethod": {
     "description": "Authentication Method"
   },
@@ -2533,6 +2534,7 @@
     "description": "Account login and seed phrase export require an authenticator, adding an extra layer of protection."
   },
   "passkey": "Clave de acceso",
+  "passkeys": "Claves de acceso",
   "@passkey": {
     "description": "Passkey"
   },
@@ -3544,6 +3546,7 @@
   "socialWalletIntroDesc": "Una wallet multichain que desbloquea apps, juegos, oportunidades para ganar y transacciones entre cadenas.",
   "socialWalletOwnershipDesc": "Sea propietario de sus activos con un inicio de sesión social, realice transacciones en todas las cadenas y descubra formas de ganar dinero en el ecosistema DogeOS.",
   "somethingWentWrong": "algo salió mal",
+  "seedExportUnsupportedDevice": "Este dispositivo no puede mostrar una frase semilla de forma segura.",
   "stayUpdatedFavoriteChannels": "Manténgase actualizado sobre las últimas tendencias de sus canales favoritos",
   "success": "Éxito",
   "switchWalletDropdownHint": "Cambie entre billeteras usando el menú desplegable encima de su saldo.",
