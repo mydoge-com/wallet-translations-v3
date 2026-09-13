@@ -2855,5 +2855,12 @@
   "webBrowser": "Web ブラウザ",
   "peopleCurrencyWalletDesc": "人々の通貨のための Social Wallet",
   "errorWithMessage": "エラー: {error}",
-  "filter": "フィルター"
+  "filter": "フィルター",
+  "seedExportInProgress": "シードフレーズをエクスポートしています。しばらくお待ちください。",
+  "seedExportNotFound": "有効なシードフレーズのエクスポートが見つかりませんでした。もう一度お試しください。",
+  "seedExportExpired": "このシードフレーズのエクスポートは期限切れです。エクスポート画面に戻り、新しくリクエストしてください。",
+  "seedExportRecoveryRequired": "このエクスポートはまだ有効ですが、デバイスの安全な鍵を復元できませんでした。この画面を開き直すか、サポートにお問い合わせください。",
+  "seedExportSignInRequired": "シードフレーズのエクスポートを続けるには、もう一度ログインしてください。",
+  "seedExportTryAgain": "シードフレーズのエクスポートを安全に続行できませんでした。もう一度お試しください。",
+  "seedExportVerifyAgain": "この認証はもう使用できません。エクスポート画面に戻り、もう一度認証してください。"
 }

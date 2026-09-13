@@ -3587,5 +3587,12 @@
   "webBrowser": "网页浏览器",
   "peopleCurrencyWalletDesc": "面向人民货币的 Social Wallet",
   "errorWithMessage": "错误：{error}",
-  "filter": "筛选"
+  "filter": "筛选",
+  "seedExportInProgress": "正在导出助记词，请稍候。",
+  "seedExportNotFound": "未找到正在进行的助记词导出，请重试。",
+  "seedExportExpired": "此次助记词导出已过期。请返回导出页面重新申请。",
+  "seedExportRecoveryRequired": "此次导出仍有效，但无法恢复设备的安全密钥。请重新打开此页面或联系客服。",
+  "seedExportSignInRequired": "请重新登录以继续导出助记词。",
+  "seedExportTryAgain": "无法安全地继续导出助记词，请重试。",
+  "seedExportVerifyAgain": "此次验证已无法使用。请返回导出页面重新验证。"
 }

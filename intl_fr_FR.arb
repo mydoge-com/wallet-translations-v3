@@ -2855,5 +2855,12 @@
   "webBrowser": "Navigateur Web",
   "peopleCurrencyWalletDesc": "Le Social Wallet pour la monnaie du peuple",
   "errorWithMessage": "Erreur : {error}",
-  "filter": "Filtrer"
+  "filter": "Filtrer",
+  "seedExportInProgress": "L’exportation de la phrase de récupération est en cours. Veuillez patienter.",
+  "seedExportNotFound": "Aucune exportation active de la phrase de récupération n’a été trouvée. Veuillez réessayer.",
+  "seedExportExpired": "Cette exportation a expiré. Revenez à la page d’exportation pour en demander une nouvelle.",
+  "seedExportRecoveryRequired": "Cette exportation est toujours active, mais sa clé sécurisée sur cet appareil n’a pas pu être restaurée. Rouvrez cette page ou contactez l’assistance.",
+  "seedExportSignInRequired": "Reconnectez-vous pour continuer l’exportation de votre phrase de récupération.",
+  "seedExportTryAgain": "Nous n’avons pas pu poursuivre l’exportation en toute sécurité. Veuillez réessayer.",
+  "seedExportVerifyAgain": "Cette vérification ne peut plus être utilisée. Revenez à la page d’exportation et vérifiez à nouveau votre identité."
 }
