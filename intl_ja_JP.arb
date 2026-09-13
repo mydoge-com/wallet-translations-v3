@@ -2862,5 +2862,6 @@
   "seedExportRecoveryRequired": "このエクスポートはまだ有効ですが、デバイスの安全な鍵を復元できませんでした。この画面を開き直すか、サポートにお問い合わせください。",
   "seedExportSignInRequired": "シードフレーズのエクスポートを続けるには、もう一度ログインしてください。",
   "seedExportTryAgain": "シードフレーズのエクスポートを安全に続行できませんでした。もう一度お試しください。",
-  "seedExportVerifyAgain": "この認証はもう使用できません。エクスポート画面に戻り、もう一度認証してください。"
+  "seedExportVerifyAgain": "この認証はもう使用できません。エクスポート画面に戻り、もう一度認証してください。",
+  "sessionRecoveryTitle": "続行するには再度ログインしてください"
 }
