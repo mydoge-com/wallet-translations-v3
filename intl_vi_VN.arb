@@ -3594,5 +3594,6 @@
   "seedExportRecoveryRequired": "Yêu cầu xuất này vẫn còn hiệu lực nhưng không thể khôi phục khóa bảo mật của thiết bị. Hãy mở lại trang này hoặc liên hệ bộ phận hỗ trợ.",
   "seedExportSignInRequired": "Hãy đăng nhập lại để tiếp tục xuất cụm từ khôi phục.",
   "seedExportTryAgain": "Không thể tiếp tục xuất cụm từ khôi phục một cách an toàn. Vui lòng thử lại.",
-  "seedExportVerifyAgain": "Không thể sử dụng xác minh này nữa. Hãy quay lại trang xuất và xác minh lại."
+  "seedExportVerifyAgain": "Không thể sử dụng xác minh này nữa. Hãy quay lại trang xuất và xác minh lại.",
+  "sessionRecoveryTitle": "Đăng nhập lại để tiếp tục"
 }

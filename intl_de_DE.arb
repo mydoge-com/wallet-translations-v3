@@ -1074,5 +1074,6 @@
   "seedExportRecoveryRequired": "Dieser Export ist noch aktiv, aber sein sicherer Geräteschlüssel konnte nicht wiederhergestellt werden. Öffne diese Seite erneut oder kontaktiere den Support.",
   "seedExportSignInRequired": "Melde dich erneut an, um den Export deiner Seed-Phrase fortzusetzen.",
   "seedExportTryAgain": "Der Export der Seed-Phrase konnte nicht sicher fortgesetzt werden. Bitte versuche es erneut.",
-  "seedExportVerifyAgain": "Diese Verifizierung kann nicht mehr verwendet werden. Kehre zur Exportseite zurück und verifiziere dich erneut."
+  "seedExportVerifyAgain": "Diese Verifizierung kann nicht mehr verwendet werden. Kehre zur Exportseite zurück und verifiziere dich erneut.",
+  "sessionRecoveryTitle": "Melde dich erneut an, um fortzufahren"
 }
