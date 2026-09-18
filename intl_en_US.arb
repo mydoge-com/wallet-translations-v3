@@ -1074,6 +1074,7 @@
   "seedExportRecoveryRequired": "This export is still active, but its secure device key could not be restored. Reopen this page or contact support.",
   "seedExportSignInRequired": "Sign in again to continue your seed phrase export.",
   "seedExportTryAgain": "We could not safely continue the seed phrase export. Please try again.",
+  "seedExportUnavailable": "This action is not available at this time. Please check back soon.",
   "seedExportVerifyAgain": "This verification can no longer be used. Return to the export page and verify again.",
   "sessionRecoveryTitle": "Sign in again to continue"
 }

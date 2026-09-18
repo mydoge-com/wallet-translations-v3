@@ -2862,6 +2862,7 @@
   "seedExportRecoveryRequired": "Cette exportation est toujours active, mais sa clé sécurisée sur cet appareil n’a pas pu être restaurée. Rouvrez cette page ou contactez l’assistance.",
   "seedExportSignInRequired": "Reconnectez-vous pour continuer l’exportation de votre phrase de récupération.",
   "seedExportTryAgain": "Nous n’avons pas pu poursuivre l’exportation en toute sécurité. Veuillez réessayer.",
+  "seedExportUnavailable": "Cette action n’est pas disponible pour le moment. Veuillez revenir bientôt.",
   "seedExportVerifyAgain": "Cette vérification ne peut plus être utilisée. Revenez à la page d’exportation et vérifiez à nouveau votre identité.",
   "sessionRecoveryTitle": "Reconnectez-vous pour continuer"
 }

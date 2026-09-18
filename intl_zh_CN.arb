@@ -3594,6 +3594,7 @@
   "seedExportRecoveryRequired": "此次导出仍有效，但无法恢复设备的安全密钥。请重新打开此页面或联系客服。",
   "seedExportSignInRequired": "请重新登录以继续导出助记词。",
   "seedExportTryAgain": "无法安全地继续导出助记词，请重试。",
+  "seedExportUnavailable": "此操作暂时不可用，请稍后再来查看。",
   "seedExportVerifyAgain": "此次验证已无法使用。请返回导出页面重新验证。",
   "sessionRecoveryTitle": "请重新登录以继续"
 }
