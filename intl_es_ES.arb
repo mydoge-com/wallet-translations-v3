@@ -3594,6 +3594,7 @@
   "seedExportRecoveryRequired": "Esta exportación sigue activa, pero no se pudo restaurar su clave segura del dispositivo. Vuelve a abrir esta página o contacta con soporte.",
   "seedExportSignInRequired": "Inicia sesión de nuevo para continuar con la exportación de tu frase semilla.",
   "seedExportTryAgain": "No pudimos continuar la exportación de forma segura. Inténtalo de nuevo.",
+  "seedExportUnavailable": "Esta acción no está disponible en este momento. Vuelve pronto.",
   "seedExportVerifyAgain": "Esta verificación ya no se puede utilizar. Vuelve a la página de exportación y verifica tu identidad de nuevo.",
   "sessionRecoveryTitle": "Inicia sesión de nuevo para continuar"
 }

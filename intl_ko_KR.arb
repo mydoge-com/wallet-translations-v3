@@ -3594,6 +3594,7 @@
   "seedExportRecoveryRequired": "이 내보내기는 아직 유효하지만 기기의 보안 키를 복원할 수 없습니다. 이 화면을 다시 열거나 고객 지원에 문의해 주세요.",
   "seedExportSignInRequired": "시드 문구 내보내기를 계속하려면 다시 로그인해 주세요.",
   "seedExportTryAgain": "시드 문구 내보내기를 안전하게 계속할 수 없습니다. 다시 시도해 주세요.",
+  "seedExportUnavailable": "이 작업은 현재 사용할 수 없습니다. 잠시 후 다시 확인해 주세요.",
   "seedExportVerifyAgain": "이 인증은 더 이상 사용할 수 없습니다. 내보내기 화면으로 돌아가 다시 인증해 주세요.",
   "sessionRecoveryTitle": "계속하려면 다시 로그인하세요"
 }
