@@ -2674,6 +2674,8 @@
   "@collectibles": {
     "description": "Collectibles"
   },
+  "homeTestnetNoticeTitle": "Mạng thử nghiệm DogeOS.",
+  "homeTestnetNoticeBody": "Các ứng dụng này chạy trên mạng thử nghiệm DogeOS. Token được sử dụng chỉ dành cho mục đích thử nghiệm và không có giá trị thực.",
   "dogeOSTestnetTitle": "Faucet testnet DogeOS",
   "@dogeOSTestnetTitle": {
     "description": "DogeOS Testnet Faucet"

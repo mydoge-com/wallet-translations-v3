@@ -670,6 +670,8 @@
   "activity": "Activity",
   "tokens": "Tokens",
   "collectibles": "Collectibles",
+  "homeTestnetNoticeTitle": "DogeOS Testnet.",
+  "homeTestnetNoticeBody": "These apps run on the DogeOS test network. Tokens used in them are for testing and have no real value.",
   "dogeOSTestnetTitle": "DogeOS Testnet Faucet",
   "dogeOSTestnetDesc": "Request testnet tokens to experiment with the app in a safe environment — no real funds required.",
   "requestTokens": "Request tokens",

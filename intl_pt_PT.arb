@@ -2674,6 +2674,8 @@
   "@collectibles": {
     "description": "Collectibles"
   },
+  "homeTestnetNoticeTitle": "Rede de teste DogeOS.",
+  "homeTestnetNoticeBody": "Estas aplicações funcionam na rede de teste DogeOS. Os tokens utilizados destinam-se a testes e não têm valor real.",
   "dogeOSTestnetTitle": "Faucet da testnet DogeOS",
   "@dogeOSTestnetTitle": {
     "description": "DogeOS Testnet Faucet"

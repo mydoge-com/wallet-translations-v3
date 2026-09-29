@@ -2674,6 +2674,8 @@
   "@collectibles": {
     "description": "Collectibles"
   },
+  "homeTestnetNoticeTitle": "DogeOS 测试网。",
+  "homeTestnetNoticeBody": "这些应用在 DogeOS 测试网络上运行。其中使用的代币仅供测试，没有实际价值。",
   "dogeOSTestnetTitle": "DogeOS 测试网 Faucet",
   "@dogeOSTestnetTitle": {
     "description": "DogeOS Testnet Faucet"
