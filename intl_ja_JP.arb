@@ -2458,6 +2458,8 @@
   "activity": "アクティビティ",
   "tokens": "Token",
   "collectibles": "Collectibles",
+  "homeTestnetNoticeTitle": "DogeOS テストネット。",
+  "homeTestnetNoticeBody": "これらのアプリは DogeOS のテストネットワークで動作します。使用されるトークンはテスト用であり、実際の価値はありません。",
   "dogeOSTestnetTitle": "DogeOS Testnet Faucet",
   "dogeOSTestnetDesc": "安全な環境でアプリを試すための testnet token をリクエストできます。実際の資金は不要です。",
   "requestTokens": "Token をリクエスト",

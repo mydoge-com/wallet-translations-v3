@@ -2674,6 +2674,8 @@
   "@collectibles": {
     "description": "Collectibles"
   },
+  "homeTestnetNoticeTitle": "DogeOS 테스트넷.",
+  "homeTestnetNoticeBody": "이 앱들은 DogeOS 테스트 네트워크에서 실행됩니다. 앱에서 사용되는 토큰은 테스트용이며 실제 가치는 없습니다.",
   "dogeOSTestnetTitle": "DogeOS Testnet Faucet",
   "@dogeOSTestnetTitle": {
     "description": "DogeOS Testnet Faucet"

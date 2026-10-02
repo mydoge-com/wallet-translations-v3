@@ -670,6 +670,8 @@
   "activity": "Aktivität",
   "tokens": "Token",
   "collectibles": "Collectibles",
+  "homeTestnetNoticeTitle": "DogeOS-Testnetz.",
+  "homeTestnetNoticeBody": "Diese Apps laufen im DogeOS-Testnetz. Die darin verwendeten Token dienen nur zu Testzwecken und haben keinen realen Wert.",
   "dogeOSTestnetTitle": "DogeOS Testnet-Faucet",
   "dogeOSTestnetDesc": "Fordere Testnet-Token an, um die App in einer sicheren Umgebung auszuprobieren - ohne echte Gelder.",
   "requestTokens": "Token anfordern",
