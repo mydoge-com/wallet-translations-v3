@@ -896,6 +896,21 @@
   "possibleWithSeedPhrase": " possible with a seed phrase, ",
   "previousDogeTransactionPending": "Please wait for your previous DOGE transaction to confirm before sending another one.",
   "questsRemainingToClaimLoot": "{count} more quests to claim your loot",
+  "questsRemainingToEarnTicket": "{count, plural, one{{count} more quest to earn your next ticket} other{{count} more quests to earn your next ticket}}",
+  "@questsRemainingToEarnTicket": {
+    "description": "Remaining quest advances in the current stamp cycle; the reward is one Wheel ticket.",
+    "placeholders": {"count": {"type": "int"}}
+  },
+  "questingTicketsReadyToClaim": "{count, plural, one{{count} ticket ready to claim} other{{count} tickets ready to claim}}",
+  "@questingTicketsReadyToClaim": {
+    "description": "Stamp cycle tickets that the API explicitly reports as pending claim.",
+    "placeholders": {"count": {"type": "int"}}
+  },
+  "questingStampProgress": "{completed} of {goal} quest advances toward a Wheel ticket",
+  "@questingStampProgress": {
+    "description": "Accessibility label for the stamp row. Two advances fill one paw in the ten-quest cycle.",
+    "placeholders": {"completed": {"type": "int"}, "goal": {"type": "int"}}
+  },
   "reConfirmYourSeedPhrase": "Re-confirm your seed phrase",
   "recipient": "Recipient",
   "recoverPhraseNumber": "Recovery Phrase #{number}",
