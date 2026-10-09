@@ -2811,7 +2811,7 @@
   "pendingMyDogeTipSocialWalletRequired": "受取人が MyDoge Social Wallet を作成すると、このチップが利用可能になります。",
   "settingFailedEmailIsLoginEmail": "設定に失敗しました。このメールアドレスはログイン用メールです。",
   "signInWithOtherMethods": "他の方法でサインイン",
-  "socialWalletBetaIntro": "このウォレットは現在ベータ版です。問題が発生した場合は、こちらからチームにご連絡ください\n",
+  "socialWalletBetaIntro": "問題が発生した場合は、こちらからチームにご連絡ください\n",
   "socialWalletBetaOutro": "私たちの使命は、人々による、人々のためのウォレットを作ることです。このコミュニティに参加してくれてありがとうございます。これは始まりにすぎません！",
   "socialWalletIntroDesc": "アプリ、ゲーム、収益機会、クロスチェーン取引を利用できるマルチチェーンウォレットです。",
   "socialWalletOwnershipDesc": "ソーシャルログインで資産を所有し、あらゆるチェーンで取引し、DogeOS エコシステムで稼ぐ方法を見つけましょう。",

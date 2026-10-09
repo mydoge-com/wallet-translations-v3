@@ -3543,7 +3543,7 @@
   "pendingMyDogeTipSocialWalletRequired": "이 팁은 수신자가 MyDoge Social Wallet을 생성하면 수령할 수 있습니다.",
   "settingFailedEmailIsLoginEmail": "설정에 실패했습니다. 이 이메일 주소는 귀하의 로그인 이메일입니다.",
   "signInWithOtherMethods": "다른 방법으로 로그인",
-  "socialWalletBetaIntro": "이 지갑은 현재 베타 버전입니다. 문제가 발생하면 다음으로 우리 팀과 채팅하세요.",
+  "socialWalletBetaIntro": "문제가 발생하면 다음으로 우리 팀과 채팅하세요.",
   "socialWalletBetaOutro": "우리의 임무는 사람에 의한, 사람을 위한 지갑을 만드는 것입니다. 이 커뮤니티에 참여해 주셔서 감사합니다. 이것은 시작에 불과합니다!",
   "socialWalletIntroDesc": "앱, 게임, 수익 기회, 크로스체인 거래를 이용할 수 있는 멀티체인 지갑입니다.",
   "socialWalletOwnershipDesc": "소셜 로그인으로 자산을 소유하고, 모든 체인에서 거래하고, DogeOS 생태계에서 수익을 창출할 수 있는 방법을 찾아보세요.",

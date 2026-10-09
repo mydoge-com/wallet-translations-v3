@@ -3543,7 +3543,7 @@
   "pendingMyDogeTipSocialWalletRequired": "Esta propina estará disponible cuando el destinatario cree su MyDoge Social Wallet.",
   "settingFailedEmailIsLoginEmail": "La configuración falló. Esta dirección de correo electrónico es su correo electrónico de inicio de sesión.",
   "signInWithOtherMethods": "Iniciar sesión con otros métodos",
-  "socialWalletBetaIntro": "Esta billetera se encuentra actualmente en versión beta. Si tiene algún problema, chatee con nuestro equipo en",
+  "socialWalletBetaIntro": "Si tiene algún problema, chatee con nuestro equipo en",
   "socialWalletBetaOutro": "Nuestra misión es construir una billetera hecha por la gente y para la gente. Gracias por ser parte de esta comunidad. ¡Esto es sólo el comienzo!",
   "socialWalletIntroDesc": "Una wallet multichain que desbloquea apps, juegos, oportunidades para ganar y transacciones entre cadenas.",
   "socialWalletOwnershipDesc": "Sea propietario de sus activos con un inicio de sesión social, realice transacciones en todas las cadenas y descubra formas de ganar dinero en el ecosistema DogeOS.",
