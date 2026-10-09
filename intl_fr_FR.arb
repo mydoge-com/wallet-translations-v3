@@ -2811,7 +2811,7 @@
   "pendingMyDogeTipSocialWalletRequired": "Ce pourboire sera disponible lorsque le destinataire aura créé son MyDoge Social Wallet.",
   "settingFailedEmailIsLoginEmail": "Échec du réglage. Cette adresse e-mail est votre e-mail de connexion.",
   "signInWithOtherMethods": "Se connecter avec d’autres méthodes",
-  "socialWalletBetaIntro": "Ce wallet est actuellement en bêta. Si vous rencontrez un problème, contactez notre équipe sur\n",
+  "socialWalletBetaIntro": "Si vous rencontrez un problème, contactez notre équipe sur\n",
   "socialWalletBetaOutro": "Notre mission est de construire un wallet par le peuple, pour le peuple. Merci de faire partie de cette communauté. Ce n’est que le début !",
   "socialWalletIntroDesc": "Un wallet multichain qui débloque des apps, des jeux, des opportunités de gain et des transactions cross-chain.",
   "socialWalletOwnershipDesc": "Possédez vos actifs avec une connexion sociale, effectuez des transactions sur toutes les chaînes et découvrez des moyens de gagner dans l’écosystème DogeOS.",

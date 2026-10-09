@@ -1023,7 +1023,7 @@
   "pendingMyDogeTipSocialWalletRequired": "This tip will become available once the recipient creates a MyDoge Social Wallet.",
   "settingFailedEmailIsLoginEmail": "Setting failed. This email address is your login email.",
   "signInWithOtherMethods": "Sign in with other methods",
-  "socialWalletBetaIntro": "This wallet is currently in beta. If you come across any issues, chat with our team in\n",
+  "socialWalletBetaIntro": "If you come across any issues, chat with our team in\n",
   "socialWalletBetaOutro": "Our mission is to build a wallet by the people, for the people. Thank you for being part of this community. This is just the beginning!",
   "socialWalletIntroDesc": "A multichain wallet that unlocks apps, games, earning opportunities, and cross-chain transactions.",
   "socialWalletOwnershipDesc": "Own your assets with a social login, transact across every chain, and discover ways to earn in the DogeOS ecosystem.",

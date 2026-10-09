@@ -3543,7 +3543,7 @@
   "pendingMyDogeTipSocialWalletRequired": "当接收方创建 MyDoge Social Wallet 后，这笔小费将可领取。",
   "settingFailedEmailIsLoginEmail": "设置失败。该电子邮件地址是您的登录电子邮件。",
   "signInWithOtherMethods": "使用其他方式登录",
-  "socialWalletBetaIntro": "该钱包目前处于测试阶段。如果您遇到任何问题，请与我们的团队聊天",
+  "socialWalletBetaIntro": "如果您遇到任何问题，请与我们的团队聊天",
   "socialWalletBetaOutro": "我们的使命是打造一个由人民、为人民服务的钱包。感谢您成为这个社区的一部分。这只是开始！",
   "socialWalletIntroDesc": "一个多链钱包，可解锁应用、游戏、收益机会和跨链交易。",
   "socialWalletOwnershipDesc": "通过社交登录拥有您的资产，在每条链上进行交易，并探索在 DogeOS 生态系统中赚钱的方法。",
