@@ -3595,7 +3595,7 @@
   "seedExportExpired": "Esta exportación de la frase semilla ha caducado. Vuelve a la página de exportación para solicitar una nueva.",
   "seedExportRecoveryRequired": "Esta exportación sigue activa, pero no se pudo restaurar su clave segura del dispositivo. Vuelve a abrir esta página o contacta con soporte.",
   "seedExportRestartAction": "Reiniciar",
-  "seedExportRestartDesc": "Esta solicitud de la frase semilla no se puede completar en este dispositivo. Si empiezas de nuevo, se cancelará en todas partes y comenzará una nueva espera de 48 horas.",
+  "seedExportRestartDesc": "Esta solicitud de la frase semilla no se puede completar en este dispositivo. Si la reinicias, se cancelará en todas partes y comenzará una nueva espera de 48 horas.",
   "seedExportRestartDismiss": "Ahora no",
   "seedExportRestartTitle": "¿Iniciar una nueva solicitud?",
   "seedExportSignInRequired": "Inicia sesión de nuevo para continuar con la exportación de tu frase semilla.",
