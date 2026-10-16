@@ -2484,7 +2484,7 @@
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "为了您帐户的安全，导出助记词需要身份验证。",
+  "setupAuthDesc": "要导出助记词，请添加通行密钥或身份验证器应用。邮箱验证码无法用于批准导出。",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
@@ -2496,7 +2496,7 @@
   "@cancelRequestTitle": {
     "description": "Cancel request"
   },
-  "cancelRequestDesc": "您确定要取消吗？如果您想设置新的 通行密钥，这将重新开始等待期。",
+  "cancelRequestDesc": "您确定要取消吗？如需稍后查看助记词，您需要重新申请并再次等待 48 小时。",
   "@cancelRequestDesc": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
@@ -2610,11 +2610,11 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "为了保障您的资产安全，查看助记词前需要等待 48 小时。",
+  "requestSeedDesc1": "为了您的安全，每次申请查看助记词都必须等待48小时。等待期间，您可以随时取消申请。",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "倒计时结束后，您可以查看助记词。",
+  "requestSeedDesc2": "倒计时结束后，您可以查看助记词。在此之前，您可以随时取消此申请。",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },

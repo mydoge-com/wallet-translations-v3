@@ -2484,7 +2484,7 @@
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "Para segurança da sua conta, a exportação do frase de recuperação requer autenticação.",
+  "setupAuthDesc": "Para exportar sua frase de recuperação, adicione uma chave de acesso ou um app autenticador. Códigos por e-mail não podem aprovar uma exportação.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
@@ -2496,7 +2496,7 @@
   "@cancelRequestTitle": {
     "description": "Cancel request"
   },
-  "cancelRequestDesc": "Tem certeza de que deseja cancelar? Isso reiniciará o período de espera se você quiser configurar um novo chave de acesso.",
+  "cancelRequestDesc": "Tem certeza de que deseja cancelar? Para ver sua frase de recuperação depois, você precisará fazer um novo pedido e esperar mais 48 horas.",
   "@cancelRequestDesc": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
@@ -2610,11 +2610,11 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "Para proteger seus ativos, é necessário aguardar 48 horas antes de revelar sua frase de recuperação.",
+  "requestSeedDesc1": "Para sua segurança, todo pedido de frase de recuperação tem um período de espera obrigatório de 48 horas. Você pode cancelar o pedido a qualquer momento durante a espera.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "Você poderá ver sua frase de recuperação quando a contagem regressiva terminar.",
+  "requestSeedDesc2": "Você poderá ver sua frase de recuperação quando a contagem regressiva terminar. Até lá, você pode cancelar este pedido a qualquer momento.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },

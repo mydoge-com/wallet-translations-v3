@@ -2484,7 +2484,7 @@
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "Để bảo mật tài khoản của bạn, việc xuất cụm từ khôi phục yêu cầu xác thực.",
+  "setupAuthDesc": "Để xuất cụm từ khôi phục, hãy thêm Passkey hoặc ứng dụng xác thực. Mã gửi qua email không thể dùng để phê duyệt việc xuất.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
@@ -2496,7 +2496,7 @@
   "@cancelRequestTitle": {
     "description": "Cancel request"
   },
-  "cancelRequestDesc": "Bạn có chắc chắn muốn hủy không? Thao tác này sẽ khởi động lại thời gian chờ nếu bạn muốn thiết lập Passkey mới.",
+  "cancelRequestDesc": "Bạn có chắc chắn muốn hủy không? Để xem cụm từ khôi phục sau này, bạn sẽ cần gửi yêu cầu mới và chờ thêm 48 giờ.",
   "@cancelRequestDesc": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
@@ -2610,11 +2610,11 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "Để đảm bảo an toàn cho tài sản của bạn, cần có thời gian chờ 48 giờ trước khi tiết lộ cụm từ khôi phục của bạn.",
+  "requestSeedDesc1": "Để bảo mật, mỗi yêu cầu cụm từ khôi phục đều có thời gian chờ bắt buộc 48 giờ. Bạn có thể hủy yêu cầu bất cứ lúc nào trong thời gian chờ.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "Bạn có thể xem cụm từ khôi phục của mình sau khi thời gian đếm ngược kết thúc.",
+  "requestSeedDesc2": "Bạn có thể xem cụm từ khôi phục khi thời gian đếm ngược kết thúc. Trước đó, bạn có thể hủy yêu cầu này bất cứ lúc nào.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },

@@ -2484,7 +2484,7 @@
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "Por la seguridad de tu cuenta, exportar la frase semilla requiere autenticación.",
+  "setupAuthDesc": "Para exportar tu frase semilla, añade una passkey o una app de autenticación. Los códigos por correo electrónico no sirven para aprobar una exportación.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
@@ -2496,7 +2496,7 @@
   "@cancelRequestTitle": {
     "description": "Cancel request"
   },
-  "cancelRequestDesc": "¿Seguro que quieres cancelar? Esto reiniciará el periodo de espera si quieres configurar una nueva passkey.",
+  "cancelRequestDesc": "¿Seguro que quieres cancelar? Para ver tu frase semilla más adelante, tendrás que hacer una nueva solicitud y esperar otras 48 horas.",
   "@cancelRequestDesc": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
@@ -2610,11 +2610,11 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "Para proteger tus activos, debes esperar 48 horas antes de revelar tu frase semilla.",
+  "requestSeedDesc1": "Por tu seguridad, cada solicitud de frase semilla tiene un periodo de espera obligatorio de 48 horas. Puedes cancelar la solicitud en cualquier momento durante la espera.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "Podrás ver tu frase semilla cuando termine la cuenta regresiva.",
+  "requestSeedDesc2": "Podrás ver tu frase semilla cuando termine la cuenta regresiva. Hasta entonces, puedes cancelar esta solicitud en cualquier momento.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },

@@ -2484,7 +2484,7 @@
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "З міркувань безпеки акаунта експорт seed-фрази вимагає автентифікації.",
+  "setupAuthDesc": "Щоб експортувати seed-фразу, додайте Passkey або застосунок-автентифікатор. Коди з електронної пошти не підходять для підтвердження експорту.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
@@ -2496,7 +2496,7 @@
   "@cancelRequestTitle": {
     "description": "Cancel request"
   },
-  "cancelRequestDesc": "Ви впевнені, що бажаєте скасувати? Це перезапустить період очікування, якщо ви хочете налаштувати новий Passkey.",
+  "cancelRequestDesc": "Ви впевнені, що бажаєте скасувати? Щоб переглянути seed-фразу пізніше, потрібно буде створити новий запит і знову зачекати 48 годин.",
   "@cancelRequestDesc": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
@@ -2610,11 +2610,11 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "Для безпеки ваших активів перед показом seed-фрази потрібен 48-годинний період очікування.",
+  "requestSeedDesc1": "З міркувань безпеки для кожного запиту seed-фрази діє обов’язковий 48-годинний період очікування. Під час очікування ви можете будь-коли скасувати запит.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "Ви зможете переглянути seed-фразу після завершення зворотного відліку.",
+  "requestSeedDesc2": "Ви зможете переглянути seed-фразу після завершення зворотного відліку. До того часу ви можете будь-коли скасувати цей запит.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },
