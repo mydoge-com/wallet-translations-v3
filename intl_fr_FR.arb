@@ -2868,6 +2868,8 @@
   "seedExportSupportTitle": "Contactez le support pour sauvegarder ce portefeuille",
   "seedExportSupportDesc": "La seed phrase de ce portefeuille ne peut pas être affichée dans l’app. Contactez notre équipe de support : nous vous aiderons à passer à un portefeuille que vous pourrez sauvegarder.",
   "contactSupport": "Support",
+  "betaWalletNoticeTitle": "Il semble que vous aviez un portefeuille bêta",
+  "betaWalletNoticeDesc": "Si votre solde vous semble incorrect, contactez le support.",
   "seedExportRestartTitle": "Lancer une nouvelle demande ?",
   "seedExportSignInRequired": "Reconnectez-vous pour continuer l’exportation de votre phrase de récupération.",
   "seedExportTryAgain": "Nous n’avons pas pu poursuivre l’exportation en toute sécurité. Veuillez réessayer.",

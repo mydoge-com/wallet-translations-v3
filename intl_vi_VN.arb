@@ -3600,6 +3600,8 @@
   "seedExportSupportTitle": "Liên hệ hỗ trợ để sao lưu ví này",
   "seedExportSupportDesc": "Không thể hiển thị cụm từ khôi phục của ví này trong ứng dụng. Hãy liên hệ đội ngũ hỗ trợ, chúng tôi sẽ giúp bạn chuyển sang một ví mà bạn có thể sao lưu.",
   "contactSupport": "Liên hệ hỗ trợ",
+  "betaWalletNoticeTitle": "Có vẻ như bạn từng có ví bản beta",
+  "betaWalletNoticeDesc": "Nếu số dư có vẻ không đúng, vui lòng liên hệ hỗ trợ.",
   "seedExportRestartTitle": "Bắt đầu yêu cầu mới?",
   "seedExportSignInRequired": "Hãy đăng nhập lại để tiếp tục xuất cụm từ khôi phục.",
   "seedExportTryAgain": "Không thể tiếp tục xuất cụm từ khôi phục một cách an toàn. Vui lòng thử lại.",

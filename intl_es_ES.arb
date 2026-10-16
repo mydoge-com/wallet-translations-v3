@@ -3600,6 +3600,8 @@
   "seedExportSupportTitle": "Contacta con soporte para respaldar esta billetera",
   "seedExportSupportDesc": "La frase semilla de esta billetera no se puede mostrar en la app. Contacta con nuestro equipo de soporte y te ayudaremos a pasar a una billetera que puedas respaldar.",
   "contactSupport": "Soporte",
+  "betaWalletNoticeTitle": "Parece que tenías una billetera beta",
+  "betaWalletNoticeDesc": "Si tu saldo no parece correcto, contacta con soporte.",
   "seedExportRestartTitle": "¿Iniciar una nueva solicitud?",
   "seedExportSignInRequired": "Inicia sesión de nuevo para continuar con la exportación de tu frase semilla.",
   "seedExportTryAgain": "No pudimos continuar la exportación de forma segura. Inténtalo de nuevo.",
