@@ -2484,7 +2484,7 @@
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "В целях безопасности аккаунта экспорт сид-фразы требует аутентификации.",
+  "setupAuthDesc": "Чтобы экспортировать сид-фразу, добавьте Passkey или приложение-аутентификатор. Коды из письма не подходят для подтверждения экспорта.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
@@ -2496,7 +2496,7 @@
   "@cancelRequestTitle": {
     "description": "Cancel request"
   },
-  "cancelRequestDesc": "Вы уверены, что хотите отменить? Это возобновит период ожидания, если вы захотите настроить новый Passkey.",
+  "cancelRequestDesc": "Вы уверены, что хотите отменить? Чтобы посмотреть сид-фразу позже, нужно будет создать новый запрос и снова подождать 48 часов.",
   "@cancelRequestDesc": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
@@ -2610,11 +2610,11 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "Для безопасности ваших активов перед показом сид-фразы требуется 48-часовой период ожидания.",
+  "requestSeedDesc1": "В целях безопасности для каждого запроса сид-фразы действует обязательный 48-часовой период ожидания. Во время ожидания вы можете отменить запрос в любой момент.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "Вы сможете посмотреть сид-фразу после окончания обратного отсчета.",
+  "requestSeedDesc2": "Вы сможете посмотреть сид-фразу после окончания обратного отсчета. До этого момента вы можете отменить запрос в любой момент.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },

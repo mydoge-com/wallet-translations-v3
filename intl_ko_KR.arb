@@ -2484,7 +2484,7 @@
   "@setupAuthTitle": {
     "description": "Set up authentication"
   },
-  "setupAuthDesc": "계정 보안을 위해 시드 문구를 내보내려면 인증이 필요합니다.",
+  "setupAuthDesc": "시드 문구를 내보내려면 패스키 또는 인증 앱을 추가하세요. 이메일 코드로는 내보내기를 승인할 수 없습니다.",
   "@setupAuthDesc": {
     "description": "For your account’s security, exporting the seed phrase requires authentication."
   },
@@ -2496,7 +2496,7 @@
   "@cancelRequestTitle": {
     "description": "Cancel request"
   },
-  "cancelRequestDesc": "정말로 취소하시겠습니까? 새로운 패스키를 설정하려는 경우 대기 기간이 다시 시작됩니다.",
+  "cancelRequestDesc": "정말로 취소하시겠습니까? 나중에 시드 문구를 보려면 새로 요청하고 다시 48시간을 기다려야 합니다.",
   "@cancelRequestDesc": {
     "description": "Are you sure you want to cancel? This will restart the waiting period if you want to set up a new passkey."
   },
@@ -2610,11 +2610,11 @@
   "@hour48": {
     "description": "48-hour"
   },
-  "requestSeedDesc1": "자산 보호를 위해 시드 문구를 공개하기 전 48시간의 대기 시간이 필요합니다.",
+  "requestSeedDesc1": "보안을 위해 모든 시드 문구 요청에는 48시간의 필수 대기 시간이 있습니다. 대기 중에는 언제든지 요청을 취소할 수 있습니다.",
   "@requestSeedDesc1": {
     "description": "To ensure the safety of your assets, a 48-hour waiting period is required before revealing your seed phrase."
   },
-  "requestSeedDesc2": "카운트다운이 끝나면 시드 문구를 볼 수 있습니다.",
+  "requestSeedDesc2": "카운트다운이 끝나면 시드 문구를 볼 수 있습니다. 그 전까지는 언제든지 이 요청을 취소할 수 있습니다.",
   "@requestSeedDesc2": {
     "description": "You can view your seed phrase after the countdown ends."
   },
