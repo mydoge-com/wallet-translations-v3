@@ -2868,6 +2868,8 @@
   "seedExportSupportTitle": "このウォレットをバックアップするにはサポートにご連絡ください",
   "seedExportSupportDesc": "このウォレットの seed phrase はアプリで表示できません。サポートチームにご連絡いただければ、バックアップできるウォレットへの移行をお手伝いします。",
   "contactSupport": "サポートに連絡",
+  "betaWalletNoticeTitle": "ベータ版のウォレットをお持ちだったようです",
+  "betaWalletNoticeDesc": "残高が正しくないと思われる場合は、サポートにご連絡ください。",
   "seedExportRestartTitle": "新しいリクエストを開始しますか？",
   "seedExportSignInRequired": "シードフレーズのエクスポートを続けるには、もう一度ログインしてください。",
   "seedExportTryAgain": "シードフレーズのエクスポートを安全に続行できませんでした。もう一度お試しください。",

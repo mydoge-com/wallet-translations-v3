@@ -1080,6 +1080,8 @@
   "seedExportSupportTitle": "Wende dich an den Support, um diese Wallet zu sichern",
   "seedExportSupportDesc": "Die Seed-Phrase dieser Wallet kann in der App nicht angezeigt werden. Wende dich an unser Support-Team – wir helfen dir, zu einer Wallet zu wechseln, die du sichern kannst.",
   "contactSupport": "Zum Support",
+  "betaWalletNoticeTitle": "Du hattest wohl eine Beta-Wallet",
+  "betaWalletNoticeDesc": "Wenn dein Guthaben nicht stimmt, wende dich bitte an den Support.",
   "seedExportRestartTitle": "Neue Anfrage starten?",
   "seedExportSignInRequired": "Melde dich erneut an, um den Export deiner Seed-Phrase fortzusetzen.",
   "seedExportTryAgain": "Der Export der Seed-Phrase konnte nicht sicher fortgesetzt werden. Bitte versuche es erneut.",

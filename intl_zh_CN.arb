@@ -3600,6 +3600,8 @@
   "seedExportSupportTitle": "联系客服以备份此钱包",
   "seedExportSupportDesc": "此钱包的助记词无法在应用中显示。请联系我们的客服团队，我们会帮助您迁移到一个可以备份的钱包。",
   "contactSupport": "联系客服",
+  "betaWalletNoticeTitle": "您之前似乎有一个测试版钱包",
+  "betaWalletNoticeDesc": "如果余额看起来不对，请联系客服。",
   "seedExportRestartTitle": "要发起新的请求吗？",
   "seedExportSignInRequired": "请重新登录以继续导出助记词。",
   "seedExportTryAgain": "无法安全地继续导出助记词，请重试。",

@@ -1095,6 +1095,8 @@
   "seedExportSupportTitle": "Contact support to back up this wallet",
   "seedExportSupportDesc": "This wallet’s seed phrase can’t be shown in the app. Contact our support team and we’ll help you move to a wallet you can back up.",
   "contactSupport": "Contact support",
+  "betaWalletNoticeTitle": "Looks like you had a beta wallet",
+  "betaWalletNoticeDesc": "If your balance looks wrong, please contact support.",
   "seedExportRestartTitle": "Start a new request?",
   "seedExportSignInRequired": "Sign in again to continue your seed phrase export.",
   "seedExportTryAgain": "We could not safely continue the seed phrase export. Please try again.",
