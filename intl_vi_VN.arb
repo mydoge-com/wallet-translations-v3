@@ -3609,5 +3609,11 @@
   "seedExportVerifyAgain": "Không thể sử dụng xác minh này nữa. Hãy quay lại trang xuất và xác minh lại.",
   "sessionRecoveryTitle": "Đăng nhập lại để tiếp tục",
   "verificationRequestExpiresAt": "Yêu cầu này hết hạn lúc {time}.",
-  "verificationRequestExpiresOn": "Yêu cầu này hết hạn lúc {time} ngày {date}."
+  "verificationRequestExpiresOn": "Yêu cầu này hết hạn lúc {time} ngày {date}.",
+  "verifySocialWalletOperation": "Xác minh thao tác Ví xã hội",
+  "verificationCodeSentToEmail": "Nhập mã xác minh đã được gửi đến email của bạn.",
+  "verificationCodeSentTo": "Nhập mã xác minh đã được gửi đến {destination}.",
+  "verificationCodeFromAuthenticator": "Nhập mã từ ứng dụng xác thực của bạn.",
+  "verificationCodeLabel": "Mã xác minh",
+  "verifyAction": "Xác minh"
 }

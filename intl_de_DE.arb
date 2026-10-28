@@ -1089,5 +1089,11 @@
   "seedExportVerifyAgain": "Diese Verifizierung kann nicht mehr verwendet werden. Kehre zur Exportseite zurück und verifiziere dich erneut.",
   "sessionRecoveryTitle": "Melde dich erneut an, um fortzufahren",
   "verificationRequestExpiresAt": "Diese Anfrage läuft um {time} ab.",
-  "verificationRequestExpiresOn": "Diese Anfrage läuft am {date} um {time} ab."
+  "verificationRequestExpiresOn": "Diese Anfrage läuft am {date} um {time} ab.",
+  "verifySocialWalletOperation": "Social-Wallet-Vorgang bestätigen",
+  "verificationCodeSentToEmail": "Gib den Bestätigungscode ein, der an deine E-Mail-Adresse gesendet wurde.",
+  "verificationCodeSentTo": "Gib den Bestätigungscode ein, der an {destination} gesendet wurde.",
+  "verificationCodeFromAuthenticator": "Gib den Code aus deiner Authenticator-App ein.",
+  "verificationCodeLabel": "Bestätigungscode",
+  "verifyAction": "Bestätigen"
 }

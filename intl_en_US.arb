@@ -1104,5 +1104,11 @@
   "seedExportVerifyAgain": "This verification can no longer be used. Return to the export page and verify again.",
   "sessionRecoveryTitle": "Sign in again to continue",
   "verificationRequestExpiresAt": "This request expires at {time}.",
-  "verificationRequestExpiresOn": "This request expires on {date} at {time}."
+  "verificationRequestExpiresOn": "This request expires on {date} at {time}.",
+  "verifySocialWalletOperation": "Verify Social wallet operation",
+  "verificationCodeSentToEmail": "Enter the verification code sent to your email.",
+  "verificationCodeSentTo": "Enter the verification code sent to {destination}.",
+  "verificationCodeFromAuthenticator": "Enter the code from your authenticator app.",
+  "verificationCodeLabel": "Verification code",
+  "verifyAction": "Verify"
 }

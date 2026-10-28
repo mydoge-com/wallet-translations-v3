@@ -3609,5 +3609,11 @@
   "seedExportVerifyAgain": "Цю перевірку більше не можна використати. Поверніться на сторінку експорту та пройдіть перевірку знову.",
   "sessionRecoveryTitle": "Увійдіть знову, щоб продовжити",
   "verificationRequestExpiresAt": "Термін дії запиту спливає о {time}.",
-  "verificationRequestExpiresOn": "Термін дії запиту спливає {date} о {time}."
+  "verificationRequestExpiresOn": "Термін дії запиту спливає {date} о {time}.",
+  "verifySocialWalletOperation": "Підтвердьте операцію соціального гаманця",
+  "verificationCodeSentToEmail": "Введіть код підтвердження, надісланий на вашу електронну пошту.",
+  "verificationCodeSentTo": "Введіть код підтвердження, надісланий на {destination}.",
+  "verificationCodeFromAuthenticator": "Введіть код із застосунку автентифікації.",
+  "verificationCodeLabel": "Код підтвердження",
+  "verifyAction": "Підтвердити"
 }

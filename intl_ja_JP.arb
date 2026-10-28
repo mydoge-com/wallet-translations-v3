@@ -2877,5 +2877,11 @@
   "seedExportVerifyAgain": "この認証はもう使用できません。エクスポート画面に戻り、もう一度認証してください。",
   "sessionRecoveryTitle": "続行するには再度ログインしてください",
   "verificationRequestExpiresAt": "このリクエストは{time}に期限切れになります。",
-  "verificationRequestExpiresOn": "このリクエストは{date} {time}に期限切れになります。"
+  "verificationRequestExpiresOn": "このリクエストは{date} {time}に期限切れになります。",
+  "verifySocialWalletOperation": "DogeOS ウォレットの操作を確認",
+  "verificationCodeSentToEmail": "メールに送信された認証コードを入力してください。",
+  "verificationCodeSentTo": "{destination} に送信された認証コードを入力してください。",
+  "verificationCodeFromAuthenticator": "認証アプリのコードを入力してください。",
+  "verificationCodeLabel": "認証コード",
+  "verifyAction": "確認"
 }

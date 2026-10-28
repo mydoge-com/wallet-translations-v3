@@ -3609,5 +3609,11 @@
   "seedExportVerifyAgain": "Esta verificação já não pode ser utilizada. Volta à página de exportação e verifica a tua identidade novamente.",
   "sessionRecoveryTitle": "Inicie sessão novamente para continuar",
   "verificationRequestExpiresAt": "Este pedido expira às {time}.",
-  "verificationRequestExpiresOn": "Este pedido expira em {date} às {time}."
+  "verificationRequestExpiresOn": "Este pedido expira em {date} às {time}.",
+  "verifySocialWalletOperation": "Verificar operação da Carteira DogeOS",
+  "verificationCodeSentToEmail": "Introduza o código de verificação enviado para o seu e-mail.",
+  "verificationCodeSentTo": "Introduza o código de verificação enviado para {destination}.",
+  "verificationCodeFromAuthenticator": "Introduza o código da sua aplicação de autenticação.",
+  "verificationCodeLabel": "Código de verificação",
+  "verifyAction": "Verificar"
 }
