@@ -3607,5 +3607,7 @@
   "seedExportTryAgain": "Не удалось безопасно продолжить экспорт сид-фразы. Попробуйте ещё раз.",
   "seedExportUnavailable": "Это действие сейчас недоступно. Пожалуйста, загляните позже.",
   "seedExportVerifyAgain": "Эту проверку больше нельзя использовать. Вернитесь на страницу экспорта и пройдите проверку заново.",
-  "sessionRecoveryTitle": "Войдите снова, чтобы продолжить"
+  "sessionRecoveryTitle": "Войдите снова, чтобы продолжить",
+  "verificationRequestExpiresAt": "Срок действия запроса истекает в {time}.",
+  "verificationRequestExpiresOn": "Срок действия запроса истекает {date} в {time}."
 }

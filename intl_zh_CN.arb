@@ -3607,5 +3607,7 @@
   "seedExportTryAgain": "无法安全地继续导出助记词，请重试。",
   "seedExportUnavailable": "此操作暂时不可用，请稍后再来查看。",
   "seedExportVerifyAgain": "此次验证已无法使用。请返回导出页面重新验证。",
-  "sessionRecoveryTitle": "请重新登录以继续"
+  "sessionRecoveryTitle": "请重新登录以继续",
+  "verificationRequestExpiresAt": "此请求将于 {time} 过期。",
+  "verificationRequestExpiresOn": "此请求将于 {date} {time} 过期。"
 }

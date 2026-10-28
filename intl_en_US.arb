@@ -1102,5 +1102,7 @@
   "seedExportTryAgain": "We could not safely continue the seed phrase export. Please try again.",
   "seedExportUnavailable": "This action is not available at this time. Please check back soon.",
   "seedExportVerifyAgain": "This verification can no longer be used. Return to the export page and verify again.",
-  "sessionRecoveryTitle": "Sign in again to continue"
+  "sessionRecoveryTitle": "Sign in again to continue",
+  "verificationRequestExpiresAt": "This request expires at {time}.",
+  "verificationRequestExpiresOn": "This request expires on {date} at {time}."
 }

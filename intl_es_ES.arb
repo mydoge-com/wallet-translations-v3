@@ -3607,5 +3607,7 @@
   "seedExportTryAgain": "No pudimos continuar la exportación de forma segura. Inténtalo de nuevo.",
   "seedExportUnavailable": "Esta acción no está disponible en este momento. Vuelve pronto.",
   "seedExportVerifyAgain": "Esta verificación ya no se puede utilizar. Vuelve a la página de exportación y verifica tu identidad de nuevo.",
-  "sessionRecoveryTitle": "Inicia sesión de nuevo para continuar"
+  "sessionRecoveryTitle": "Inicia sesión de nuevo para continuar",
+  "verificationRequestExpiresAt": "Esta solicitud caduca a las {time}.",
+  "verificationRequestExpiresOn": "Esta solicitud caduca el {date} a las {time}."
 }
