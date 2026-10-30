@@ -1544,7 +1544,7 @@
   "@viewSeedPhrase": {
     "description": "View seed phrase"
   },
-  "seedBackupTip1": "Phiên âm",
+  "seedBackupTip1": "Chép tay",
   "@seedBackupTip1": {
     "description": "Transcribe"
   },
@@ -1680,7 +1680,7 @@
   "@showWalletAddress": {
     "description": "Show wallet address and Tip button"
   },
-  "transferableLabel": "Có thể chuyển nhượng:",
+  "transferableLabel": "Có thể chuyển nhượng: ",
   "@transferableLabel": {
     "description": "Transferable: "
   },
@@ -3645,7 +3645,7 @@
   "cloudVerifyOrResetPassword": "Xác minh hoặc đặt lại mật khẩu",
   "cloudEnableBackup": "Bật sao lưu đám mây",
   "cloudNewPasswordDesc": "Đặt mật khẩu mới cho bản sao lưu đám mây của ví này. Các ví khác giữ nguyên mật khẩu.",
-  "cloudEnterPasswordDesc": "Nhập mật khẩu bạn đã dùng để lưu cụm từ hạt giống trên đám mây",
+  "cloudEnterPasswordDesc": "Nhập mật khẩu bạn đã dùng để lưu cụm từ khôi phục trên đám mây",
   "cloudSetPasswordDesc": "Đặt mật khẩu sao lưu đám mây. Mật khẩu không thể khôi phục nếu bị mất.",
   "cloudDeleteOldBackupTitle": "Xóa bản sao lưu cũ?",
   "cloudDeleteOldBackupSavedDesc": "Bản sao lưu mới đã được lưu. Xóa bản sao lưu đám mây trước đó?",

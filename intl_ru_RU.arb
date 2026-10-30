@@ -1680,7 +1680,7 @@
   "@showWalletAddress": {
     "description": "Show wallet address and Tip button"
   },
-  "transferableLabel": "Передаваемый:",
+  "transferableLabel": "Передаваемый: ",
   "@transferableLabel": {
     "description": "Transferable: "
   },
@@ -1776,7 +1776,7 @@
   "@timestamp": {
     "description": "Timestamp"
   },
-  "genesisTransaction": "Транзакция Бытия",
+  "genesisTransaction": "Генезис-транзакция",
   "@genesisTransaction": {
     "description": "Genesis Transaction"
   },
@@ -1800,7 +1800,7 @@
   "@addMessage": {
     "description": "Add message"
   },
-  "toSomeone": "в {someone}",
+  "toSomeone": "Кому: {someone}",
   "@toSomeone": {
     "description": "to {someone}"
   },

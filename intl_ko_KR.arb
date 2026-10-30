@@ -1544,7 +1544,7 @@
   "@viewSeedPhrase": {
     "description": "View seed phrase"
   },
-  "seedBackupTip1": "고쳐 쓰다",
+  "seedBackupTip1": "직접 옮겨 적기",
   "@seedBackupTip1": {
     "description": "Transcribe"
   },
@@ -1572,7 +1572,7 @@
   "@keepSeedSafeTitle": {
     "description": "Keep seed phrase safe"
   },
-  "keepSeedSafeNotice1": "귀하의 시드를 가진 사람은 누구나 귀하의 모든 자산에 접근할 수 있습니다. 전송을 받기 전에 반드시 시드를 백업하거나 앱을 삭제하시기 바랍니다.",
+  "keepSeedSafeNotice1": "시드를 가진 사람은 누구나 귀하의 모든 자산에 접근할 수 있습니다. 전송을 받거나 앱을 삭제하기 전에 반드시 시드를 백업하세요.",
   "@keepSeedSafeNotice1": {
     "description": "Anyone with your seed can access all your assets. Please be sure to back up your seed before you receive transfers or delete the app."
   },
@@ -1680,7 +1680,7 @@
   "@showWalletAddress": {
     "description": "Show wallet address and Tip button"
   },
-  "transferableLabel": "양도 가능:",
+  "transferableLabel": "양도 가능: ",
   "@transferableLabel": {
     "description": "Transferable: "
   },
@@ -1760,7 +1760,7 @@
   "@outputValue": {
     "description": "Output Value"
   },
-  "preview": "시사",
+  "preview": "미리보기",
   "@preview": {
     "description": "Preview"
   },

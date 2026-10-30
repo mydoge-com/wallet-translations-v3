@@ -1680,7 +1680,7 @@
   "@showWalletAddress": {
     "description": "Show wallet address and Tip button"
   },
-  "transferableLabel": "Можливість передачі:",
+  "transferableLabel": "Можливість передачі: ",
   "@transferableLabel": {
     "description": "Transferable: "
   },
@@ -3645,7 +3645,7 @@
   "cloudVerifyOrResetPassword": "Перевірити або скинути пароль",
   "cloudEnableBackup": "Увімкнути резервне копіювання в хмару",
   "cloudNewPasswordDesc": "Встановлює новий пароль для хмарної копії цього гаманця. Паролі інших гаманців не змінюються.",
-  "cloudEnterPasswordDesc": "Введіть пароль, з яким ви зберегли сід-фразу в хмарі",
+  "cloudEnterPasswordDesc": "Введіть пароль, з яким ви зберегли seed-фразу в хмарі",
   "cloudSetPasswordDesc": "Встановіть пароль для хмарної копії. У разі втрати його неможливо відновити.",
   "cloudDeleteOldBackupTitle": "Видалити стару копію?",
   "cloudDeleteOldBackupSavedDesc": "Нову копію збережено. Видалити попередню хмарну копію?",

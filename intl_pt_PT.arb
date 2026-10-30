@@ -3645,7 +3645,7 @@
   "cloudVerifyOrResetPassword": "Verificar ou redefinir a senha",
   "cloudEnableBackup": "Ativar backup na nuvem",
   "cloudNewPasswordDesc": "Define uma nova senha para o backup na nuvem desta carteira. As outras carteiras mantêm as senhas atuais.",
-  "cloudEnterPasswordDesc": "Digite a senha usada para armazenar sua frase semente na nuvem",
+  "cloudEnterPasswordDesc": "Digite a senha usada para armazenar sua frase de recuperação na nuvem",
   "cloudSetPasswordDesc": "Defina uma senha para o backup na nuvem. Ela não pode ser recuperada se for perdida.",
   "cloudDeleteOldBackupTitle": "Excluir backup antigo?",
   "cloudDeleteOldBackupSavedDesc": "Seu novo backup foi salvo. Excluir o backup anterior da nuvem?",
