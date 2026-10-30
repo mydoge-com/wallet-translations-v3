@@ -540,7 +540,7 @@
   "@to": {
     "description": "To"
   },
-  "toLowerCase": "к",
+  "toLowerCase": "Кому:",
   "@toLowerCase": {
     "description": "to"
   },

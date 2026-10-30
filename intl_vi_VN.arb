@@ -540,7 +540,7 @@
   "@to": {
     "description": "To"
   },
-  "toLowerCase": "ĐẾN",
+  "toLowerCase": "Đến",
   "@toLowerCase": {
     "description": "to"
   },
@@ -1560,7 +1560,7 @@
   "@keepSeedSafeNotice": {
     "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
   },
-  "hide": "Trốn",
+  "hide": "Ẩn",
   "@hide": {
     "description": "Hide"
   },
