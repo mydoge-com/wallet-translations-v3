@@ -548,7 +548,7 @@
   "@from": {
     "description": "From"
   },
-  "fromLowerCase": "từ",
+  "fromLowerCase": "Từ",
   "@fromLowerCase": {
     "description": "from"
   },
@@ -1036,7 +1036,7 @@
   "@addToAddress": {
     "description": "Add to address"
   },
-  "balanceLabel": "Sự cân bằng:",
+  "balanceLabel": "Số dư: ",
   "@balanceLabel": {
     "description": "Balance: "
   },
@@ -3652,15 +3652,17 @@
   "cloudDeleteOldBackupKeptDesc": "Thao tác này xóa bản sao lưu đám mây trước đó. Bản sao lưu mới được giữ lại.",
   "cloudPasswordPolicyHint": "Ít nhất 12 ký tự, gồm chữ hoa, số và ký hiệu",
   "cloudBackUpAction": "Sao lưu lên đám mây",
-  "cloudNotBackedUpTip": "Bạn chưa sao lưu ví lên đám mây.",
   "cloudNotOnDevice": "Không có trên thiết bị này: {count}",
   "cloudClassicBackups": "Bản sao lưu Classic: {count}",
   "cloudOnDevice": "Trên thiết bị này: {count}",
   "cloudRestoreWallet": "Khôi phục ví",
   "cloudWeakPassword": "Mật khẩu yếu: nên tạo bản sao lưu mới",
   "xAccountInUse": "Tài khoản X này đang được sử dụng. Vui lòng dùng tài khoản khác.",
-  "getDogeTestnetTokens": "Nhận token DOGE testnet \n (không có giá trị)",
   "unknownErrorOccurred": "Đã xảy ra lỗi không xác định",
   "creatingTransaction": "Đang tạo giao dịch...",
-  "sendingToLabel": "Gửi đến:"
+  "sendingToLabel": "Gửi đến:",
+  "unlistedDappsOffOpenAgain": "Các dApp không được liệt kê đang tắt. Hãy bật Cho phép dApp không được liệt kê trong Cài đặt nâng cao, rồi mở lại liên kết này.",
+  "unlistedDappUrlRejected": "Không thể mở URL này. Hãy dùng địa chỉ HTTPS công khai và bật Cho phép dApp không được liệt kê.",
+  "unlistedDappLinkUnavailable": "Liên kết dApp này không khả dụng. Hãy kiểm tra Cho phép dApp không được liệt kê trong Cài đặt nâng cao.",
+  "tokenTransferredSuccess": "Đã chuyển {token} thành công! TxHash: {hash}..."
 }

@@ -3652,15 +3652,17 @@
   "cloudDeleteOldBackupKeptDesc": "Esto elimina la copia de seguridad anterior de la nube. Tu nueva copia se conserva.",
   "cloudPasswordPolicyHint": "Al menos 12 caracteres, con una mayúscula, un número y un símbolo",
   "cloudBackUpAction": "Hacer copia en la nube",
-  "cloudNotBackedUpTip": "No has hecho una copia de seguridad de tu billetera en la nube.",
   "cloudNotOnDevice": "No está en este dispositivo: {count}",
   "cloudClassicBackups": "Copias de Classic: {count}",
   "cloudOnDevice": "En este dispositivo: {count}",
   "cloudRestoreWallet": "Restaurar billetera",
   "cloudWeakPassword": "Contraseña débil: recomendamos crear una nueva copia de seguridad",
   "xAccountInUse": "Esta cuenta de X ya está en uso. Usa otra.",
-  "getDogeTestnetTokens": "Obtener tokens DOGE de testnet \n (sin valor)",
   "unknownErrorOccurred": "Se produjo un error desconocido",
   "creatingTransaction": "Creando transacción...",
-  "sendingToLabel": "Enviando a:"
+  "sendingToLabel": "Enviando a:",
+  "unlistedDappsOffOpenAgain": "Las dApps no listadas están desactivadas. Activa Permitir dApps no listadas en los ajustes avanzados y vuelve a abrir este enlace.",
+  "unlistedDappUrlRejected": "No se puede abrir esta URL. Usa una dirección HTTPS pública y activa Permitir dApps no listadas.",
+  "unlistedDappLinkUnavailable": "Este enlace de dApp no está disponible. Revisa Permitir dApps no listadas en los ajustes avanzados.",
+  "tokenTransferredSuccess": "¡{token} transferido correctamente! TxHash: {hash}..."
 }

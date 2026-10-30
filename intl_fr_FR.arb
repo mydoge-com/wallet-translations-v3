@@ -2920,15 +2920,17 @@
   "cloudDeleteOldBackupKeptDesc": "Cette action supprime la sauvegarde cloud précédente. Votre nouvelle sauvegarde est conservée.",
   "cloudPasswordPolicyHint": "Au moins 12 caractères, avec une majuscule, un chiffre et un symbole",
   "cloudBackUpAction": "Sauvegarder dans le cloud",
-  "cloudNotBackedUpTip": "Vous n’avez pas sauvegardé votre wallet dans le cloud.",
   "cloudNotOnDevice": "Pas sur cet appareil : {count}",
   "cloudClassicBackups": "Sauvegardes Classic : {count}",
   "cloudOnDevice": "Sur cet appareil : {count}",
   "cloudRestoreWallet": "Restaurer le wallet",
   "cloudWeakPassword": "Mot de passe faible : nous recommandons de créer une nouvelle sauvegarde",
   "xAccountInUse": "Ce compte X est déjà utilisé. Veuillez en utiliser un autre.",
-  "getDogeTestnetTokens": "Obtenir des tokens DOGE testnet \n (sans valeur)",
   "unknownErrorOccurred": "Une erreur inconnue s’est produite",
   "creatingTransaction": "Création de la transaction...",
-  "sendingToLabel": "Envoi à :"
+  "sendingToLabel": "Envoi à :",
+  "unlistedDappsOffOpenAgain": "Les dApps non répertoriées sont désactivées. Activez « Autoriser les dApps non répertoriées » dans les réglages avancés, puis rouvrez ce lien.",
+  "unlistedDappUrlRejected": "Impossible d’ouvrir cette URL. Utilisez une adresse HTTPS publique et activez « Autoriser les dApps non répertoriées ».",
+  "unlistedDappLinkUnavailable": "Ce lien de dApp n’est pas disponible. Vérifiez « Autoriser les dApps non répertoriées » dans les réglages avancés.",
+  "tokenTransferredSuccess": "{token} transféré avec succès ! TxHash : {hash}..."
 }

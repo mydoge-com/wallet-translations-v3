@@ -548,7 +548,7 @@
   "@from": {
     "description": "From"
   },
-  "fromLowerCase": "от",
+  "fromLowerCase": "От:",
   "@fromLowerCase": {
     "description": "from"
   },
@@ -1036,7 +1036,7 @@
   "@addToAddress": {
     "description": "Add to address"
   },
-  "balanceLabel": "Баланс:",
+  "balanceLabel": "Баланс: ",
   "@balanceLabel": {
     "description": "Balance: "
   },
@@ -3652,15 +3652,17 @@
   "cloudDeleteOldBackupKeptDesc": "Предыдущая облачная копия будет удалена. Новая копия сохранится.",
   "cloudPasswordPolicyHint": "Не менее 12 символов, с заглавной буквой, цифрой и символом",
   "cloudBackUpAction": "Сохранить в облако",
-  "cloudNotBackedUpTip": "Вы не создали облачную копию кошелька.",
   "cloudNotOnDevice": "Не на этом устройстве: {count}",
   "cloudClassicBackups": "Копии Classic: {count}",
   "cloudOnDevice": "На этом устройстве: {count}",
   "cloudRestoreWallet": "Восстановить кошелек",
   "cloudWeakPassword": "Слабый пароль: рекомендуем создать новую копию",
   "xAccountInUse": "Этот аккаунт X уже используется. Используйте другой.",
-  "getDogeTestnetTokens": "Получить тестовые токены DOGE \n (без ценности)",
   "unknownErrorOccurred": "Произошла неизвестная ошибка",
   "creatingTransaction": "Создание транзакции...",
-  "sendingToLabel": "Отправка на:"
+  "sendingToLabel": "Отправка на:",
+  "unlistedDappsOffOpenAgain": "dApp не из каталога отключены. Включите «Разрешить dApp не из каталога» в расширенных настройках и снова откройте эту ссылку.",
+  "unlistedDappUrlRejected": "Не удалось открыть этот URL. Используйте публичный HTTPS-адрес и включите «Разрешить dApp не из каталога».",
+  "unlistedDappLinkUnavailable": "Эта ссылка на dApp недоступна. Проверьте «Разрешить dApp не из каталога» в расширенных настройках.",
+  "tokenTransferredSuccess": "{token} успешно переведён! TxHash: {hash}..."
 }

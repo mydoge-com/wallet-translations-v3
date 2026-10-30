@@ -1036,7 +1036,7 @@
   "@addToAddress": {
     "description": "Add to address"
   },
-  "balanceLabel": "Баланс:",
+  "balanceLabel": "Баланс: ",
   "@balanceLabel": {
     "description": "Balance: "
   },
@@ -3652,15 +3652,17 @@
   "cloudDeleteOldBackupKeptDesc": "Попередню хмарну копію буде видалено. Нова копія збережеться.",
   "cloudPasswordPolicyHint": "Щонайменше 12 символів, з великою літерою, цифрою та символом",
   "cloudBackUpAction": "Зберегти в хмару",
-  "cloudNotBackedUpTip": "Ви не створили хмарну копію гаманця.",
   "cloudNotOnDevice": "Не на цьому пристрої: {count}",
   "cloudClassicBackups": "Копії Classic: {count}",
   "cloudOnDevice": "На цьому пристрої: {count}",
   "cloudRestoreWallet": "Відновити гаманець",
   "cloudWeakPassword": "Слабкий пароль: радимо створити нову копію",
   "xAccountInUse": "Цей акаунт X уже використовується. Скористайтеся іншим.",
-  "getDogeTestnetTokens": "Отримати тестові токени DOGE \n (без вартості)",
   "unknownErrorOccurred": "Сталася невідома помилка",
   "creatingTransaction": "Створення транзакції...",
-  "sendingToLabel": "Надсилання на:"
+  "sendingToLabel": "Надсилання на:",
+  "unlistedDappsOffOpenAgain": "dApp поза каталогом вимкнено. Увімкніть «Дозволити dApp поза каталогом» у розширених налаштуваннях і знову відкрийте це посилання.",
+  "unlistedDappUrlRejected": "Не вдалося відкрити цю URL-адресу. Використайте публічну HTTPS-адресу й увімкніть «Дозволити dApp поза каталогом».",
+  "unlistedDappLinkUnavailable": "Це посилання на dApp недоступне. Перевірте «Дозволити dApp поза каталогом» у розширених налаштуваннях.",
+  "tokenTransferredSuccess": "{token} успішно переказано! TxHash: {hash}..."
 }

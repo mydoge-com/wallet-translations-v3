@@ -1147,15 +1147,17 @@
   "cloudDeleteOldBackupKeptDesc": "This removes the previous cloud backup. Your new backup is kept.",
   "cloudPasswordPolicyHint": "At least 12 characters, with a capital, number, and symbol",
   "cloudBackUpAction": "Back up to cloud",
-  "cloudNotBackedUpTip": "You haven’t backed up your wallet to the cloud.",
   "cloudNotOnDevice": "Not on this device:{count}",
   "cloudClassicBackups": "Classic Backups:{count}",
   "cloudOnDevice": "On this device:{count}",
   "cloudRestoreWallet": "Restore wallet",
   "cloudWeakPassword": "weak password: recommend creating new backup",
   "xAccountInUse": "This X account is in use. Please use another one.",
-  "getDogeTestnetTokens": "Get DOGE testnet tokens \n (zero value)",
   "unknownErrorOccurred": "An unknown error occurred",
   "creatingTransaction": "Creating transaction...",
-  "sendingToLabel": "Sending to:"
+  "sendingToLabel": "Sending to:",
+  "unlistedDappsOffOpenAgain": "Unlisted dApps are off. Turn on Allow unlisted dApps in Advanced settings, then open this link again.",
+  "unlistedDappUrlRejected": "Unable to open this URL. Use a public HTTPS address and enable Allow unlisted dApps.",
+  "unlistedDappLinkUnavailable": "This dApp link is unavailable. Check Allow unlisted dApps in Advanced Settings.",
+  "tokenTransferredSuccess": "{token} transferred successfully! TxHash: {hash}..."
 }

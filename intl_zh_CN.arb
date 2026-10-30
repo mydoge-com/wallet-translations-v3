@@ -3652,15 +3652,17 @@
   "cloudDeleteOldBackupKeptDesc": "这会移除之前的云备份，新备份将保留。",
   "cloudPasswordPolicyHint": "至少 12 个字符，包含大写字母、数字和符号",
   "cloudBackUpAction": "备份到云端",
-  "cloudNotBackedUpTip": "你尚未将钱包备份到云端。",
   "cloudNotOnDevice": "不在此设备上：{count}",
   "cloudClassicBackups": "Classic 备份：{count}",
   "cloudOnDevice": "在此设备上：{count}",
   "cloudRestoreWallet": "恢复钱包",
   "cloudWeakPassword": "密码强度较弱：建议创建新备份",
   "xAccountInUse": "此 X 账户已被使用，请使用其他账户。",
-  "getDogeTestnetTokens": "获取 DOGE 测试网代币 \n（无价值）",
   "unknownErrorOccurred": "发生未知错误",
   "creatingTransaction": "正在创建交易...",
-  "sendingToLabel": "发送至："
+  "sendingToLabel": "发送至：",
+  "unlistedDappsOffOpenAgain": "未收录的 dApp 已关闭。请在高级设置中开启“允许未收录的 dApp”，然后重新打开此链接。",
+  "unlistedDappUrlRejected": "无法打开此网址。请使用公开的 HTTPS 地址并开启“允许未收录的 dApp”。",
+  "unlistedDappLinkUnavailable": "此 dApp 链接不可用。请在高级设置中检查“允许未收录的 dApp”。",
+  "tokenTransferredSuccess": "{token} 转账成功！TxHash：{hash}..."
 }

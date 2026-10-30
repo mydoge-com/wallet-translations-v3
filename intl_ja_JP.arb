@@ -2920,15 +2920,17 @@
   "cloudDeleteOldBackupKeptDesc": "以前のクラウドバックアップを削除します。新しいバックアップは保持されます。",
   "cloudPasswordPolicyHint": "12 文字以上で、大文字、数字、記号を含めてください",
   "cloudBackUpAction": "クラウドにバックアップ",
-  "cloudNotBackedUpTip": "ウォレットをクラウドにバックアップしていません。",
   "cloudNotOnDevice": "このデバイスにない: {count}",
   "cloudClassicBackups": "Classic バックアップ: {count}",
   "cloudOnDevice": "このデバイスにある: {count}",
   "cloudRestoreWallet": "ウォレットを復元",
   "cloudWeakPassword": "弱いパスワード: 新しいバックアップの作成をおすすめします",
   "xAccountInUse": "この X アカウントは使用中です。別のアカウントを使用してください。",
-  "getDogeTestnetTokens": "DOGE テストネットトークンを入手 \n (価値なし)",
   "unknownErrorOccurred": "不明なエラーが発生しました",
   "creatingTransaction": "トランザクションを作成中...",
-  "sendingToLabel": "送信先:"
+  "sendingToLabel": "送信先:",
+  "unlistedDappsOffOpenAgain": "未掲載の dApp はオフです。詳細設定で「未掲載の dApp を許可」をオンにしてから、このリンクをもう一度開いてください。",
+  "unlistedDappUrlRejected": "この URL を開けません。公開 HTTPS アドレスを使用し、「未掲載の dApp を許可」をオンにしてください。",
+  "unlistedDappLinkUnavailable": "この dApp リンクは利用できません。詳細設定の「未掲載の dApp を許可」を確認してください。",
+  "tokenTransferredSuccess": "{token} を送信しました！ TxHash: {hash}..."
 }
