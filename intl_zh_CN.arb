@@ -3664,5 +3664,7 @@
   "unlistedDappsOffOpenAgain": "未收录的 dApp 已关闭。请在高级设置中开启“允许未收录的 dApp”，然后重新打开此链接。",
   "unlistedDappUrlRejected": "无法打开此网址。请使用公开的 HTTPS 地址并开启“允许未收录的 dApp”。",
   "unlistedDappLinkUnavailable": "此 dApp 链接不可用。请在高级设置中检查“允许未收录的 dApp”。",
-  "tokenTransferredSuccess": "{token} 转账成功！TxHash：{hash}..."
+  "tokenTransferredSuccess": "{token} 转账成功！TxHash：{hash}...",
+  "balancesMayBeOutOfDate": "部分余额可能不是最新的。",
+  "balancesDidNotLoad": "余额未能加载。"
 }

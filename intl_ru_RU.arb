@@ -3664,5 +3664,7 @@
   "unlistedDappsOffOpenAgain": "dApp не из каталога отключены. Включите «Разрешить dApp не из каталога» в расширенных настройках и снова откройте эту ссылку.",
   "unlistedDappUrlRejected": "Не удалось открыть этот URL. Используйте публичный HTTPS-адрес и включите «Разрешить dApp не из каталога».",
   "unlistedDappLinkUnavailable": "Эта ссылка на dApp недоступна. Проверьте «Разрешить dApp не из каталога» в расширенных настройках.",
-  "tokenTransferredSuccess": "{token} успешно переведён! TxHash: {hash}..."
+  "tokenTransferredSuccess": "{token} успешно переведён! TxHash: {hash}...",
+  "balancesMayBeOutOfDate": "Некоторые балансы могут быть устаревшими.",
+  "balancesDidNotLoad": "Не удалось загрузить балансы."
 }

@@ -3664,5 +3664,7 @@
   "unlistedDappsOffOpenAgain": "Os dApps não listados estão desativados. Ative Permitir dApps não listados nas configurações avançadas e abra este link novamente.",
   "unlistedDappUrlRejected": "Não foi possível abrir esta URL. Use um endereço HTTPS público e ative Permitir dApps não listados.",
   "unlistedDappLinkUnavailable": "Este link de dApp não está disponível. Verifique Permitir dApps não listados nas configurações avançadas.",
-  "tokenTransferredSuccess": "{token} transferido com sucesso! TxHash: {hash}..."
+  "tokenTransferredSuccess": "{token} transferido com sucesso! TxHash: {hash}...",
+  "balancesMayBeOutOfDate": "Alguns saldos podem estar desatualizados.",
+  "balancesDidNotLoad": "Não foi possível carregar os saldos."
 }

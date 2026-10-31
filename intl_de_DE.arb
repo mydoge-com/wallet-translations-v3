@@ -591,7 +591,7 @@
   "slippageTooHigh": "Slippage zu hoch",
   "slippageTooHighHint": "Handel kann zu potenziellen Verlusten führen, bitte handele vorsichtig.",
   "tokenNotListHint2": "Token ist nicht gelistet. Handel kann zu Vermögensverlusten führen.",
-  "insufficientBalance": "Unzureichende Balance",
+  "insufficientBalance": "Unzureichendes Guthaben",
   "getStartWithDogeWallet": "Starte mit einer Social Wallet per Social Login - deine aktuelle Wallet bleibt als MyDoge Classic sicher.",
   "filterHighRiskTokens": "Riskante Tokens mit einem Klick herausfiltern. Keine Assets gehen verloren.",
   "setUpProfile": "Dein Profil für die neue MyDoge Erfahrung einrichten?",
@@ -1144,5 +1144,7 @@
   "unlistedDappsOffOpenAgain": "Nicht gelistete dApps sind deaktiviert. Aktiviere „Nicht gelistete dApps zulassen“ in den erweiterten Einstellungen und öffne diesen Link dann erneut.",
   "unlistedDappUrlRejected": "Diese URL kann nicht geöffnet werden. Verwende eine öffentliche HTTPS-Adresse und aktiviere „Nicht gelistete dApps zulassen“.",
   "unlistedDappLinkUnavailable": "Dieser dApp-Link ist nicht verfügbar. Prüfe „Nicht gelistete dApps zulassen“ in den erweiterten Einstellungen.",
-  "tokenTransferredSuccess": "{token} erfolgreich übertragen! TxHash: {hash}..."
+  "tokenTransferredSuccess": "{token} erfolgreich übertragen! TxHash: {hash}...",
+  "balancesMayBeOutOfDate": "Einige Guthaben sind möglicherweise nicht aktuell.",
+  "balancesDidNotLoad": "Guthaben konnten nicht geladen werden."
 }

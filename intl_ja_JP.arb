@@ -2932,5 +2932,7 @@
   "unlistedDappsOffOpenAgain": "未掲載の dApp はオフです。詳細設定で「未掲載の dApp を許可」をオンにしてから、このリンクをもう一度開いてください。",
   "unlistedDappUrlRejected": "この URL を開けません。公開 HTTPS アドレスを使用し、「未掲載の dApp を許可」をオンにしてください。",
   "unlistedDappLinkUnavailable": "この dApp リンクは利用できません。詳細設定の「未掲載の dApp を許可」を確認してください。",
-  "tokenTransferredSuccess": "{token} を送信しました！ TxHash: {hash}..."
+  "tokenTransferredSuccess": "{token} を送信しました！ TxHash: {hash}...",
+  "balancesMayBeOutOfDate": "一部の残高が最新ではない可能性があります。",
+  "balancesDidNotLoad": "残高を読み込めませんでした。"
 }

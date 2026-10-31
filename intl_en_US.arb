@@ -1159,5 +1159,7 @@
   "unlistedDappsOffOpenAgain": "Unlisted dApps are off. Turn on Allow unlisted dApps in Advanced settings, then open this link again.",
   "unlistedDappUrlRejected": "Unable to open this URL. Use a public HTTPS address and enable Allow unlisted dApps.",
   "unlistedDappLinkUnavailable": "This dApp link is unavailable. Check Allow unlisted dApps in Advanced Settings.",
-  "tokenTransferredSuccess": "{token} transferred successfully! TxHash: {hash}..."
+  "tokenTransferredSuccess": "{token} transferred successfully! TxHash: {hash}...",
+  "balancesMayBeOutOfDate": "Some balances may be out of date.",
+  "balancesDidNotLoad": "Balances didn't load."
 }

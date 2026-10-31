@@ -3664,5 +3664,7 @@
   "unlistedDappsOffOpenAgain": "dApp поза каталогом вимкнено. Увімкніть «Дозволити dApp поза каталогом» у розширених налаштуваннях і знову відкрийте це посилання.",
   "unlistedDappUrlRejected": "Не вдалося відкрити цю URL-адресу. Використайте публічну HTTPS-адресу й увімкніть «Дозволити dApp поза каталогом».",
   "unlistedDappLinkUnavailable": "Це посилання на dApp недоступне. Перевірте «Дозволити dApp поза каталогом» у розширених налаштуваннях.",
-  "tokenTransferredSuccess": "{token} успішно переказано! TxHash: {hash}..."
+  "tokenTransferredSuccess": "{token} успішно переказано! TxHash: {hash}...",
+  "balancesMayBeOutOfDate": "Деякі баланси можуть бути застарілими.",
+  "balancesDidNotLoad": "Не вдалося завантажити баланси."
 }

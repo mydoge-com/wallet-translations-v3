@@ -2932,5 +2932,7 @@
   "unlistedDappsOffOpenAgain": "Les dApps non répertoriées sont désactivées. Activez « Autoriser les dApps non répertoriées » dans les réglages avancés, puis rouvrez ce lien.",
   "unlistedDappUrlRejected": "Impossible d’ouvrir cette URL. Utilisez une adresse HTTPS publique et activez « Autoriser les dApps non répertoriées ».",
   "unlistedDappLinkUnavailable": "Ce lien de dApp n’est pas disponible. Vérifiez « Autoriser les dApps non répertoriées » dans les réglages avancés.",
-  "tokenTransferredSuccess": "{token} transféré avec succès ! TxHash : {hash}..."
+  "tokenTransferredSuccess": "{token} transféré avec succès ! TxHash : {hash}...",
+  "balancesMayBeOutOfDate": "Certains soldes ne sont peut-être pas à jour.",
+  "balancesDidNotLoad": "Les soldes n’ont pas pu être chargés."
 }

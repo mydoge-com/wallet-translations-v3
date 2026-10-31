@@ -3664,5 +3664,7 @@
   "unlistedDappsOffOpenAgain": "Các dApp không được liệt kê đang tắt. Hãy bật Cho phép dApp không được liệt kê trong Cài đặt nâng cao, rồi mở lại liên kết này.",
   "unlistedDappUrlRejected": "Không thể mở URL này. Hãy dùng địa chỉ HTTPS công khai và bật Cho phép dApp không được liệt kê.",
   "unlistedDappLinkUnavailable": "Liên kết dApp này không khả dụng. Hãy kiểm tra Cho phép dApp không được liệt kê trong Cài đặt nâng cao.",
-  "tokenTransferredSuccess": "Đã chuyển {token} thành công! TxHash: {hash}..."
+  "tokenTransferredSuccess": "Đã chuyển {token} thành công! TxHash: {hash}...",
+  "balancesMayBeOutOfDate": "Một số số dư có thể chưa được cập nhật.",
+  "balancesDidNotLoad": "Không thể tải số dư."
 }
