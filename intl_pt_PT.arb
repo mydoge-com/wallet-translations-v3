@@ -3703,5 +3703,9 @@
   "swapAtLeast": "Pelo menos {amount} {token} (${usd})",
   "swapMaximum": "Máximo {amount} {token} (${usd})",
   "swapAtLeastForFee": "São necessários pelo menos {amount} {token} para a taxa. Adiciona {token}.",
-  "swipeToConfirm": "Desliza para confirmar"
+  "swipeToConfirm": "Desliza para confirmar",
+  "authorizationAmount": "Valor autorizado",
+  "questsRemainingToEarnTicket": "{count, plural, one{Mais {count} missão para o próximo bilhete} other{Mais {count} missões para o próximo bilhete}}",
+  "questingTicketsReadyToClaim": "{count, plural, one{{count} bilhete pronto a reclamar} other{{count} bilhetes prontos a reclamar}}",
+  "questingStampProgress": "{completed} de {goal} missões para um bilhete da Roda"
 }

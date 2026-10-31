@@ -2971,5 +2971,9 @@
   "swapAtLeast": "Au moins {amount} {token} (${usd})",
   "swapMaximum": "Maximum {amount} {token} (${usd})",
   "swapAtLeastForFee": "Au moins {amount} {token} sont requis pour les frais. Ajoutez des {token}.",
-  "swipeToConfirm": "Glissez pour confirmer"
+  "swipeToConfirm": "Glissez pour confirmer",
+  "authorizationAmount": "Montant autorisé",
+  "questsRemainingToEarnTicket": "{count, plural, one{Encore {count} quête pour votre prochain ticket} other{Encore {count} quêtes pour votre prochain ticket}}",
+  "questingTicketsReadyToClaim": "{count, plural, one{{count} ticket à récupérer} other{{count} tickets à récupérer}}",
+  "questingStampProgress": "{completed} quêtes sur {goal} vers un ticket de la Roue"
 }

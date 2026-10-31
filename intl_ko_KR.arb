@@ -3703,5 +3703,9 @@
   "swapAtLeast": "최소 {amount} {token} (${usd})",
   "swapMaximum": "최대 {amount} {token} (${usd})",
   "swapAtLeastForFee": "수수료에 최소 {amount} {token}이(가) 필요합니다. {token}을(를) 추가하세요.",
-  "swipeToConfirm": "밀어서 확인"
+  "swipeToConfirm": "밀어서 확인",
+  "authorizationAmount": "승인 금액",
+  "questsRemainingToEarnTicket": "{count, plural, one{다음 티켓까지 퀘스트 {count}개 남음} other{다음 티켓까지 퀘스트 {count}개 남음}}",
+  "questingTicketsReadyToClaim": "{count, plural, one{받을 수 있는 티켓 {count}장} other{받을 수 있는 티켓 {count}장}}",
+  "questingStampProgress": "휠 티켓까지 퀘스트 {completed}/{goal}"
 }

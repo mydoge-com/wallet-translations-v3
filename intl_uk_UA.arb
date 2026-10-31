@@ -3703,5 +3703,9 @@
   "swapAtLeast": "Щонайменше {amount} {token} (${usd})",
   "swapMaximum": "Максимум {amount} {token} (${usd})",
   "swapAtLeastForFee": "Для комісії потрібно щонайменше {amount} {token}. Поповніть {token}.",
-  "swipeToConfirm": "Проведіть для підтвердження"
+  "swipeToConfirm": "Проведіть для підтвердження",
+  "authorizationAmount": "Дозволена сума",
+  "questsRemainingToEarnTicket": "{count, plural, one{Завдань до наступного квитка: {count}} other{Завдань до наступного квитка: {count}}}",
+  "questingTicketsReadyToClaim": "{count, plural, one{Квитків можна отримати: {count}} other{Квитків можна отримати: {count}}}",
+  "questingStampProgress": "Завдань до квитка колеса: {completed} із {goal}"
 }

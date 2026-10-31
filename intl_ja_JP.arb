@@ -2971,5 +2971,9 @@
   "swapAtLeast": "最低 {amount} {token}（${usd}）",
   "swapMaximum": "最大 {amount} {token}（${usd}）",
   "swapAtLeastForFee": "手数料に最低 {amount} {token} が必要です。{token}を追加してください。",
-  "swipeToConfirm": "スワイプして確認"
+  "swipeToConfirm": "スワイプして確認",
+  "authorizationAmount": "承認額",
+  "questsRemainingToEarnTicket": "{count, plural, one{次のチケットまであと{count}クエスト} other{次のチケットまであと{count}クエスト}}",
+  "questingTicketsReadyToClaim": "{count, plural, one{受け取れるチケット{count}枚} other{受け取れるチケット{count}枚}}",
+  "questingStampProgress": "ホイールチケットまで {completed}/{goal} クエスト"
 }

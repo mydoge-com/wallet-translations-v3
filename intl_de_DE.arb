@@ -1183,5 +1183,9 @@
   "swapAtLeast": "Mindestens {amount} {token} (${usd})",
   "swapMaximum": "Maximal {amount} {token} (${usd})",
   "swapAtLeastForFee": "Für die Gebühr werden mindestens {amount} {token} benötigt. Bitte {token} hinzufügen.",
-  "swipeToConfirm": "Zum Bestätigen wischen"
+  "swipeToConfirm": "Zum Bestätigen wischen",
+  "authorizationAmount": "Genehmigter Betrag",
+  "questsRemainingToEarnTicket": "{count, plural, one{Noch {count} Quest bis zum nächsten Ticket} other{Noch {count} Quests bis zum nächsten Ticket}}",
+  "questingTicketsReadyToClaim": "{count, plural, one{{count} Ticket zum Abholen bereit} other{{count} Tickets zum Abholen bereit}}",
+  "questingStampProgress": "{completed} von {goal} Quests bringen dich einem Wheel-Ticket näher"
 }

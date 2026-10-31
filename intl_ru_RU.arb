@@ -3703,5 +3703,9 @@
   "swapAtLeast": "Минимум {amount} {token} (${usd})",
   "swapMaximum": "Максимум {amount} {token} (${usd})",
   "swapAtLeastForFee": "Для комиссии нужно минимум {amount} {token}. Пополните {token}.",
-  "swipeToConfirm": "Проведите для подтверждения"
+  "swipeToConfirm": "Проведите для подтверждения",
+  "authorizationAmount": "Разрешённая сумма",
+  "questsRemainingToEarnTicket": "{count, plural, one{Заданий до следующего билета: {count}} other{Заданий до следующего билета: {count}}}",
+  "questingTicketsReadyToClaim": "{count, plural, one{Билетов можно получить: {count}} other{Билетов можно получить: {count}}}",
+  "questingStampProgress": "Заданий до билета колеса: {completed} из {goal}"
 }
