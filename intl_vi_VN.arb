@@ -540,7 +540,7 @@
   "@to": {
     "description": "To"
   },
-  "toLowerCase": "ĐẾN",
+  "toLowerCase": "Đến",
   "@toLowerCase": {
     "description": "to"
   },
@@ -548,7 +548,7 @@
   "@from": {
     "description": "From"
   },
-  "fromLowerCase": "từ",
+  "fromLowerCase": "Từ",
   "@fromLowerCase": {
     "description": "from"
   },
@@ -784,7 +784,7 @@
   "@errorNetworkRemind": {
     "description": "Your network is experiencing some problems, please check and try refreshing"
   },
-  "refresh": "Làm cho khỏe lại",
+  "refresh": "Làm mới",
   "@refresh": {
     "description": "Refresh"
   },
@@ -1036,7 +1036,7 @@
   "@addToAddress": {
     "description": "Add to address"
   },
-  "balanceLabel": "Sự cân bằng:",
+  "balanceLabel": "Số dư: ",
   "@balanceLabel": {
     "description": "Balance: "
   },
@@ -1544,7 +1544,7 @@
   "@viewSeedPhrase": {
     "description": "View seed phrase"
   },
-  "seedBackupTip1": "Phiên âm",
+  "seedBackupTip1": "Chép tay",
   "@seedBackupTip1": {
     "description": "Transcribe"
   },
@@ -1560,7 +1560,7 @@
   "@keepSeedSafeNotice": {
     "description": "Anyone with your seed can access all your assets. Please keep the information to yourself."
   },
-  "hide": "Trốn",
+  "hide": "Ẩn",
   "@hide": {
     "description": "Hide"
   },
@@ -1680,7 +1680,7 @@
   "@showWalletAddress": {
     "description": "Show wallet address and Tip button"
   },
-  "transferableLabel": "Có thể chuyển nhượng:",
+  "transferableLabel": "Có thể chuyển nhượng: ",
   "@transferableLabel": {
     "description": "Transferable: "
   },
@@ -3615,5 +3615,56 @@
   "verificationCodeSentTo": "Nhập mã xác minh đã được gửi đến {destination}.",
   "verificationCodeFromAuthenticator": "Nhập mã từ ứng dụng xác thực của bạn.",
   "verificationCodeLabel": "Mã xác minh",
-  "verifyAction": "Xác minh"
+  "verifyAction": "Xác minh",
+  "sendTokenBalancesLoadFailed": "Không thể tải số dư token.",
+  "sendTokensHidden": "Các token có số dư của bạn đang bị ẩn. Hãy bỏ ẩn trong Quản lý token để gửi.",
+  "sendNoTokensOnNetwork": "Không có token nào có số dư trên mạng này.",
+  "sendNoTokensWithBalance": "Không có token nào có số dư để gửi.",
+  "yourWallets": "Ví của bạn",
+  "walletNotBackedUp": "Chưa sao lưu",
+  "insufficientBalanceForNetworkFee": "Số dư {symbol} không đủ để trả phí mạng",
+  "sendWalletChanged": "Ví đã chọn đã thay đổi. Hãy kiểm tra lại giao dịch chuyển và thử lại.",
+  "themeDark": "Tối",
+  "themeLight": "Sáng",
+  "themeSystem": "Hệ thống",
+  "deletionVerificationFailed": "Xác minh đã bị hủy hoặc không thành công. Chưa có yêu cầu xóa nào được gửi.",
+  "deletionConfirmFailed": "Chúng tôi không thể xác nhận yêu cầu xóa của bạn. Vui lòng thử lại.",
+  "deletionRequestReceived": "Đã nhận yêu cầu",
+  "deletionRequested": "Đã yêu cầu xóa",
+  "requestAccountDeletion": "Yêu cầu xóa tài khoản",
+  "deletionAcceptedDesc": "Chúng tôi đã nhận được yêu cầu của bạn. Đội ngũ của chúng tôi sẽ hoàn tất việc xóa tài khoản trong vòng 30 ngày kể từ yêu cầu ban đầu. Bạn vẫn có thể dùng tài khoản đến lúc đó.",
+  "deletionWarningDesc": "Đội ngũ của chúng tôi sẽ xóa vĩnh viễn hồ sơ MyDoge và dữ liệu ứng dụng liên quan trong vòng 30 ngày kể từ yêu cầu ban đầu. Bạn vẫn có thể dùng tài khoản đến lúc đó.",
+  "deletionFundsNotice": "Tiền và lịch sử giao dịch của bạn được ghi trên blockchain. Xóa hồ sơ MyDoge không xóa được chúng.\n\nChúng tôi giữ khóa ví xã hội và liên kết của chúng với đăng nhập xã hội để duy trì quyền truy cập vào tiền của bạn. Hủy các khóa này có thể khiến bạn vĩnh viễn mất quyền truy cập vào số tiền còn lại trong ví.\n\nSau khi xóa, hãy đăng nhập lại bằng cùng phương thức và cùng tài khoản xã hội để kết nối lại ví hiện có. Sau đó, bạn có thể xem số dư hoặc gửi số tiền còn lại đến địa chỉ khác. Bạn cũng có thể chuyển tiền trước khi yêu cầu xóa.\n\nCác ví cục bộ đã nhập vẫn ở trên thiết bị này. Hãy sao lưu cụm từ khôi phục để truy cập chúng trên thiết bị khác.",
+  "unlistedDappsAllowTitle": "Cho phép dApp không được liệt kê?",
+  "unlistedDappsAllowDesc": "Các dApp không được liệt kê chưa được MyDoge xác minh. Tên, hình ảnh và mô tả của chúng lấy từ liên kết. Hãy kiểm tra địa chỉ trang web và chỉ chấp thuận những yêu cầu bạn hiểu.",
+  "allowAction": "Cho phép",
+  "unlistedDappsEnableFailed": "Không thể lưu cài đặt này. Các dApp không được liệt kê vẫn tắt. Hãy thử lại.",
+  "unlistedDappsDisableFailed": "Các dApp không được liệt kê đã tắt trong phiên này, nhưng không thể lưu cài đặt. Hãy thử lại.",
+  "unlistedDappsToggle": "Cho phép dApp không được liệt kê",
+  "unlistedDappsHint": "Nhập URL HTTPS công khai vào Tìm kiếm hoặc mở liên kết để thử dApp không được liệt kê. Hãy kiểm tra địa chỉ trang web trước khi mở. Tắt tùy chọn này sẽ đóng các phiên không chính thức và hủy các yêu cầu đang chờ.",
+  "cloudVerifyOrResetPassword": "Xác minh hoặc đặt lại mật khẩu",
+  "cloudEnableBackup": "Bật sao lưu đám mây",
+  "cloudNewPasswordDesc": "Đặt mật khẩu mới cho bản sao lưu đám mây của ví này. Các ví khác giữ nguyên mật khẩu.",
+  "cloudEnterPasswordDesc": "Nhập mật khẩu bạn đã dùng để lưu cụm từ khôi phục trên đám mây",
+  "cloudSetPasswordDesc": "Đặt mật khẩu sao lưu đám mây. Mật khẩu không thể khôi phục nếu bị mất.",
+  "cloudDeleteOldBackupTitle": "Xóa bản sao lưu cũ?",
+  "cloudDeleteOldBackupSavedDesc": "Bản sao lưu mới đã được lưu. Xóa bản sao lưu đám mây trước đó?",
+  "cloudDeleteOldBackupKeptDesc": "Thao tác này xóa bản sao lưu đám mây trước đó. Bản sao lưu mới được giữ lại.",
+  "cloudPasswordPolicyHint": "Ít nhất 12 ký tự, gồm chữ hoa, số và ký hiệu",
+  "cloudBackUpAction": "Sao lưu lên đám mây",
+  "cloudNotOnDevice": "Không có trên thiết bị này: {count}",
+  "cloudClassicBackups": "Bản sao lưu Classic: {count}",
+  "cloudOnDevice": "Trên thiết bị này: {count}",
+  "cloudRestoreWallet": "Khôi phục ví",
+  "cloudWeakPassword": "Mật khẩu yếu: nên tạo bản sao lưu mới",
+  "xAccountInUse": "Tài khoản X này đang được sử dụng. Vui lòng dùng tài khoản khác.",
+  "unknownErrorOccurred": "Đã xảy ra lỗi không xác định",
+  "creatingTransaction": "Đang tạo giao dịch...",
+  "sendingToLabel": "Gửi đến:",
+  "unlistedDappsOffOpenAgain": "Các dApp không được liệt kê đang tắt. Hãy bật Cho phép dApp không được liệt kê trong Cài đặt nâng cao, rồi mở lại liên kết này.",
+  "unlistedDappUrlRejected": "Không thể mở URL này. Hãy dùng địa chỉ HTTPS công khai và bật Cho phép dApp không được liệt kê.",
+  "unlistedDappLinkUnavailable": "Liên kết dApp này không khả dụng. Hãy kiểm tra Cho phép dApp không được liệt kê trong Cài đặt nâng cao.",
+  "tokenTransferredSuccess": "Đã chuyển {token} thành công! TxHash: {hash}...",
+  "balancesMayBeOutOfDate": "Một số số dư có thể chưa được cập nhật.",
+  "balancesDidNotLoad": "Không thể tải số dư."
 }
