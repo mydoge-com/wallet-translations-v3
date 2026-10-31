@@ -784,7 +784,7 @@
   "@errorNetworkRemind": {
     "description": "Your network is experiencing some problems, please check and try refreshing"
   },
-  "refresh": "Làm cho khỏe lại",
+  "refresh": "Làm mới",
   "@refresh": {
     "description": "Refresh"
   },
