@@ -3468,7 +3468,7 @@
   "couldNotDecryptDataWrongPassword": "No se pudieron descifrar los datos. Contraseña incorrecta.",
   "createPIN": "Crear PIN",
   "createdAt": "Creado en: {time}",
-  "dappRedirectDisclaimerPrefix": "Al tocar Abrir dApp, será redirigido a",
+  "dappRedirectDisclaimerPrefix": "Al tocar Abrir dApp, será redirigido a ",
   "dappRedirectDisclaimerSuffix": ". No somos responsables de su contenido.",
   "dataDecryptError": "Error de descifrado de datos",
   "defaultDappDescription": "Intercambie, gane y desarrolle el protocolo líder de comercio de cifrado descentralizado",

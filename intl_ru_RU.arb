@@ -3468,7 +3468,7 @@
   "couldNotDecryptDataWrongPassword": "Не удалось расшифровать данные. Неправильный пароль.",
   "createPIN": "Создать PIN",
   "createdAt": "Создано: {time}",
-  "dappRedirectDisclaimerPrefix": "Нажав «Открыть dApp», вы будете перенаправлены на",
+  "dappRedirectDisclaimerPrefix": "Нажав «Открыть dApp», вы будете перенаправлены на ",
   "dappRedirectDisclaimerSuffix": ". Мы не несем ответственности за его содержание.",
   "dataDecryptError": "Ошибка расшифровки данных",
   "defaultDappDescription": "Обменивайтесь, зарабатывайте и развивайтесь на основе ведущего децентрализованного протокола криптовалютной торговли",

@@ -3468,7 +3468,7 @@
   "couldNotDecryptDataWrongPassword": "데이터를 해독할 수 없습니다. 비밀번호가 잘못되었습니다.",
   "createPIN": "PIN 생성",
   "createdAt": "생성 날짜: {time}",
-  "dappRedirectDisclaimerPrefix": "dApp 열기를 탭하면 다음으로 리디렉션됩니다.",
+  "dappRedirectDisclaimerPrefix": "dApp 열기를 탭하면 다음으로 리디렉션됩니다. ",
   "dappRedirectDisclaimerSuffix": ". 우리는 그 내용에 대해 책임을 지지 않습니다.",
   "dataDecryptError": "데이터 복호화 오류",
   "defaultDappDescription": "선도적인 분산형 암호화폐 거래 프로토콜을 교환하고, 적립하고, 구축하세요.",

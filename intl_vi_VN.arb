@@ -3468,7 +3468,7 @@
   "couldNotDecryptDataWrongPassword": "Không thể giải mã dữ liệu. Mật khẩu sai.",
   "createPIN": "Tạo PIN",
   "createdAt": "Được tạo tại: {time}",
-  "dappRedirectDisclaimerPrefix": "Bằng cách nhấn Mở dApp, bạn sẽ được chuyển hướng đến",
+  "dappRedirectDisclaimerPrefix": "Bằng cách nhấn Mở dApp, bạn sẽ được chuyển hướng đến ",
   "dappRedirectDisclaimerSuffix": ". Chúng tôi không chịu trách nhiệm về nội dung của nó.",
   "dataDecryptError": "Lỗi giải mã dữ liệu",
   "defaultDappDescription": "Trao đổi, kiếm tiền và xây dựng trên giao thức giao dịch tiền điện tử phi tập trung hàng đầu",
