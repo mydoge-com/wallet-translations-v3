@@ -3707,5 +3707,6 @@
   "authorizationAmount": "Importe autorizado",
   "questsRemainingToEarnTicket": "{count, plural, one{{count} misión más para tu próximo ticket} other{{count} misiones más para tu próximo ticket}}",
   "questingTicketsReadyToClaim": "{count, plural, one{{count} ticket listo para reclamar} other{{count} tickets listos para reclamar}}",
-  "questingStampProgress": "{completed} de {goal} misiones hacia un ticket de la Rueda"
+  "questingStampProgress": "{completed} de {goal} misiones hacia un ticket de la Rueda",
+  "authorizedCurrency": "Moneda autorizada"
 }

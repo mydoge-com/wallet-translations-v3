@@ -2975,5 +2975,6 @@
   "authorizationAmount": "Montant autorisé",
   "questsRemainingToEarnTicket": "{count, plural, one{Encore {count} quête pour votre prochain ticket} other{Encore {count} quêtes pour votre prochain ticket}}",
   "questingTicketsReadyToClaim": "{count, plural, one{{count} ticket à récupérer} other{{count} tickets à récupérer}}",
-  "questingStampProgress": "{completed} quêtes sur {goal} vers un ticket de la Roue"
+  "questingStampProgress": "{completed} quêtes sur {goal} vers un ticket de la Roue",
+  "authorizedCurrency": "Devise autorisée"
 }

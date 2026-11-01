@@ -3707,5 +3707,6 @@
   "authorizationAmount": "授权金额",
   "questsRemainingToEarnTicket": "{count, plural, one{再完成 {count} 个任务即可获得下一张奖券} other{再完成 {count} 个任务即可获得下一张奖券}}",
   "questingTicketsReadyToClaim": "{count, plural, one{{count} 张奖券可领取} other{{count} 张奖券可领取}}",
-  "questingStampProgress": "距转盘奖券还差：{completed}/{goal} 个任务"
+  "questingStampProgress": "距转盘奖券还差：{completed}/{goal} 个任务",
+  "authorizedCurrency": "授权币种"
 }

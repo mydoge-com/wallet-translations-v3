@@ -2975,5 +2975,6 @@
   "authorizationAmount": "承認額",
   "questsRemainingToEarnTicket": "{count, plural, one{次のチケットまであと{count}クエスト} other{次のチケットまであと{count}クエスト}}",
   "questingTicketsReadyToClaim": "{count, plural, one{受け取れるチケット{count}枚} other{受け取れるチケット{count}枚}}",
-  "questingStampProgress": "ホイールチケットまで {completed}/{goal} クエスト"
+  "questingStampProgress": "ホイールチケットまで {completed}/{goal} クエスト",
+  "authorizedCurrency": "承認通貨"
 }

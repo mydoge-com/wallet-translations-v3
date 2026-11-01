@@ -3707,5 +3707,6 @@
   "authorizationAmount": "Разрешённая сумма",
   "questsRemainingToEarnTicket": "{count, plural, one{Заданий до следующего билета: {count}} other{Заданий до следующего билета: {count}}}",
   "questingTicketsReadyToClaim": "{count, plural, one{Билетов можно получить: {count}} other{Билетов можно получить: {count}}}",
-  "questingStampProgress": "Заданий до билета колеса: {completed} из {goal}"
+  "questingStampProgress": "Заданий до билета колеса: {completed} из {goal}",
+  "authorizedCurrency": "Разрешённая валюта"
 }

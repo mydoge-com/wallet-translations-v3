@@ -3707,5 +3707,6 @@
   "authorizationAmount": "Valor autorizado",
   "questsRemainingToEarnTicket": "{count, plural, one{Mais {count} missão para o próximo bilhete} other{Mais {count} missões para o próximo bilhete}}",
   "questingTicketsReadyToClaim": "{count, plural, one{{count} bilhete pronto a reclamar} other{{count} bilhetes prontos a reclamar}}",
-  "questingStampProgress": "{completed} de {goal} missões para um bilhete da Roda"
+  "questingStampProgress": "{completed} de {goal} missões para um bilhete da Roda",
+  "authorizedCurrency": "Moeda autorizada"
 }

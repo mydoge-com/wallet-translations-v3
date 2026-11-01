@@ -3707,5 +3707,6 @@
   "authorizationAmount": "Số tiền được ủy quyền",
   "questsRemainingToEarnTicket": "{count, plural, one{Còn {count} nhiệm vụ để nhận vé tiếp theo} other{Còn {count} nhiệm vụ để nhận vé tiếp theo}}",
   "questingTicketsReadyToClaim": "{count, plural, one{{count} vé sẵn sàng để nhận} other{{count} vé sẵn sàng để nhận}}",
-  "questingStampProgress": "{completed}/{goal} nhiệm vụ để nhận vé Vòng quay"
+  "questingStampProgress": "{completed}/{goal} nhiệm vụ để nhận vé Vòng quay",
+  "authorizedCurrency": "Tiền được ủy quyền"
 }

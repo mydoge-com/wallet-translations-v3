@@ -1199,5 +1199,6 @@
   "swapMaximum": "Maximum {amount} {token} (${usd})",
   "swapAtLeastForFee": "At least {amount} {token} is required to cover the fee. Please add {token}.",
   "swipeToConfirm": "Swipe to Confirm",
-  "authorizationAmount": "Authorization Amount"
+  "authorizationAmount": "Authorization Amount",
+  "authorizedCurrency": "Authorized Currency"
 }
