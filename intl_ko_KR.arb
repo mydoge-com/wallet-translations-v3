@@ -872,7 +872,7 @@
   "@bindFailedTip": {
     "description": "Authenticator code is incorrect, linking failed"
   },
-  "retry": "다시 해 보다",
+  "retry": "다시 시도",
   "@retry": {
     "description": "Retry"
   },
@@ -1020,7 +1020,7 @@
   "@seedPhrases": {
     "description": "Seed Phrases"
   },
-  "close": "닫다",
+  "close": "닫기",
   "@close": {
     "description": "Close"
   },

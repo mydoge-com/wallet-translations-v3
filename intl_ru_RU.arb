@@ -1020,7 +1020,7 @@
   "@seedPhrases": {
     "description": "Seed Phrases"
   },
-  "close": "Закрывать",
+  "close": "Закрыть",
   "@close": {
     "description": "Close"
   },
