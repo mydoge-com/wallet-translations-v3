@@ -3208,7 +3208,7 @@
   "@socialLoginAndRecovery": {
     "description": "Social login and recovery"
   },
-  "spender": "돈 쓰는 사람",
+  "spender": "승인 대상 주소",
   "@spender": {
     "description": "Spender"
   },
@@ -3708,5 +3708,30 @@
   "questsRemainingToEarnTicket": "{count, plural, one{다음 티켓까지 퀘스트 {count}개 남음} other{다음 티켓까지 퀘스트 {count}개 남음}}",
   "questingTicketsReadyToClaim": "{count, plural, one{받을 수 있는 티켓 {count}장} other{받을 수 있는 티켓 {count}장}}",
   "questingStampProgress": "휠 티켓까지 퀘스트 {completed}/{goal}",
-  "authorizedCurrency": "승인 통화"
+  "authorizedCurrency": "승인 통화",
+  "dappLinkExpired": "이 dApp 링크가 만료되었습니다. 계속하려면 링크를 다시 여세요.",
+  "dappOpenFailedRetry": "이 dApp을 열 수 없습니다. 연결을 확인하고 다시 시도하세요.",
+  "openUnofficialDapp": "비공식 dApp 열기",
+  "unknownWebsite": "알 수 없는 웹사이트",
+  "unofficialDappInformation": "비공식 dApp 정보",
+  "unofficialDappNotListed": "비공식 · 미등록",
+  "unofficialDappNotOfficiallyListed": "이 dApp은 DogeOS에 공식 등록되어 있지 않습니다.",
+  "unofficialDappNotReviewed": "DogeOS는 이 dApp을 검토, 보증 또는 등록하지 않았습니다.",
+  "unofficialDappPermissionRequired": "계정 액세스, 서명 및 트랜잭션 승인에는 여전히 사용자의 허가가 필요합니다.",
+  "unofficialDappTitle": "비공식 dApp",
+  "websiteLabel": "웹사이트",
+  "dappDeviceCannotOpen": "이 기기에서는 dApp을 안전하게 열 수 없습니다.",
+  "dappLeaveConfirmation": "이 페이지를 나가기 전에 확인을 요청하고 있습니다.",
+  "dappPageLoadFailed": "이 페이지를 불러올 수 없습니다.",
+  "importedWallet": "가져온 지갑",
+  "retryVerificationOrClose": "인증을 다시 시도하거나 이 dApp을 닫으세요.",
+  "walletAccessUnavailable": "지갑 액세스를 일시적으로 사용할 수 없습니다.",
+  "contractDeployment": "컨트랙트 배포",
+  "createsNewContract": "새 컨트랙트를 생성합니다",
+  "dappAuthorizationsTitle": "승인",
+  "dappTxConfirmationTitle": "트랜잭션 확인",
+  "expirationTimeLabel": "만료 시간",
+  "permit2AuthorizationTitle": "Permit2 승인",
+  "permitAuthorizationTitle": "Permit 승인",
+  "signMessageTitle": "메시지 서명"
 }

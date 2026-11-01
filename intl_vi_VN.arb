@@ -3208,7 +3208,7 @@
   "@socialLoginAndRecovery": {
     "description": "Social login and recovery"
   },
-  "spender": "Người chi tiêu",
+  "spender": "Địa chỉ được ủy quyền",
   "@spender": {
     "description": "Spender"
   },
@@ -3708,5 +3708,30 @@
   "questsRemainingToEarnTicket": "{count, plural, one{Còn {count} nhiệm vụ để nhận vé tiếp theo} other{Còn {count} nhiệm vụ để nhận vé tiếp theo}}",
   "questingTicketsReadyToClaim": "{count, plural, one{{count} vé sẵn sàng để nhận} other{{count} vé sẵn sàng để nhận}}",
   "questingStampProgress": "{completed}/{goal} nhiệm vụ để nhận vé Vòng quay",
-  "authorizedCurrency": "Tiền được ủy quyền"
+  "authorizedCurrency": "Tiền được ủy quyền",
+  "dappLinkExpired": "Liên kết dApp này đã hết hạn. Hãy mở lại liên kết để tiếp tục.",
+  "dappOpenFailedRetry": "Không thể mở dApp này. Hãy kiểm tra kết nối và thử lại.",
+  "openUnofficialDapp": "Mở dApp không chính thức",
+  "unknownWebsite": "Trang web không xác định",
+  "unofficialDappInformation": "Thông tin về dApp không chính thức",
+  "unofficialDappNotListed": "Không chính thức · Không được liệt kê",
+  "unofficialDappNotOfficiallyListed": "dApp này không được DogeOS liệt kê chính thức.",
+  "unofficialDappNotReviewed": "DogeOS chưa xem xét, xác nhận hoặc liệt kê dApp này.",
+  "unofficialDappPermissionRequired": "Quyền truy cập tài khoản, chữ ký và phê duyệt giao dịch vẫn cần sự cho phép của bạn.",
+  "unofficialDappTitle": "dApp không chính thức",
+  "websiteLabel": "Trang web",
+  "dappDeviceCannotOpen": "Thiết bị này không thể mở dApp một cách an toàn.",
+  "dappLeaveConfirmation": "Trang này yêu cầu xác nhận trước khi rời đi.",
+  "dappPageLoadFailed": "Không thể tải trang này.",
+  "importedWallet": "Ví đã nhập",
+  "retryVerificationOrClose": "Hãy thử xác minh lại hoặc đóng dApp này.",
+  "walletAccessUnavailable": "Quyền truy cập ví tạm thời không khả dụng.",
+  "contractDeployment": "Triển khai hợp đồng",
+  "createsNewContract": "Tạo một hợp đồng mới",
+  "dappAuthorizationsTitle": "Ủy quyền",
+  "dappTxConfirmationTitle": "Xác nhận giao dịch",
+  "expirationTimeLabel": "Thời gian hết hạn",
+  "permit2AuthorizationTitle": "Ủy quyền Permit2",
+  "permitAuthorizationTitle": "Ủy quyền Permit",
+  "signMessageTitle": "Ký tin nhắn"
 }

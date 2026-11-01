@@ -3208,7 +3208,7 @@
   "@socialLoginAndRecovery": {
     "description": "Social login and recovery"
   },
-  "spender": "Gastador",
+  "spender": "Autorizado a gastar",
   "@spender": {
     "description": "Spender"
   },
@@ -3708,5 +3708,30 @@
   "questsRemainingToEarnTicket": "{count, plural, one{{count} misión más para tu próximo ticket} other{{count} misiones más para tu próximo ticket}}",
   "questingTicketsReadyToClaim": "{count, plural, one{{count} ticket listo para reclamar} other{{count} tickets listos para reclamar}}",
   "questingStampProgress": "{completed} de {goal} misiones hacia un ticket de la Rueda",
-  "authorizedCurrency": "Moneda autorizada"
+  "authorizedCurrency": "Moneda autorizada",
+  "dappLinkExpired": "Este enlace de dApp ha caducado. Vuelve a abrir el enlace para continuar.",
+  "dappOpenFailedRetry": "No hemos podido abrir esta dApp. Revisa tu conexión e inténtalo de nuevo.",
+  "openUnofficialDapp": "Abrir dApp no oficial",
+  "unknownWebsite": "Sitio web desconocido",
+  "unofficialDappInformation": "Información de la dApp no oficial",
+  "unofficialDappNotListed": "No oficial · No listada",
+  "unofficialDappNotOfficiallyListed": "Esta dApp no está listada oficialmente por DogeOS.",
+  "unofficialDappNotReviewed": "DogeOS no ha revisado, respaldado ni listado esta dApp.",
+  "unofficialDappPermissionRequired": "El acceso a la cuenta, las firmas y las aprobaciones de transacciones siguen requiriendo tu permiso.",
+  "unofficialDappTitle": "dApp no oficial",
+  "websiteLabel": "Sitio web",
+  "dappDeviceCannotOpen": "Este dispositivo no puede abrir dApps de forma segura.",
+  "dappLeaveConfirmation": "Esta página solicita confirmación antes de salir.",
+  "dappPageLoadFailed": "No se puede cargar esta página.",
+  "importedWallet": "Monedero importado",
+  "retryVerificationOrClose": "Vuelve a intentar la verificación o cierra esta dApp.",
+  "walletAccessUnavailable": "El acceso al monedero no está disponible temporalmente.",
+  "contractDeployment": "Despliegue de contrato",
+  "createsNewContract": "Crea un contrato nuevo",
+  "dappAuthorizationsTitle": "Autorizaciones",
+  "dappTxConfirmationTitle": "Confirmación de la transacción",
+  "expirationTimeLabel": "Fecha de caducidad",
+  "permit2AuthorizationTitle": "Autorización Permit2",
+  "permitAuthorizationTitle": "Autorización Permit",
+  "signMessageTitle": "Firmar mensaje"
 }
