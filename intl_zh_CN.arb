@@ -3208,7 +3208,7 @@
   "@socialLoginAndRecovery": {
     "description": "Social login and recovery"
   },
-  "spender": "斯彭德",
+  "spender": "被授权方",
   "@spender": {
     "description": "Spender"
   },
@@ -3708,5 +3708,30 @@
   "questsRemainingToEarnTicket": "{count, plural, one{再完成 {count} 个任务即可获得下一张奖券} other{再完成 {count} 个任务即可获得下一张奖券}}",
   "questingTicketsReadyToClaim": "{count, plural, one{{count} 张奖券可领取} other{{count} 张奖券可领取}}",
   "questingStampProgress": "距转盘奖券还差：{completed}/{goal} 个任务",
-  "authorizedCurrency": "授权币种"
+  "authorizedCurrency": "授权币种",
+  "dappLinkExpired": "此 dApp 链接已过期。请重新打开链接以继续。",
+  "dappOpenFailedRetry": "无法打开此 dApp。请检查网络连接后重试。",
+  "openUnofficialDapp": "打开非官方 dApp",
+  "unknownWebsite": "未知网站",
+  "unofficialDappInformation": "非官方 dApp 信息",
+  "unofficialDappNotListed": "非官方 · 未收录",
+  "unofficialDappNotOfficiallyListed": "此 dApp 未被 DogeOS 正式收录。",
+  "unofficialDappNotReviewed": "DogeOS 未审核、认可或收录此 dApp。",
+  "unofficialDappPermissionRequired": "访问账户、签名和批准交易仍需您的许可。",
+  "unofficialDappTitle": "非官方 dApp",
+  "websiteLabel": "网站",
+  "dappDeviceCannotOpen": "此设备无法安全地打开 dApp。",
+  "dappLeaveConfirmation": "此页面要求在离开前进行确认。",
+  "dappPageLoadFailed": "无法加载此页面。",
+  "importedWallet": "导入的钱包",
+  "retryVerificationOrClose": "请重试验证或关闭此 dApp。",
+  "walletAccessUnavailable": "钱包访问暂时不可用。",
+  "contractDeployment": "部署合约",
+  "createsNewContract": "创建新合约",
+  "dappAuthorizationsTitle": "授权",
+  "dappTxConfirmationTitle": "确认交易",
+  "expirationTimeLabel": "过期时间",
+  "permit2AuthorizationTitle": "Permit2 授权",
+  "permitAuthorizationTitle": "Permit 授权",
+  "signMessageTitle": "签署消息"
 }

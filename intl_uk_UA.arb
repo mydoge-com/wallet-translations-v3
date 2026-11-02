@@ -3208,7 +3208,7 @@
   "@socialLoginAndRecovery": {
     "description": "Social login and recovery"
   },
-  "spender": "Спендер",
+  "spender": "Отримувач дозволу",
   "@spender": {
     "description": "Spender"
   },
@@ -3468,7 +3468,7 @@
   "couldNotDecryptDataWrongPassword": "Не вдалося розшифрувати дані. Неправильний пароль.",
   "createPIN": "Створіть PIN",
   "createdAt": "Створено за адресою: {time}",
-  "dappRedirectDisclaimerPrefix": "Торкнувшись Відкрити dApp, ви будете перенаправлені на",
+  "dappRedirectDisclaimerPrefix": "Торкнувшись Відкрити dApp, ви будете перенаправлені на ",
   "dappRedirectDisclaimerSuffix": ". Ми не несемо відповідальності за його зміст.",
   "dataDecryptError": "Помилка дешифрування даних",
   "defaultDappDescription": "Обмінюйте, заробляйте та будуйте на основі провідного децентралізованого протоколу криптотрейдингу",
@@ -3708,5 +3708,30 @@
   "questsRemainingToEarnTicket": "{count, plural, one{Завдань до наступного квитка: {count}} other{Завдань до наступного квитка: {count}}}",
   "questingTicketsReadyToClaim": "{count, plural, one{Квитків можна отримати: {count}} other{Квитків можна отримати: {count}}}",
   "questingStampProgress": "Завдань до квитка колеса: {completed} із {goal}",
-  "authorizedCurrency": "Дозволена валюта"
+  "authorizedCurrency": "Дозволена валюта",
+  "dappLinkExpired": "Термін дії цього посилання на dApp минув. Відкрийте посилання ще раз, щоб продовжити.",
+  "dappOpenFailedRetry": "Не вдалося відкрити цей dApp. Перевірте підключення та спробуйте ще раз.",
+  "openUnofficialDapp": "Відкрити неофіційний dApp",
+  "unknownWebsite": "Невідомий сайт",
+  "unofficialDappInformation": "Інформація про неофіційний dApp",
+  "unofficialDappNotListed": "Неофіційний · Поза каталогом",
+  "unofficialDappNotOfficiallyListed": "Цей dApp офіційно не входить до каталогу DogeOS.",
+  "unofficialDappNotReviewed": "DogeOS не перевіряв, не схвалював і не додавав цей dApp до каталогу.",
+  "unofficialDappPermissionRequired": "Для доступу до облікового запису, підписів і підтвердження транзакцій, як і раніше, потрібен ваш дозвіл.",
+  "unofficialDappTitle": "Неофіційний dApp",
+  "websiteLabel": "Сайт",
+  "dappDeviceCannotOpen": "Цей пристрій не може безпечно відкривати dApp.",
+  "dappLeaveConfirmation": "Ця сторінка запитує підтвердження перед виходом.",
+  "dappPageLoadFailed": "Не вдалося завантажити цю сторінку.",
+  "importedWallet": "Імпортований гаманець",
+  "retryVerificationOrClose": "Повторіть перевірку або закрийте цей dApp.",
+  "walletAccessUnavailable": "Доступ до гаманця тимчасово недоступний.",
+  "contractDeployment": "Розгортання контракту",
+  "createsNewContract": "Створює новий контракт",
+  "dappAuthorizationsTitle": "Дозволи",
+  "dappTxConfirmationTitle": "Підтвердження транзакції",
+  "expirationTimeLabel": "Термін дії",
+  "permit2AuthorizationTitle": "Дозвіл Permit2",
+  "permitAuthorizationTitle": "Дозвіл Permit",
+  "signMessageTitle": "Підписати повідомлення"
 }

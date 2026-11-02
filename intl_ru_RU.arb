@@ -1020,7 +1020,7 @@
   "@seedPhrases": {
     "description": "Seed Phrases"
   },
-  "close": "Закрывать",
+  "close": "Закрыть",
   "@close": {
     "description": "Close"
   },
@@ -3208,7 +3208,7 @@
   "@socialLoginAndRecovery": {
     "description": "Social login and recovery"
   },
-  "spender": "Спендер",
+  "spender": "Получатель разрешения",
   "@spender": {
     "description": "Spender"
   },
@@ -3468,7 +3468,7 @@
   "couldNotDecryptDataWrongPassword": "Не удалось расшифровать данные. Неправильный пароль.",
   "createPIN": "Создать PIN",
   "createdAt": "Создано: {time}",
-  "dappRedirectDisclaimerPrefix": "Нажав «Открыть dApp», вы будете перенаправлены на",
+  "dappRedirectDisclaimerPrefix": "Нажав «Открыть dApp», вы будете перенаправлены на ",
   "dappRedirectDisclaimerSuffix": ". Мы не несем ответственности за его содержание.",
   "dataDecryptError": "Ошибка расшифровки данных",
   "defaultDappDescription": "Обменивайтесь, зарабатывайте и развивайтесь на основе ведущего децентрализованного протокола криптовалютной торговли",
@@ -3708,5 +3708,30 @@
   "questsRemainingToEarnTicket": "{count, plural, one{Заданий до следующего билета: {count}} other{Заданий до следующего билета: {count}}}",
   "questingTicketsReadyToClaim": "{count, plural, one{Билетов можно получить: {count}} other{Билетов можно получить: {count}}}",
   "questingStampProgress": "Заданий до билета колеса: {completed} из {goal}",
-  "authorizedCurrency": "Разрешённая валюта"
+  "authorizedCurrency": "Разрешённая валюта",
+  "dappLinkExpired": "Срок действия этой ссылки на dApp истёк. Откройте ссылку ещё раз, чтобы продолжить.",
+  "dappOpenFailedRetry": "Не удалось открыть этот dApp. Проверьте подключение и повторите попытку.",
+  "openUnofficialDapp": "Открыть неофициальный dApp",
+  "unknownWebsite": "Неизвестный сайт",
+  "unofficialDappInformation": "Информация о неофициальном dApp",
+  "unofficialDappNotListed": "Неофициальный · Не в каталоге",
+  "unofficialDappNotOfficiallyListed": "Этот dApp официально не включён в каталог DogeOS.",
+  "unofficialDappNotReviewed": "DogeOS не проверял, не одобрял и не включал этот dApp в каталог.",
+  "unofficialDappPermissionRequired": "Для доступа к аккаунту, подписей и подтверждения транзакций по-прежнему требуется ваше разрешение.",
+  "unofficialDappTitle": "Неофициальный dApp",
+  "websiteLabel": "Сайт",
+  "dappDeviceCannotOpen": "Это устройство не может безопасно открывать dApp.",
+  "dappLeaveConfirmation": "Эта страница запрашивает подтверждение перед выходом.",
+  "dappPageLoadFailed": "Не удалось загрузить эту страницу.",
+  "importedWallet": "Импортированный кошелёк",
+  "retryVerificationOrClose": "Повторите проверку или закройте этот dApp.",
+  "walletAccessUnavailable": "Доступ к кошельку временно недоступен.",
+  "contractDeployment": "Развёртывание контракта",
+  "createsNewContract": "Создаёт новый контракт",
+  "dappAuthorizationsTitle": "Разрешения",
+  "dappTxConfirmationTitle": "Подтверждение транзакции",
+  "expirationTimeLabel": "Срок действия",
+  "permit2AuthorizationTitle": "Разрешение Permit2",
+  "permitAuthorizationTitle": "Разрешение Permit",
+  "signMessageTitle": "Подписать сообщение"
 }
