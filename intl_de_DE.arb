@@ -1214,7 +1214,7 @@
   "permit2AuthorizationTitle": "Permit2-Autorisierung",
   "permitAuthorizationTitle": "Permit-Autorisierung",
   "signMessageTitle": "Nachricht signieren",
-  "tipSentConfirmFailed": "Dein MyDogeTip wurde gesendet, aber wir konnten ihn nicht abschließend bestätigen. Tippe auf das Häkchen, um es erneut zu versuchen. Dir wird nichts doppelt berechnet.",
+  "tipSentConfirmFailed": "Dein MyDogeTip wurde gesendet, aber wir konnten ihn nicht abschließend bestätigen. Tippe auf das Häkchen, um es erneut zu versuchen. Dabei wird das DOGE nicht noch einmal gesendet.",
   "tipSentConfirmed": "MyDogeTip bestätigt!",
   "tipSentCannotCancel": "Dieser MyDogeTip wurde bereits gesendet und kann nicht storniert werden. Tippe auf das Häkchen, um ihn abzuschließen."
 }
