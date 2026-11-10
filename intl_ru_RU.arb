@@ -3733,5 +3733,8 @@
   "expirationTimeLabel": "Срок действия",
   "permit2AuthorizationTitle": "Разрешение Permit2",
   "permitAuthorizationTitle": "Разрешение Permit",
-  "signMessageTitle": "Подписать сообщение"
+  "signMessageTitle": "Подписать сообщение",
+  "tipSentConfirmFailed": "Ваш MyDogeTip отправлен, но нам не удалось завершить его подтверждение. Нажмите на галочку, чтобы повторить попытку. DOGE не будут отправлены повторно.",
+  "tipSentConfirmed": "MyDogeTip подтверждён!",
+  "tipSentCannotCancel": "Этот MyDogeTip уже отправлен, поэтому его нельзя отменить. Нажмите на галочку, чтобы завершить его."
 }

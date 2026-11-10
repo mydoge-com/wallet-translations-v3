@@ -1225,5 +1225,8 @@
   "expirationTimeLabel": "Expiration Time",
   "permit2AuthorizationTitle": "Permit2 Authorization",
   "permitAuthorizationTitle": "Permit Authorization",
-  "signMessageTitle": "Sign Message"
+  "signMessageTitle": "Sign Message",
+  "tipSentConfirmFailed": "Your MyDogeTip was sent, but we couldn't finish confirming it. Tap the checkmark to try again. This won't send the DOGE again.",
+  "tipSentConfirmed": "MyDogeTip confirmed!",
+  "tipSentCannotCancel": "This MyDogeTip was already sent, so it can't be canceled. Tap the checkmark to finish it."
 }

@@ -3001,5 +3001,8 @@
   "expirationTimeLabel": "有効期限",
   "permit2AuthorizationTitle": "Permit2 の承認",
   "permitAuthorizationTitle": "Permit の承認",
-  "signMessageTitle": "メッセージに署名"
+  "signMessageTitle": "メッセージに署名",
+  "tipSentConfirmFailed": "MyDogeTip は送信されましたが、確認を完了できませんでした。チェックマークをタップしてもう一度お試しください。DOGE が再度送信されることはありません。",
+  "tipSentConfirmed": "MyDogeTip を確認しました！",
+  "tipSentCannotCancel": "この MyDogeTip はすでに送信済みのため、キャンセルできません。チェックマークをタップして完了してください。"
 }
