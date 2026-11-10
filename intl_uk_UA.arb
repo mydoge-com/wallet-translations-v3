@@ -3733,5 +3733,8 @@
   "expirationTimeLabel": "Термін дії",
   "permit2AuthorizationTitle": "Дозвіл Permit2",
   "permitAuthorizationTitle": "Дозвіл Permit",
-  "signMessageTitle": "Підписати повідомлення"
+  "signMessageTitle": "Підписати повідомлення",
+  "tipSentConfirmFailed": "Ваш MyDogeTip надіслано, але нам не вдалося завершити його підтвердження. Натисніть «Підтвердити», щоб спробувати ще раз. Повторного списання не буде.",
+  "tipSentConfirmed": "MyDogeTip підтверджено!",
+  "tipSentCannotCancel": "Цей MyDogeTip уже надіслано, тому його не можна скасувати. Натисніть «Підтвердити», щоб завершити його."
 }

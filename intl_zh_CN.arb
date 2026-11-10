@@ -3733,5 +3733,8 @@
   "expirationTimeLabel": "过期时间",
   "permit2AuthorizationTitle": "Permit2 授权",
   "permitAuthorizationTitle": "Permit 授权",
-  "signMessageTitle": "签署消息"
+  "signMessageTitle": "签署消息",
+  "tipSentConfirmFailed": "你的 MyDogeTip 已发送，但我们未能完成确认。请点击确认重试，不会重复扣款。",
+  "tipSentConfirmed": "MyDogeTip 已确认！",
+  "tipSentCannotCancel": "这笔 MyDogeTip 已发送，无法取消。请点击确认以完成。"
 }

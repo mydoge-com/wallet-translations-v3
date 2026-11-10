@@ -3733,5 +3733,8 @@
   "expirationTimeLabel": "Data de expiração",
   "permit2AuthorizationTitle": "Autorização Permit2",
   "permitAuthorizationTitle": "Autorização Permit",
-  "signMessageTitle": "Assinar mensagem"
+  "signMessageTitle": "Assinar mensagem",
+  "tipSentConfirmFailed": "O seu MyDogeTip foi enviado, mas não conseguimos concluir a confirmação. Toque em Confirmar para tentar novamente. Não será cobrado duas vezes.",
+  "tipSentConfirmed": "MyDogeTip confirmado!",
+  "tipSentCannotCancel": "Este MyDogeTip já foi enviado, por isso não pode ser cancelado. Toque em Confirmar para o concluir."
 }
