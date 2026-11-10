@@ -1226,7 +1226,7 @@
   "permit2AuthorizationTitle": "Permit2 Authorization",
   "permitAuthorizationTitle": "Permit Authorization",
   "signMessageTitle": "Sign Message",
-  "tipSentConfirmFailed": "Your MyDogeTip was sent, but we couldn't finish confirming it. Tap confirm to try again. You won't be charged twice.",
+  "tipSentConfirmFailed": "Your MyDogeTip was sent, but we couldn't finish confirming it. Tap the checkmark to try again. You won't be charged twice.",
   "tipSentConfirmed": "MyDogeTip confirmed!",
-  "tipSentCannotCancel": "This MyDogeTip was already sent, so it can't be canceled. Tap confirm to finish it."
+  "tipSentCannotCancel": "This MyDogeTip was already sent, so it can't be canceled. Tap the checkmark to finish it."
 }

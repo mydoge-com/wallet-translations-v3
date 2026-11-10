@@ -3734,7 +3734,7 @@
   "permit2AuthorizationTitle": "Ủy quyền Permit2",
   "permitAuthorizationTitle": "Ủy quyền Permit",
   "signMessageTitle": "Ký tin nhắn",
-  "tipSentConfirmFailed": "MyDogeTip của bạn đã được gửi, nhưng chúng tôi chưa thể hoàn tất xác nhận. Nhấn Xác nhận để thử lại. Bạn sẽ không bị trừ tiền hai lần.",
+  "tipSentConfirmFailed": "MyDogeTip của bạn đã được gửi, nhưng chúng tôi chưa thể hoàn tất xác nhận. Nhấn vào dấu tích để thử lại. Bạn sẽ không bị trừ tiền hai lần.",
   "tipSentConfirmed": "Đã xác nhận MyDogeTip!",
-  "tipSentCannotCancel": "MyDogeTip này đã được gửi nên không thể hủy. Nhấn Xác nhận để hoàn tất."
+  "tipSentCannotCancel": "MyDogeTip này đã được gửi nên không thể hủy. Nhấn vào dấu tích để hoàn tất."
 }

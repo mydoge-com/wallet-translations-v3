@@ -3002,7 +3002,7 @@
   "permit2AuthorizationTitle": "Autorisation Permit2",
   "permitAuthorizationTitle": "Autorisation Permit",
   "signMessageTitle": "Signer le message",
-  "tipSentConfirmFailed": "Votre MyDogeTip a été envoyé, mais nous n'avons pas pu finaliser sa confirmation. Appuyez sur Confirmer pour réessayer. Vous ne serez pas débité deux fois.",
+  "tipSentConfirmFailed": "Votre MyDogeTip a été envoyé, mais nous n'avons pas pu finaliser sa confirmation. Appuyez sur la coche pour réessayer. Vous ne serez pas débité deux fois.",
   "tipSentConfirmed": "MyDogeTip confirmé !",
-  "tipSentCannotCancel": "Ce MyDogeTip a déjà été envoyé et ne peut donc pas être annulé. Appuyez sur Confirmer pour le finaliser."
+  "tipSentCannotCancel": "Ce MyDogeTip a déjà été envoyé et ne peut donc pas être annulé. Appuyez sur la coche pour le finaliser."
 }
