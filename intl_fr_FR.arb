@@ -3004,5 +3004,6 @@
   "signMessageTitle": "Signer le message",
   "tipSentConfirmFailed": "Votre MyDogeTip a été envoyé, mais nous n'avons pas pu finaliser sa confirmation. Appuyez sur la coche pour réessayer. Les DOGE ne seront pas renvoyés.",
   "tipSentConfirmed": "MyDogeTip confirmé !",
-  "tipSentCannotCancel": "Ce MyDogeTip a déjà été envoyé et ne peut donc pas être annulé. Appuyez sur la coche pour le finaliser."
+  "tipSentCannotCancel": "Ce MyDogeTip a déjà été envoyé et ne peut donc pas être annulé. Appuyez sur la coche pour le finaliser.",
+  "linkEmailNeedsAuthDesc": "Pour associer une adresse e-mail, ajoutez d’abord un Passkey ou une application d’authentification. Vous l’utiliserez pour approuver la modification."
 }

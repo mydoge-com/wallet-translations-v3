@@ -1228,5 +1228,6 @@
   "signMessageTitle": "Sign Message",
   "tipSentConfirmFailed": "Your MyDogeTip was sent, but we couldn't finish confirming it. Tap the checkmark to try again. This won't send the DOGE again.",
   "tipSentConfirmed": "MyDogeTip confirmed!",
-  "tipSentCannotCancel": "This MyDogeTip was already sent, so it can't be canceled. Tap the checkmark to finish it."
+  "tipSentCannotCancel": "This MyDogeTip was already sent, so it can't be canceled. Tap the checkmark to finish it.",
+  "linkEmailNeedsAuthDesc": "To link an email, first add a passkey or an authenticator app. You’ll use it to approve the change."
 }

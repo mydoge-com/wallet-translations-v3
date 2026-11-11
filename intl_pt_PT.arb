@@ -2558,7 +2558,7 @@
   "@chooseVerification": {
     "description": "Choose verification"
   },
-  "linkAuthenticatorApp": "Aplicativo autenticador de link",
+  "linkAuthenticatorApp": "Vincular app autenticador",
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
@@ -3736,5 +3736,6 @@
   "signMessageTitle": "Assinar mensagem",
   "tipSentConfirmFailed": "O seu MyDogeTip foi enviado, mas não conseguimos concluir a confirmação. Toque no visto para tentar novamente. Os DOGE não serão enviados novamente.",
   "tipSentConfirmed": "MyDogeTip confirmado!",
-  "tipSentCannotCancel": "Este MyDogeTip já foi enviado, por isso não pode ser cancelado. Toque no visto para o concluir."
+  "tipSentCannotCancel": "Este MyDogeTip já foi enviado, por isso não pode ser cancelado. Toque no visto para o concluir.",
+  "linkEmailNeedsAuthDesc": "Para vincular um e-mail, adicione primeiro uma chave de acesso ou um app autenticador. Você vai usá-lo para aprovar a alteração."
 }

@@ -2558,7 +2558,7 @@
   "@chooseVerification": {
     "description": "Choose verification"
   },
-  "linkAuthenticatorApp": "Програма автентифікації посилань",
+  "linkAuthenticatorApp": "Прив’язати застосунок-автентифікатор",
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
@@ -3736,5 +3736,6 @@
   "signMessageTitle": "Підписати повідомлення",
   "tipSentConfirmFailed": "Ваш MyDogeTip надіслано, але нам не вдалося завершити його підтвердження. Натисніть на галочку, щоб спробувати ще раз. DOGE не буде надіслано повторно.",
   "tipSentConfirmed": "MyDogeTip підтверджено!",
-  "tipSentCannotCancel": "Цей MyDogeTip уже надіслано, тому його не можна скасувати. Натисніть на галочку, щоб завершити його."
+  "tipSentCannotCancel": "Цей MyDogeTip уже надіслано, тому його не можна скасувати. Натисніть на галочку, щоб завершити його.",
+  "linkEmailNeedsAuthDesc": "Щоб прив’язати електронну пошту, спершу додайте Passkey або застосунок-автентифікатор. За його допомогою ви підтвердите зміну."
 }

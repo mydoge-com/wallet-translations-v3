@@ -2558,7 +2558,7 @@
   "@chooseVerification": {
     "description": "Choose verification"
   },
-  "linkAuthenticatorApp": "链接验证器应用程序",
+  "linkAuthenticatorApp": "关联身份验证器应用",
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
@@ -3736,5 +3736,6 @@
   "signMessageTitle": "签署消息",
   "tipSentConfirmFailed": "你的 MyDogeTip 已发送，但我们未能完成确认。请点击对勾重试，DOGE 不会再次发送。",
   "tipSentConfirmed": "MyDogeTip 已确认！",
-  "tipSentCannotCancel": "这笔 MyDogeTip 已发送，无法取消。请点击对勾以完成。"
+  "tipSentCannotCancel": "这笔 MyDogeTip 已发送，无法取消。请点击对勾以完成。",
+  "linkEmailNeedsAuthDesc": "要关联邮箱，请先添加通行密钥或身份验证器应用。你将用它来批准此更改。"
 }

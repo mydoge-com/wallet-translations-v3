@@ -2558,7 +2558,7 @@
   "@chooseVerification": {
     "description": "Choose verification"
   },
-  "linkAuthenticatorApp": "Ứng dụng xác thực liên kết",
+  "linkAuthenticatorApp": "Liên kết ứng dụng xác thực",
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
@@ -3736,5 +3736,6 @@
   "signMessageTitle": "Ký tin nhắn",
   "tipSentConfirmFailed": "MyDogeTip của bạn đã được gửi, nhưng chúng tôi chưa thể hoàn tất xác nhận. Nhấn vào dấu tích để thử lại. DOGE sẽ không bị gửi lại.",
   "tipSentConfirmed": "Đã xác nhận MyDogeTip!",
-  "tipSentCannotCancel": "MyDogeTip này đã được gửi nên không thể hủy. Nhấn vào dấu tích để hoàn tất."
+  "tipSentCannotCancel": "MyDogeTip này đã được gửi nên không thể hủy. Nhấn vào dấu tích để hoàn tất.",
+  "linkEmailNeedsAuthDesc": "Để liên kết e-mail, trước tiên hãy thêm Passkey hoặc ứng dụng xác thực. Bạn sẽ dùng nó để phê duyệt thay đổi."
 }
