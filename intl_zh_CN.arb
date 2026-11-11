@@ -3737,5 +3737,8 @@
   "tipSentConfirmFailed": "你的 MyDogeTip 已发送，但我们未能完成确认。请点击对勾重试，DOGE 不会再次发送。",
   "tipSentConfirmed": "MyDogeTip 已确认！",
   "tipSentCannotCancel": "这笔 MyDogeTip 已发送，无法取消。请点击对勾以完成。",
+  "dappWalletHandoffTitle": "打开 {wallet}？",
+  "dappWalletHandoffTitleGeneric": "打开其他钱包应用？",
+  "dappWalletHandoffDesc": "{site} 想通过其他钱包应用连接。你在那里批准的内容不会经过 MyDoge 检查。",
   "linkEmailNeedsAuthDesc": "要关联邮箱，请先添加通行密钥或身份验证器应用。你将用它来批准此更改。"
 }

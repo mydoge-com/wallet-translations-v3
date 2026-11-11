@@ -2744,7 +2744,7 @@
   "@claimTokens": {
     "description": "Claim tokens"
   },
-  "open": "열려 있는",
+  "open": "열기",
   "@open": {
     "description": "Open"
   },
@@ -3737,5 +3737,8 @@
   "tipSentConfirmFailed": "MyDogeTip은 전송되었지만 확인을 완료하지 못했습니다. 체크 표시를 눌러 다시 시도하세요. DOGE가 다시 전송되지 않습니다.",
   "tipSentConfirmed": "MyDogeTip이 확인되었습니다!",
   "tipSentCannotCancel": "이 MyDogeTip은 이미 전송되어 취소할 수 없습니다. 체크 표시를 눌러 완료하세요.",
+  "dappWalletHandoffTitle": "{wallet}을(를) 열까요?",
+  "dappWalletHandoffTitleGeneric": "다른 지갑 앱을 열까요?",
+  "dappWalletHandoffDesc": "{site}에서 다른 지갑 앱을 통해 연결하려고 합니다. 그 앱에서 승인하는 내용은 MyDoge가 확인하지 않습니다.",
   "linkEmailNeedsAuthDesc": "이메일을 연결하려면 먼저 패스키 또는 인증 앱을 추가하세요. 변경을 승인할 때 사용합니다."
 }
