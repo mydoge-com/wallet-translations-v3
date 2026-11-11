@@ -1228,5 +1228,16 @@
   "signMessageTitle": "Sign Message",
   "tipSentConfirmFailed": "Your MyDogeTip was sent, but we couldn't finish confirming it. Tap the checkmark to try again. This won't send the DOGE again.",
   "tipSentConfirmed": "MyDogeTip confirmed!",
-  "tipSentCannotCancel": "This MyDogeTip was already sent, so it can't be canceled. Tap the checkmark to finish it."
+  "tipSentCannotCancel": "This MyDogeTip was already sent, so it can't be canceled. Tap the checkmark to finish it.",
+  "dappWalletHandoffTitle": "Open {wallet}?",
+  "@dappWalletHandoffTitle": {
+    "description": "Title of the sheet a dApp in the MyDoge browser opens before handing its connection to another wallet app. wallet is that app's name, such as MetaMask.",
+    "placeholders": {"wallet": {"type": "String"}}
+  },
+  "dappWalletHandoffTitleGeneric": "Open another wallet app?",
+  "dappWalletHandoffDesc": "{site} wants to connect through another wallet app. MyDoge doesn't check what you approve there.",
+  "@dappWalletHandoffDesc": {
+    "description": "Body of the same sheet. site is the dApp's host name.",
+    "placeholders": {"site": {"type": "String"}}
+  }
 }
