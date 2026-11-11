@@ -2558,7 +2558,7 @@
   "@chooseVerification": {
     "description": "Choose verification"
   },
-  "linkAuthenticatorApp": "Ứng dụng xác thực liên kết",
+  "linkAuthenticatorApp": "Liên kết ứng dụng xác thực",
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
@@ -3739,5 +3739,6 @@
   "tipSentCannotCancel": "MyDogeTip này đã được gửi nên không thể hủy. Nhấn vào dấu tích để hoàn tất.",
   "dappWalletHandoffTitle": "Mở {wallet}?",
   "dappWalletHandoffTitleGeneric": "Mở ứng dụng ví khác?",
-  "dappWalletHandoffDesc": "{site} muốn kết nối qua một ứng dụng ví khác. MyDoge không kiểm tra những gì bạn phê duyệt ở đó."
+  "dappWalletHandoffDesc": "{site} muốn kết nối qua một ứng dụng ví khác. MyDoge không kiểm tra những gì bạn phê duyệt ở đó.",
+  "linkEmailNeedsAuthDesc": "Để liên kết e-mail, trước tiên hãy thêm Passkey hoặc ứng dụng xác thực. Bạn sẽ dùng nó để phê duyệt thay đổi."
 }

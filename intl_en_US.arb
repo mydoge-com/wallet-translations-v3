@@ -1239,5 +1239,6 @@
   "@dappWalletHandoffDesc": {
     "description": "Body of the same sheet. site is the dApp's host name.",
     "placeholders": {"site": {"type": "String"}}
-  }
+  },
+  "linkEmailNeedsAuthDesc": "To link an email, first add a passkey or an authenticator app. You’ll use it to approve the change."
 }

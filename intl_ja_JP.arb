@@ -3007,5 +3007,6 @@
   "tipSentCannotCancel": "この MyDogeTip はすでに送信済みのため、キャンセルできません。チェックマークをタップして完了してください。",
   "dappWalletHandoffTitle": "{wallet} を開きますか？",
   "dappWalletHandoffTitleGeneric": "別のウォレットアプリを開きますか？",
-  "dappWalletHandoffDesc": "{site} が別のウォレットアプリでの接続を求めています。そこで承認した内容は MyDoge では確認されません。"
+  "dappWalletHandoffDesc": "{site} が別のウォレットアプリでの接続を求めています。そこで承認した内容は MyDoge では確認されません。",
+  "linkEmailNeedsAuthDesc": "メールアドレスを連携するには、まず Passkey または認証アプリを追加してください。変更の承認に使用します。"
 }

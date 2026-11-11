@@ -2558,7 +2558,7 @@
   "@chooseVerification": {
     "description": "Choose verification"
   },
-  "linkAuthenticatorApp": "Aplicativo autenticador de link",
+  "linkAuthenticatorApp": "Vincular app autenticador",
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
@@ -3739,5 +3739,6 @@
   "tipSentCannotCancel": "Este MyDogeTip já foi enviado, por isso não pode ser cancelado. Toque no visto para o concluir.",
   "dappWalletHandoffTitle": "Abrir {wallet}?",
   "dappWalletHandoffTitleGeneric": "Abrir outra app de carteira?",
-  "dappWalletHandoffDesc": "{site} quer ligar-se através de outra app de carteira. A MyDoge não verifica o que aprovar nessa app."
+  "dappWalletHandoffDesc": "{site} quer ligar-se através de outra app de carteira. A MyDoge não verifica o que aprovar nessa app.",
+  "linkEmailNeedsAuthDesc": "Para vincular um e-mail, adicione primeiro uma chave de acesso ou um app autenticador. Você vai usá-lo para aprovar a alteração."
 }

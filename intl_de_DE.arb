@@ -1219,5 +1219,6 @@
   "tipSentCannotCancel": "Dieser MyDogeTip wurde bereits gesendet und kann nicht storniert werden. Tippe auf das Häkchen, um ihn abzuschließen.",
   "dappWalletHandoffTitle": "{wallet} öffnen?",
   "dappWalletHandoffTitleGeneric": "Andere Wallet-App öffnen?",
-  "dappWalletHandoffDesc": "{site} möchte sich über eine andere Wallet-App verbinden. MyDoge prüft nicht, was du dort bestätigst."
+  "dappWalletHandoffDesc": "{site} möchte sich über eine andere Wallet-App verbinden. MyDoge prüft nicht, was du dort bestätigst.",
+  "linkEmailNeedsAuthDesc": "Um eine E-Mail-Adresse zu verknüpfen, füge zuerst einen Passkey oder eine Authenticator-App hinzu. Damit bestätigst du die Änderung."
 }

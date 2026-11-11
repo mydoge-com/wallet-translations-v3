@@ -3007,5 +3007,6 @@
   "tipSentCannotCancel": "Ce MyDogeTip a déjà été envoyé et ne peut donc pas être annulé. Appuyez sur la coche pour le finaliser.",
   "dappWalletHandoffTitle": "Ouvrir {wallet} ?",
   "dappWalletHandoffTitleGeneric": "Ouvrir une autre app de portefeuille ?",
-  "dappWalletHandoffDesc": "{site} souhaite se connecter via une autre app de portefeuille. MyDoge ne vérifie pas ce que vous y approuvez."
+  "dappWalletHandoffDesc": "{site} souhaite se connecter via une autre app de portefeuille. MyDoge ne vérifie pas ce que vous y approuvez.",
+  "linkEmailNeedsAuthDesc": "Pour associer une adresse e-mail, ajoutez d’abord un Passkey ou une application d’authentification. Vous l’utiliserez pour approuver la modification."
 }

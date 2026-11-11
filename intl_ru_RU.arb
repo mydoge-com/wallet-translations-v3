@@ -2558,7 +2558,7 @@
   "@chooseVerification": {
     "description": "Choose verification"
   },
-  "linkAuthenticatorApp": "Приложение для проверки подлинности ссылок",
+  "linkAuthenticatorApp": "Привязать приложение-аутентификатор",
   "@linkAuthenticatorApp": {
     "description": "Link authenticator app"
   },
@@ -3739,5 +3739,6 @@
   "tipSentCannotCancel": "Этот MyDogeTip уже отправлен, поэтому его нельзя отменить. Нажмите на галочку, чтобы завершить его.",
   "dappWalletHandoffTitle": "Открыть {wallet}?",
   "dappWalletHandoffTitleGeneric": "Открыть другое приложение-кошелёк?",
-  "dappWalletHandoffDesc": "{site} хочет подключиться через другое приложение-кошелёк. MyDoge не проверяет то, что вы там подтверждаете."
+  "dappWalletHandoffDesc": "{site} хочет подключиться через другое приложение-кошелёк. MyDoge не проверяет то, что вы там подтверждаете.",
+  "linkEmailNeedsAuthDesc": "Чтобы привязать электронную почту, сначала добавьте Passkey или приложение-аутентификатор. С его помощью вы подтвердите изменение."
 }
