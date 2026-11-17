@@ -3737,6 +3737,8 @@
   "tipSentConfirmFailed": "你的 MyDogeTip 已发送，但我们未能完成确认。请点击对勾重试，DOGE 不会再次发送。",
   "tipSentConfirmed": "MyDogeTip 已确认！",
   "tipSentCannotCancel": "这笔 MyDogeTip 已发送，无法取消。请点击对勾以完成。",
+  "tipNeedsSocialWallet": "MyDogeTip 从您的 Social Wallet 支付。请切换到 Social Wallet 后重试。",
+  "tipInsufficientDoge": "DOGE 不足，无法发送这笔 MyDogeTip。您的 Social Wallet 需要 {amount} DOGE 以及 Dogecoin 主网的网络费。测试网 DOGE 无法使用。",
   "dappWalletHandoffTitle": "打开 {wallet}？",
   "dappWalletHandoffTitleGeneric": "打开其他钱包应用？",
   "dappWalletHandoffDesc": "{site} 想通过其他钱包应用连接。你在那里批准的内容不会经过 MyDoge 检查。",

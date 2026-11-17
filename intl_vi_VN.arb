@@ -3737,6 +3737,8 @@
   "tipSentConfirmFailed": "MyDogeTip của bạn đã được gửi, nhưng chúng tôi chưa thể hoàn tất xác nhận. Nhấn vào dấu tích để thử lại. DOGE sẽ không bị gửi lại.",
   "tipSentConfirmed": "Đã xác nhận MyDogeTip!",
   "tipSentCannotCancel": "MyDogeTip này đã được gửi nên không thể hủy. Nhấn vào dấu tích để hoàn tất.",
+  "tipNeedsSocialWallet": "MyDogeTip được thanh toán từ Social Wallet của bạn. Hãy chuyển sang Social Wallet rồi thử lại.",
+  "tipInsufficientDoge": "Không đủ DOGE để gửi MyDogeTip này. Social Wallet của bạn cần {amount} DOGE cộng phí mạng trên mạng chính Dogecoin. Không thể dùng DOGE Testnet.",
   "dappWalletHandoffTitle": "Mở {wallet}?",
   "dappWalletHandoffTitleGeneric": "Mở ứng dụng ví khác?",
   "dappWalletHandoffDesc": "{site} muốn kết nối qua một ứng dụng ví khác. MyDoge không kiểm tra những gì bạn phê duyệt ở đó.",

@@ -3737,6 +3737,8 @@
   "tipSentConfirmFailed": "O seu MyDogeTip foi enviado, mas não conseguimos concluir a confirmação. Toque no visto para tentar novamente. Os DOGE não serão enviados novamente.",
   "tipSentConfirmed": "MyDogeTip confirmado!",
   "tipSentCannotCancel": "Este MyDogeTip já foi enviado, por isso não pode ser cancelado. Toque no visto para o concluir.",
+  "tipNeedsSocialWallet": "Os MyDogeTips são pagos a partir da sua Social Wallet. Mude para a sua Social Wallet e tente novamente.",
+  "tipInsufficientDoge": "Não tem DOGE suficientes para enviar este MyDogeTip. A sua Social Wallet precisa de {amount} DOGE mais a taxa de rede na mainnet da Dogecoin. Não é possível usar DOGE de testnet.",
   "dappWalletHandoffTitle": "Abrir {wallet}?",
   "dappWalletHandoffTitleGeneric": "Abrir outra app de carteira?",
   "dappWalletHandoffDesc": "{site} quer ligar-se através de outra app de carteira. A MyDoge não verifica o que aprovar nessa app.",
