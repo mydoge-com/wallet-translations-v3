@@ -3737,6 +3737,8 @@
   "tipSentConfirmFailed": "MyDogeTip은 전송되었지만 확인을 완료하지 못했습니다. 체크 표시를 눌러 다시 시도하세요. DOGE가 다시 전송되지 않습니다.",
   "tipSentConfirmed": "MyDogeTip이 확인되었습니다!",
   "tipSentCannotCancel": "이 MyDogeTip은 이미 전송되어 취소할 수 없습니다. 체크 표시를 눌러 완료하세요.",
+  "tipNeedsSocialWallet": "MyDogeTip은 Social Wallet에서 결제됩니다. Social Wallet으로 전환한 후 다시 시도하세요.",
+  "tipInsufficientDoge": "이 MyDogeTip을 보내기에 DOGE가 부족합니다. Social Wallet에 Dogecoin 메인넷 DOGE {amount}개와 네트워크 수수료가 필요합니다. 테스트넷 DOGE는 사용할 수 없습니다.",
   "dappWalletHandoffTitle": "{wallet}을(를) 열까요?",
   "dappWalletHandoffTitleGeneric": "다른 지갑 앱을 열까요?",
   "dappWalletHandoffDesc": "{site}에서 다른 지갑 앱을 통해 연결하려고 합니다. 그 앱에서 승인하는 내용은 MyDoge가 확인하지 않습니다.",

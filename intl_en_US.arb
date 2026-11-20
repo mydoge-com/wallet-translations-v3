@@ -1229,6 +1229,12 @@
   "tipSentConfirmFailed": "Your MyDogeTip was sent, but we couldn't finish confirming it. Tap the checkmark to try again. This won't send the DOGE again.",
   "tipSentConfirmed": "MyDogeTip confirmed!",
   "tipSentCannotCancel": "This MyDogeTip was already sent, so it can't be canceled. Tap the checkmark to finish it.",
+  "tipNeedsSocialWallet": "MyDogeTips are paid from your Social Wallet. Switch to your Social Wallet and try again.",
+  "@tipInsufficientDoge": {
+    "description": "Shown when confirming a pending MyDogeTip and the Social Wallet lacks the mainnet DOGE for the tip and its network fee. amount is the tip amount.",
+    "placeholders": {"amount": {"type": "String"}}
+  },
+  "tipInsufficientDoge": "Not enough DOGE to send this MyDogeTip. Your Social Wallet needs {amount} DOGE plus the network fee on Dogecoin mainnet. Testnet DOGE can't be used.",
   "dappWalletHandoffTitle": "Open {wallet}?",
   "@dappWalletHandoffTitle": {
     "description": "Title of the sheet a dApp in the MyDoge browser opens before handing its connection to another wallet app. wallet is that app's name, such as MetaMask.",
