@@ -1226,7 +1226,7 @@
   "remove": "Entfernen",
   "removePasskey": "Passkey entfernen",
   "removePasskeyTitle": "Diesen Passkey entfernen?",
-  "removePasskeyDesc": "Du kannst diesen Passkey dann nicht mehr verwenden, um dich bei dieser Wallet zu bestätigen. Deine anderen Passkeys und Bestätigungsmethoden funktionieren weiterhin.",
+  "removePasskeyDesc": "Danach kannst du dich in dieser Wallet nicht mehr mit diesem Passkey verifizieren. Deine anderen Passkeys und Bestätigungsmethoden funktionieren weiterhin.",
   "passkeyRemoved": "Passkey entfernt",
-  "removePasskeyLastFactor": "Dieser Passkey ist deine einzige Bestätigungsmethode. Füge einen weiteren Passkey oder eine Authenticator-App hinzu, bevor du ihn entfernst."
+  "removePasskeyLastFactor": "Um diesen Passkey zu entfernen, füge zuerst einen weiteren Passkey oder eine Authenticator-App hinzu."
 }

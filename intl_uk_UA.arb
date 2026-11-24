@@ -3748,5 +3748,5 @@
   "removePasskeyTitle": "Видалити цей Passkey?",
   "removePasskeyDesc": "Ви більше не зможете підтверджувати свою особу в цьому гаманці за допомогою цього Passkey. Інші Passkey і способи підтвердження й надалі працюватимуть.",
   "passkeyRemoved": "Passkey видалено",
-  "removePasskeyLastFactor": "Цей Passkey — ваш єдиний спосіб підтвердження. Перш ніж видалити його, додайте інший Passkey або застосунок-автентифікатор."
+  "removePasskeyLastFactor": "Щоб видалити цей Passkey, спершу додайте інший Passkey або застосунок-автентифікатор."
 }

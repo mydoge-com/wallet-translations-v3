@@ -3016,5 +3016,5 @@
   "removePasskeyTitle": "Supprimer ce Passkey ?",
   "removePasskeyDesc": "Vous ne pourrez plus utiliser ce Passkey pour confirmer votre identité sur ce portefeuille. Vos autres Passkeys et méthodes de vérification continuent de fonctionner.",
   "passkeyRemoved": "Passkey supprimé",
-  "removePasskeyLastFactor": "Ce Passkey est votre seule méthode de vérification. Ajoutez un autre Passkey ou une app d’authentification avant de le supprimer."
+  "removePasskeyLastFactor": "Pour supprimer ce Passkey, ajoutez d’abord un autre Passkey ou une application d’authentification."
 }
