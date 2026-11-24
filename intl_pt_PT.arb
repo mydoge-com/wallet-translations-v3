@@ -3742,5 +3742,11 @@
   "dappWalletHandoffTitle": "Abrir {wallet}?",
   "dappWalletHandoffTitleGeneric": "Abrir outra app de carteira?",
   "dappWalletHandoffDesc": "{site} quer ligar-se através de outra app de carteira. A MyDoge não verifica o que aprovar nessa app.",
-  "linkEmailNeedsAuthDesc": "Para vincular um e-mail, adicione primeiro uma chave de acesso ou um app autenticador. Você vai usá-lo para aprovar a alteração."
+  "linkEmailNeedsAuthDesc": "Para vincular um e-mail, adicione primeiro uma chave de acesso ou um app autenticador. Você vai usá-lo para aprovar a alteração.",
+  "remove": "Remover",
+  "removePasskey": "Remover chave de acesso",
+  "removePasskeyTitle": "Remover esta chave de acesso?",
+  "removePasskeyDesc": "Não poderá voltar a usar esta chave de acesso para confirmar a sua identidade nesta carteira. As suas outras chaves de acesso e métodos de verificação continuam a funcionar.",
+  "passkeyRemoved": "Chave de acesso removida",
+  "removePasskeyLastFactor": "Esta chave de acesso é o seu único método de verificação. Adicione outra chave de acesso ou uma app autenticadora antes de a remover."
 }

@@ -1222,5 +1222,11 @@
   "dappWalletHandoffTitle": "{wallet} öffnen?",
   "dappWalletHandoffTitleGeneric": "Andere Wallet-App öffnen?",
   "dappWalletHandoffDesc": "{site} möchte sich über eine andere Wallet-App verbinden. MyDoge prüft nicht, was du dort bestätigst.",
-  "linkEmailNeedsAuthDesc": "Um eine E-Mail-Adresse zu verknüpfen, füge zuerst einen Passkey oder eine Authenticator-App hinzu. Damit bestätigst du die Änderung."
+  "linkEmailNeedsAuthDesc": "Um eine E-Mail-Adresse zu verknüpfen, füge zuerst einen Passkey oder eine Authenticator-App hinzu. Damit bestätigst du die Änderung.",
+  "remove": "Entfernen",
+  "removePasskey": "Passkey entfernen",
+  "removePasskeyTitle": "Diesen Passkey entfernen?",
+  "removePasskeyDesc": "Du kannst diesen Passkey dann nicht mehr verwenden, um dich bei dieser Wallet zu bestätigen. Deine anderen Passkeys und Bestätigungsmethoden funktionieren weiterhin.",
+  "passkeyRemoved": "Passkey entfernt",
+  "removePasskeyLastFactor": "Dieser Passkey ist deine einzige Bestätigungsmethode. Füge einen weiteren Passkey oder eine Authenticator-App hinzu, bevor du ihn entfernst."
 }

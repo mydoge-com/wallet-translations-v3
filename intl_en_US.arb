@@ -1246,5 +1246,11 @@
     "description": "Body of the same sheet. site is the dApp's host name.",
     "placeholders": {"site": {"type": "String"}}
   },
-  "linkEmailNeedsAuthDesc": "To link an email, first add a passkey or an authenticator app. You’ll use it to approve the change."
+  "linkEmailNeedsAuthDesc": "To link an email, first add a passkey or an authenticator app. You’ll use it to approve the change.",
+  "remove": "Remove",
+  "removePasskey": "Remove passkey",
+  "removePasskeyTitle": "Remove this passkey?",
+  "removePasskeyDesc": "You won’t be able to use this passkey to verify it’s you on this wallet. Your other passkeys and verification methods keep working.",
+  "passkeyRemoved": "Passkey removed",
+  "removePasskeyLastFactor": "This passkey is your only way to verify it’s you. Add another passkey or an authenticator app before you remove it."
 }
