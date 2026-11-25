@@ -3753,5 +3753,5 @@
   "passkeyOptions": "Opções da chave de acesso",
   "passkeyLastUsed": "Última utilização a {date}",
   "passkeyAdded": "Adicionada a {date}",
-  "xSignInRejected": "Não foi possível iniciar sessão com o X. Inicie novamente a sessão com o X."
+  "xSignInRejected": "Não foi possível iniciar sessão com o X. Inicie sessão com o X novamente."
 }
