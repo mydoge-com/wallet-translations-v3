@@ -3016,5 +3016,9 @@
   "removePasskeyTitle": "この Passkey を削除しますか？",
   "removePasskeyDesc": "このウォレットで本人確認にこの Passkey を使えなくなります。他の Passkey や認証方法は引き続き使えます。",
   "passkeyRemoved": "Passkey を削除しました",
-  "removePasskeyLastFactor": "この Passkey を削除するには、まず別の Passkey または認証アプリを追加してください。"
+  "removePasskeyLastFactor": "この Passkey を削除するには、まず別の Passkey または認証アプリを追加してください。",
+  "passkeyAddedAt": "{date} {time}に追加",
+  "passkeyOptions": "Passkey のオプション",
+  "passkeyLastUsed": "最終使用日: {date}",
+  "passkeyAdded": "{date}に追加"
 }

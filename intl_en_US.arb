@@ -1252,5 +1252,9 @@
   "removePasskeyTitle": "Remove this passkey?",
   "removePasskeyDesc": "You won’t be able to use this passkey to verify it’s you on this wallet. Your other passkeys and verification methods keep working.",
   "passkeyRemoved": "Passkey removed",
-  "removePasskeyLastFactor": "To remove this passkey, first add another passkey or an authenticator app."
+  "removePasskeyLastFactor": "To remove this passkey, first add another passkey or an authenticator app.",
+  "passkeyAddedAt": "Added {date} at {time}",
+  "passkeyOptions": "Passkey options",
+  "passkeyLastUsed": "Last used {date}",
+  "passkeyAdded": "Added {date}"
 }

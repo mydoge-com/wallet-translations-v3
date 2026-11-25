@@ -3748,5 +3748,9 @@
   "removePasskeyTitle": "¿Eliminar esta clave de acceso?",
   "removePasskeyDesc": "Ya no podrás usar esta clave de acceso para verificar tu identidad en esta billetera. Tus otras claves de acceso y métodos de verificación seguirán funcionando.",
   "passkeyRemoved": "Clave de acceso eliminada",
-  "removePasskeyLastFactor": "Para eliminar esta clave de acceso, primero agrega otra clave de acceso o una app de autenticación."
+  "removePasskeyLastFactor": "Para eliminar esta clave de acceso, primero agrega otra clave de acceso o una app de autenticación.",
+  "passkeyAddedAt": "Añadida el {date} a las {time}",
+  "passkeyOptions": "Opciones de la clave de acceso",
+  "passkeyLastUsed": "Último uso: {date}",
+  "passkeyAdded": "Añadida el {date}"
 }

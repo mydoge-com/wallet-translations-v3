@@ -3748,5 +3748,9 @@
   "removePasskeyTitle": "Xóa Passkey này?",
   "removePasskeyDesc": "Bạn sẽ không thể dùng Passkey này để xác minh danh tính trên ví này nữa. Các Passkey và phương thức xác minh khác vẫn hoạt động bình thường.",
   "passkeyRemoved": "Đã xóa Passkey",
-  "removePasskeyLastFactor": "Để xóa Passkey này, trước tiên hãy thêm một Passkey khác hoặc ứng dụng xác thực."
+  "removePasskeyLastFactor": "Để xóa Passkey này, trước tiên hãy thêm một Passkey khác hoặc ứng dụng xác thực.",
+  "passkeyAddedAt": "Đã thêm vào {date} lúc {time}",
+  "passkeyOptions": "Tùy chọn Passkey",
+  "passkeyLastUsed": "Sử dụng lần cuối {date}",
+  "passkeyAdded": "Đã thêm vào {date}"
 }

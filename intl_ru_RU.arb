@@ -3748,5 +3748,9 @@
   "removePasskeyTitle": "Удалить этот Passkey?",
   "removePasskeyDesc": "Вы больше не сможете подтверждать свою личность в этом кошельке с помощью этого Passkey. Другие Passkey и способы подтверждения продолжат работать.",
   "passkeyRemoved": "Passkey удалён",
-  "removePasskeyLastFactor": "Чтобы удалить этот Passkey, сначала добавьте другой Passkey или приложение-аутентификатор."
+  "removePasskeyLastFactor": "Чтобы удалить этот Passkey, сначала добавьте другой Passkey или приложение-аутентификатор.",
+  "passkeyAddedAt": "Добавлен {date} в {time}",
+  "passkeyOptions": "Параметры Passkey",
+  "passkeyLastUsed": "Последнее использование: {date}",
+  "passkeyAdded": "Добавлен {date}"
 }

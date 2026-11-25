@@ -3748,5 +3748,9 @@
   "removePasskeyTitle": "이 패스키를 삭제할까요?",
   "removePasskeyDesc": "이 지갑에서 더 이상 이 패스키로 본인 확인을 할 수 없습니다. 다른 패스키와 인증 방법은 계속 사용할 수 있습니다.",
   "passkeyRemoved": "패스키가 삭제되었습니다",
-  "removePasskeyLastFactor": "이 패스키를 삭제하려면 먼저 다른 패스키나 인증 앱을 추가하세요."
+  "removePasskeyLastFactor": "이 패스키를 삭제하려면 먼저 다른 패스키나 인증 앱을 추가하세요.",
+  "passkeyAddedAt": "{date} {time}에 추가됨",
+  "passkeyOptions": "패스키 옵션",
+  "passkeyLastUsed": "마지막 사용: {date}",
+  "passkeyAdded": "{date}에 추가됨"
 }

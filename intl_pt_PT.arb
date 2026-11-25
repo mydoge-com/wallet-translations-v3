@@ -3748,5 +3748,9 @@
   "removePasskeyTitle": "Remover esta chave de acesso?",
   "removePasskeyDesc": "Não poderá voltar a usar esta chave de acesso para confirmar a sua identidade nesta carteira. As suas outras chaves de acesso e métodos de verificação continuam a funcionar.",
   "passkeyRemoved": "Chave de acesso removida",
-  "removePasskeyLastFactor": "Para remover esta chave de acesso, adicione primeiro outra chave de acesso ou uma app autenticadora."
+  "removePasskeyLastFactor": "Para remover esta chave de acesso, adicione primeiro outra chave de acesso ou uma app autenticadora.",
+  "passkeyAddedAt": "Adicionada a {date} às {time}",
+  "passkeyOptions": "Opções da chave de acesso",
+  "passkeyLastUsed": "Última utilização a {date}",
+  "passkeyAdded": "Adicionada a {date}"
 }
