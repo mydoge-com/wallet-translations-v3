@@ -3020,5 +3020,6 @@
   "passkeyAddedAt": "{date} {time}に追加",
   "passkeyOptions": "Passkey のオプション",
   "passkeyLastUsed": "最終使用日: {date}",
-  "passkeyAdded": "{date}に追加"
+  "passkeyAdded": "{date}に追加",
+  "xSignInRejected": "X でログインできませんでした。X でのログインを最初からやり直してください。"
 }

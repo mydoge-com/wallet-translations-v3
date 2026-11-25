@@ -1256,5 +1256,9 @@
   "passkeyAddedAt": "Added {date} at {time}",
   "passkeyOptions": "Passkey options",
   "passkeyLastUsed": "Last used {date}",
-  "passkeyAdded": "Added {date}"
+  "passkeyAdded": "Added {date}",
+  "xSignInRejected": "We couldn't sign you in with X. Please start X sign-in again.",
+  "@xSignInRejected": {
+    "description": "Login error when the Relay rejects an X sign-in. It must not suggest another sign-in method: the rejection can be an upstream failure, not an account conflict."
+  }
 }

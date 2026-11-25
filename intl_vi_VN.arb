@@ -3752,5 +3752,6 @@
   "passkeyAddedAt": "Đã thêm vào {date} lúc {time}",
   "passkeyOptions": "Tùy chọn Passkey",
   "passkeyLastUsed": "Sử dụng lần cuối {date}",
-  "passkeyAdded": "Đã thêm vào {date}"
+  "passkeyAdded": "Đã thêm vào {date}",
+  "xSignInRejected": "Không thể đăng nhập bằng X. Vui lòng bắt đầu lại quá trình đăng nhập bằng X."
 }

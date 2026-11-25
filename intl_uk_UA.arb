@@ -3752,5 +3752,6 @@
   "passkeyAddedAt": "Додано {date} о {time}",
   "passkeyOptions": "Параметри Passkey",
   "passkeyLastUsed": "Востаннє використано {date}",
-  "passkeyAdded": "Додано {date}"
+  "passkeyAdded": "Додано {date}",
+  "xSignInRejected": "Не вдалося увійти через X. Почніть вхід через X знову."
 }

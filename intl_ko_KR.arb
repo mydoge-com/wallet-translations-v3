@@ -3752,5 +3752,6 @@
   "passkeyAddedAt": "{date} {time}에 추가됨",
   "passkeyOptions": "패스키 옵션",
   "passkeyLastUsed": "마지막 사용: {date}",
-  "passkeyAdded": "{date}에 추가됨"
+  "passkeyAdded": "{date}에 추가됨",
+  "xSignInRejected": "X로 로그인하지 못했습니다. X 로그인을 처음부터 다시 시작하세요."
 }

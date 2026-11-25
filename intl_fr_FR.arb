@@ -3020,5 +3020,6 @@
   "passkeyAddedAt": "Ajouté le {date} à {time}",
   "passkeyOptions": "Options du Passkey",
   "passkeyLastUsed": "Dernière utilisation le {date}",
-  "passkeyAdded": "Ajouté le {date}"
+  "passkeyAdded": "Ajouté le {date}",
+  "xSignInRejected": "Nous n’avons pas pu vous connecter avec X. Veuillez relancer la connexion avec X."
 }
