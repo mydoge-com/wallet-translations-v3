@@ -3742,5 +3742,15 @@
   "dappWalletHandoffTitle": "打开 {wallet}？",
   "dappWalletHandoffTitleGeneric": "打开其他钱包应用？",
   "dappWalletHandoffDesc": "{site} 想通过其他钱包应用连接。你在那里批准的内容不会经过 MyDoge 检查。",
-  "linkEmailNeedsAuthDesc": "要关联邮箱，请先添加通行密钥或身份验证器应用。你将用它来批准此更改。"
+  "linkEmailNeedsAuthDesc": "要关联邮箱，请先添加通行密钥或身份验证器应用。你将用它来批准此更改。",
+  "remove": "移除",
+  "removePasskey": "移除通行密钥",
+  "removePasskeyTitle": "要移除此通行密钥吗？",
+  "removePasskeyDesc": "移除后，你将无法再使用此通行密钥在此钱包中验证身份。你的其他通行密钥和验证方式仍可正常使用。",
+  "passkeyRemoved": "通行密钥已移除",
+  "removePasskeyLastFactor": "要移除此通行密钥，请先添加另一个通行密钥或身份验证器应用。",
+  "passkeyAddedAt": "添加于 {date} {time}",
+  "passkeyOptions": "通行密钥选项",
+  "passkeyLastUsed": "上次使用于 {date}",
+  "passkeyAdded": "添加于 {date}"
 }

@@ -3010,5 +3010,15 @@
   "dappWalletHandoffTitle": "Ouvrir {wallet} ?",
   "dappWalletHandoffTitleGeneric": "Ouvrir une autre app de portefeuille ?",
   "dappWalletHandoffDesc": "{site} souhaite se connecter via une autre app de portefeuille. MyDoge ne vérifie pas ce que vous y approuvez.",
-  "linkEmailNeedsAuthDesc": "Pour associer une adresse e-mail, ajoutez d’abord un Passkey ou une application d’authentification. Vous l’utiliserez pour approuver la modification."
+  "linkEmailNeedsAuthDesc": "Pour associer une adresse e-mail, ajoutez d’abord un Passkey ou une application d’authentification. Vous l’utiliserez pour approuver la modification.",
+  "remove": "Supprimer",
+  "removePasskey": "Supprimer le Passkey",
+  "removePasskeyTitle": "Supprimer ce Passkey ?",
+  "removePasskeyDesc": "Vous ne pourrez plus utiliser ce Passkey pour confirmer votre identité sur ce portefeuille. Vos autres Passkeys et méthodes de vérification continuent de fonctionner.",
+  "passkeyRemoved": "Passkey supprimé",
+  "removePasskeyLastFactor": "Pour supprimer ce Passkey, ajoutez d’abord un autre Passkey ou une application d’authentification.",
+  "passkeyAddedAt": "Ajouté le {date} à {time}",
+  "passkeyOptions": "Options du Passkey",
+  "passkeyLastUsed": "Dernière utilisation le {date}",
+  "passkeyAdded": "Ajouté le {date}"
 }
