@@ -3752,5 +3752,6 @@
   "passkeyAddedAt": "Agregada el {date} a las {time}",
   "passkeyOptions": "Opciones de la clave de acceso",
   "passkeyLastUsed": "Último uso: {date}",
-  "passkeyAdded": "Agregada el {date}"
+  "passkeyAdded": "Agregada el {date}",
+  "xConnectedTipArrivesAfterSenderConfirms": "X conectado. Un MyDogeTip que te enviaron en X llega cuando quien lo envió lo confirma en su app MyDoge."
 }

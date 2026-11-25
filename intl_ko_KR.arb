@@ -3752,5 +3752,6 @@
   "passkeyAddedAt": "{date} {time}에 추가됨",
   "passkeyOptions": "패스키 옵션",
   "passkeyLastUsed": "마지막 사용: {date}",
-  "passkeyAdded": "{date}에 추가됨"
+  "passkeyAdded": "{date}에 추가됨",
+  "xConnectedTipArrivesAfterSenderConfirms": "X가 연결되었습니다. X에서 받은 MyDogeTip은 보낸 사람이 MyDoge 앱에서 확인하면 도착합니다."
 }

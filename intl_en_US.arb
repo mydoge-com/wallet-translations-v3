@@ -1256,5 +1256,6 @@
   "passkeyAddedAt": "Added {date} at {time}",
   "passkeyOptions": "Passkey options",
   "passkeyLastUsed": "Last used {date}",
-  "passkeyAdded": "Added {date}"
+  "passkeyAdded": "Added {date}",
+  "xConnectedTipArrivesAfterSenderConfirms": "X connected. A MyDogeTip sent to you on X arrives once the sender confirms it in their MyDoge app."
 }

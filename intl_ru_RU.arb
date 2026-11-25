@@ -3752,5 +3752,6 @@
   "passkeyAddedAt": "Добавлен {date} в {time}",
   "passkeyOptions": "Параметры Passkey",
   "passkeyLastUsed": "Последнее использование: {date}",
-  "passkeyAdded": "Добавлен {date}"
+  "passkeyAdded": "Добавлен {date}",
+  "xConnectedTipArrivesAfterSenderConfirms": "X подключён. MyDogeTip, отправленный вам в X, придёт, когда отправитель подтвердит его в своём приложении MyDoge."
 }
