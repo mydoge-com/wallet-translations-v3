@@ -1232,5 +1232,6 @@
   "passkeyAddedAt": "Hinzugefügt am {date} um {time}",
   "passkeyOptions": "Passkey-Optionen",
   "passkeyLastUsed": "Zuletzt verwendet am {date}",
-  "passkeyAdded": "Hinzugefügt am {date}"
+  "passkeyAdded": "Hinzugefügt am {date}",
+  "xSignInRejected": "Wir konnten dich nicht mit X anmelden. Bitte starte die Anmeldung mit X erneut."
 }
