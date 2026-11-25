@@ -3753,5 +3753,6 @@
   "passkeyOptions": "通行密钥选项",
   "passkeyLastUsed": "上次使用于 {date}",
   "passkeyAdded": "添加于 {date}",
+  "xSignInRejected": "无法使用 X 登录。请重新开始 X 登录。",
   "xConnectedTipArrivesAfterSenderConfirms": "X 已连接。别人在 X 上发给你的 MyDogeTip，会在对方于 MyDoge 应用中确认后到账。"
 }

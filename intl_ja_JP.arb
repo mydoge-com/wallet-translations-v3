@@ -3021,5 +3021,6 @@
   "passkeyOptions": "Passkey のオプション",
   "passkeyLastUsed": "最終使用日: {date}",
   "passkeyAdded": "{date}に追加",
+  "xSignInRejected": "X でログインできませんでした。X でのログインを最初からやり直してください。",
   "xConnectedTipArrivesAfterSenderConfirms": "X を接続しました。X で送られた MyDogeTip は、送信者が MyDoge アプリで確認すると届きます。"
 }
