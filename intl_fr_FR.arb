@@ -3021,5 +3021,6 @@
   "passkeyOptions": "Options du Passkey",
   "passkeyLastUsed": "Dernière utilisation le {date}",
   "passkeyAdded": "Ajouté le {date}",
-  "xSignInRejected": "Nous n’avons pas pu vous connecter avec X. Veuillez relancer la connexion avec X."
+  "xSignInRejected": "Nous n’avons pas pu vous connecter avec X. Veuillez relancer la connexion avec X.",
+  "doginalsNotShownNote": "Les Doginals (inscriptions Dogecoin) ne sont pas affichés dans MyDoge pour le moment. Ceux envoyés à votre adresse Dogecoin s’y trouvent toujours, sur la blockchain."
 }

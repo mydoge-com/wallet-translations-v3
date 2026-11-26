@@ -3753,5 +3753,6 @@
   "passkeyOptions": "Tùy chọn Passkey",
   "passkeyLastUsed": "Sử dụng lần cuối {date}",
   "passkeyAdded": "Đã thêm vào {date}",
-  "xSignInRejected": "Không thể đăng nhập bằng X. Vui lòng bắt đầu lại quá trình đăng nhập bằng X."
+  "xSignInRejected": "Không thể đăng nhập bằng X. Vui lòng bắt đầu lại quá trình đăng nhập bằng X.",
+  "doginalsNotShownNote": "Hiện tại MyDoge không hiển thị Doginals (inscription Dogecoin). Các Doginals đã gửi đến địa chỉ Dogecoin của bạn vẫn nằm ở địa chỉ đó trên chuỗi."
 }
