@@ -3753,5 +3753,6 @@
   "passkeyOptions": "Параметри Passkey",
   "passkeyLastUsed": "Востаннє використано {date}",
   "passkeyAdded": "Додано {date}",
-  "xSignInRejected": "Не вдалося увійти через X. Почніть вхід через X знову."
+  "xSignInRejected": "Не вдалося увійти через X. Почніть вхід через X знову.",
+  "xConnectedTipArrivesAfterSenderConfirms": "X підключено. MyDogeTip, надісланий вам в X, надійде, коли відправник підтвердить його у своєму застосунку MyDoge."
 }

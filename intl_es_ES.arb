@@ -3753,5 +3753,6 @@
   "passkeyOptions": "Opciones de la clave de acceso",
   "passkeyLastUsed": "Último uso: {date}",
   "passkeyAdded": "Agregada el {date}",
-  "xSignInRejected": "No pudimos iniciar tu sesión con X. Vuelve a iniciar sesión con X desde el principio."
+  "xSignInRejected": "No pudimos iniciar tu sesión con X. Vuelve a iniciar sesión con X desde el principio.",
+  "xConnectedTipArrivesAfterSenderConfirms": "X conectado. Un MyDogeTip que te enviaron en X llega cuando quien lo envió lo confirma en su app MyDoge."
 }

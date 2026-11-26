@@ -3021,5 +3021,6 @@
   "passkeyOptions": "Options du Passkey",
   "passkeyLastUsed": "Dernière utilisation le {date}",
   "passkeyAdded": "Ajouté le {date}",
-  "xSignInRejected": "Nous n’avons pas pu vous connecter avec X. Veuillez relancer la connexion avec X."
+  "xSignInRejected": "Nous n’avons pas pu vous connecter avec X. Veuillez relancer la connexion avec X.",
+  "xConnectedTipArrivesAfterSenderConfirms": "X connecté. Un MyDogeTip qui vous a été envoyé sur X arrive dès que l'expéditeur le confirme dans son app MyDoge."
 }
