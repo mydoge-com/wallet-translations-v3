@@ -1260,5 +1260,9 @@
   "xSignInRejected": "We couldn't sign you in with X. Please start X sign-in again.",
   "@xSignInRejected": {
     "description": "Login error when the Relay rejects an X sign-in. It must not suggest another sign-in method: the rejection can be an upstream failure, not an account conflict."
+  },
+  "doginalsNotShownNote": "Doginals (Dogecoin inscriptions) aren't shown in MyDoge right now. Any sent to your Dogecoin address are still there on-chain.",
+  "@doginalsNotShownNote": {
+    "description": "Note in the wallet Collections tab. Collections lists EVM and DogeOS NFTs only; Dogecoin L1 Doginals are not listed. Must not promise they will be shown later, and must not claim more than that they are still at the user's Dogecoin address on-chain."
   }
 }

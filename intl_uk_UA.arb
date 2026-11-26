@@ -3753,5 +3753,6 @@
   "passkeyOptions": "Параметри Passkey",
   "passkeyLastUsed": "Востаннє використано {date}",
   "passkeyAdded": "Додано {date}",
-  "xSignInRejected": "Не вдалося увійти через X. Почніть вхід через X знову."
+  "xSignInRejected": "Не вдалося увійти через X. Почніть вхід через X знову.",
+  "doginalsNotShownNote": "Наразі MyDoge не показує Doginals (інскрипції Dogecoin). Doginals, надіслані на вашу адресу Dogecoin, і далі зберігаються на ній у блокчейні."
 }

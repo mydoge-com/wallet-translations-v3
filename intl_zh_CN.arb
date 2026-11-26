@@ -3753,5 +3753,6 @@
   "passkeyOptions": "通行密钥选项",
   "passkeyLastUsed": "上次使用于 {date}",
   "passkeyAdded": "添加于 {date}",
-  "xSignInRejected": "无法使用 X 登录。请重新开始 X 登录。"
+  "xSignInRejected": "无法使用 X 登录。请重新开始 X 登录。",
+  "doginalsNotShownNote": "MyDoge 目前不显示 Doginals（Dogecoin 铭文）。发送到你的 Dogecoin 地址的 Doginals 仍在链上，保留在该地址中。"
 }

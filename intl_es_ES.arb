@@ -3753,5 +3753,6 @@
   "passkeyOptions": "Opciones de la clave de acceso",
   "passkeyLastUsed": "Último uso: {date}",
   "passkeyAdded": "Agregada el {date}",
-  "xSignInRejected": "No pudimos iniciar tu sesión con X. Vuelve a iniciar sesión con X desde el principio."
+  "xSignInRejected": "No pudimos iniciar tu sesión con X. Vuelve a iniciar sesión con X desde el principio.",
+  "doginalsNotShownNote": "Por ahora, MyDoge no muestra los Doginals (inscripciones de Dogecoin). Los que se hayan enviado a tu dirección de Dogecoin siguen ahí, en la cadena."
 }
