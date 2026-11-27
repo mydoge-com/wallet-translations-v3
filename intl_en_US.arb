@@ -1264,8 +1264,23 @@
   "xConnectedTipArrivesAfterSenderConfirms": "X connected. A MyDogeTip sent to you on X arrives once the sender confirms it in their MyDoge app.",
   "relativeJustNow": "just now",
   "relativeMinutesAgo": "{count, plural, one{a minute ago} other{{count} minutes ago}}",
+  "@relativeMinutesAgo": {
+    "placeholders": {"count": {"type": "int"}}
+  },
   "relativeHoursAgo": "{count, plural, one{an hour ago} other{{count} hours ago}}",
+  "@relativeHoursAgo": {
+    "placeholders": {"count": {"type": "int"}}
+  },
   "relativeDaysAgo": "{count, plural, one{a day ago} other{{count} days ago}}",
+  "@relativeDaysAgo": {
+    "placeholders": {"count": {"type": "int"}}
+  },
   "relativeMonthsAgo": "{count, plural, one{a month ago} other{{count} months ago}}",
-  "relativeYearsAgo": "{count, plural, one{a year ago} other{{count} years ago}}"
+  "@relativeMonthsAgo": {
+    "placeholders": {"count": {"type": "int"}}
+  },
+  "relativeYearsAgo": "{count, plural, one{a year ago} other{{count} years ago}}",
+  "@relativeYearsAgo": {
+    "placeholders": {"count": {"type": "int"}}
+  }
 }
