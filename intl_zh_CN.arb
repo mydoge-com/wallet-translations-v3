@@ -3751,8 +3751,14 @@
   "removePasskeyLastFactor": "要移除此通行密钥，请先添加另一个通行密钥或身份验证器应用。",
   "passkeyAddedAt": "添加于 {date} {time}",
   "passkeyOptions": "通行密钥选项",
-  "passkeyLastUsed": "上次使用于 {date}",
-  "passkeyAdded": "添加于 {date}",
+  "passkeyLastUsed": "上次使用：{when}",
+  "passkeyAdded": "{when}添加",
   "xSignInRejected": "无法使用 X 登录。请重新开始 X 登录。",
-  "xConnectedTipArrivesAfterSenderConfirms": "X 已连接。别人在 X 上发给你的 MyDogeTip，会在对方于 MyDoge 应用中确认后到账。"
+  "xConnectedTipArrivesAfterSenderConfirms": "X 已连接。别人在 X 上发给你的 MyDogeTip，会在对方于 MyDoge 应用中确认后到账。",
+  "relativeJustNow": "刚刚",
+  "relativeMinutesAgo": "{count, plural, other{{count}分钟前}}",
+  "relativeHoursAgo": "{count, plural, other{{count}小时前}}",
+  "relativeDaysAgo": "{count, plural, other{{count}天前}}",
+  "relativeMonthsAgo": "{count, plural, other{{count}个月前}}",
+  "relativeYearsAgo": "{count, plural, other{{count}年前}}"
 }

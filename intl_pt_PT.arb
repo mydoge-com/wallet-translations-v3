@@ -3751,8 +3751,14 @@
   "removePasskeyLastFactor": "Para remover esta chave de acesso, adicione primeiro outra chave de acesso ou uma app autenticadora.",
   "passkeyAddedAt": "Adicionada a {date} às {time}",
   "passkeyOptions": "Opções da chave de acesso",
-  "passkeyLastUsed": "Última utilização a {date}",
-  "passkeyAdded": "Adicionada a {date}",
+  "passkeyLastUsed": "Última utilização {when}",
+  "passkeyAdded": "Adicionada {when}",
   "xSignInRejected": "Não foi possível iniciar sessão com o X. Inicie sessão com o X novamente.",
-  "xConnectedTipArrivesAfterSenderConfirms": "X ligado. Um MyDogeTip enviado para si no X chega assim que o remetente o confirmar na app MyDoge."
+  "xConnectedTipArrivesAfterSenderConfirms": "X ligado. Um MyDogeTip enviado para si no X chega assim que o remetente o confirmar na app MyDoge.",
+  "relativeJustNow": "há instantes",
+  "relativeMinutesAgo": "{count, plural, one{há um minuto} other{há {count} minutos}}",
+  "relativeHoursAgo": "{count, plural, one{há uma hora} other{há {count} horas}}",
+  "relativeDaysAgo": "{count, plural, one{há um dia} other{há {count} dias}}",
+  "relativeMonthsAgo": "{count, plural, one{há um mês} other{há {count} meses}}",
+  "relativeYearsAgo": "{count, plural, one{há um ano} other{há {count} anos}}"
 }

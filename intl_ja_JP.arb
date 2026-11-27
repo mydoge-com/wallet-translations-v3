@@ -3019,8 +3019,14 @@
   "removePasskeyLastFactor": "この Passkey を削除するには、まず別の Passkey または認証アプリを追加してください。",
   "passkeyAddedAt": "{date} {time}に追加",
   "passkeyOptions": "Passkey のオプション",
-  "passkeyLastUsed": "最終使用日: {date}",
-  "passkeyAdded": "{date}に追加",
+  "passkeyLastUsed": "最終使用: {when}",
+  "passkeyAdded": "追加: {when}",
   "xSignInRejected": "X でログインできませんでした。X でのログインを最初からやり直してください。",
-  "xConnectedTipArrivesAfterSenderConfirms": "X を接続しました。X で送られた MyDogeTip は、送信者が MyDoge アプリで確認すると届きます。"
+  "xConnectedTipArrivesAfterSenderConfirms": "X を接続しました。X で送られた MyDogeTip は、送信者が MyDoge アプリで確認すると届きます。",
+  "relativeJustNow": "たった今",
+  "relativeMinutesAgo": "{count, plural, other{{count}分前}}",
+  "relativeHoursAgo": "{count, plural, other{{count}時間前}}",
+  "relativeDaysAgo": "{count, plural, other{{count}日前}}",
+  "relativeMonthsAgo": "{count, plural, other{{count}か月前}}",
+  "relativeYearsAgo": "{count, plural, other{{count}年前}}"
 }
