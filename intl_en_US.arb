@@ -1255,11 +1255,32 @@
   "removePasskeyLastFactor": "To remove this passkey, first add another passkey or an authenticator app.",
   "passkeyAddedAt": "Added {date} at {time}",
   "passkeyOptions": "Passkey options",
-  "passkeyLastUsed": "Last used {date}",
-  "passkeyAdded": "Added {date}",
+  "passkeyLastUsed": "Last used {when}",
+  "passkeyAdded": "Added {when}",
   "xSignInRejected": "We couldn't sign you in with X. Please start X sign-in again.",
   "@xSignInRejected": {
     "description": "Login error when the Relay rejects an X sign-in. It must not suggest another sign-in method: the rejection can be an upstream failure, not an account conflict."
   },
-  "xConnectedTipArrivesAfterSenderConfirms": "X connected. A MyDogeTip sent to you on X arrives once the sender confirms it in their MyDoge app."
+  "xConnectedTipArrivesAfterSenderConfirms": "X connected. A MyDogeTip sent to you on X arrives once the sender confirms it in their MyDoge app.",
+  "relativeJustNow": "just now",
+  "relativeMinutesAgo": "{count, plural, one{a minute ago} other{{count} minutes ago}}",
+  "@relativeMinutesAgo": {
+    "placeholders": {"count": {"type": "int"}}
+  },
+  "relativeHoursAgo": "{count, plural, one{an hour ago} other{{count} hours ago}}",
+  "@relativeHoursAgo": {
+    "placeholders": {"count": {"type": "int"}}
+  },
+  "relativeDaysAgo": "{count, plural, one{a day ago} other{{count} days ago}}",
+  "@relativeDaysAgo": {
+    "placeholders": {"count": {"type": "int"}}
+  },
+  "relativeMonthsAgo": "{count, plural, one{a month ago} other{{count} months ago}}",
+  "@relativeMonthsAgo": {
+    "placeholders": {"count": {"type": "int"}}
+  },
+  "relativeYearsAgo": "{count, plural, one{a year ago} other{{count} years ago}}",
+  "@relativeYearsAgo": {
+    "placeholders": {"count": {"type": "int"}}
+  }
 }

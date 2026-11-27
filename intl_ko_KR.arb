@@ -3751,8 +3751,14 @@
   "removePasskeyLastFactor": "이 패스키를 삭제하려면 먼저 다른 패스키나 인증 앱을 추가하세요.",
   "passkeyAddedAt": "{date} {time}에 추가됨",
   "passkeyOptions": "패스키 옵션",
-  "passkeyLastUsed": "마지막 사용: {date}",
-  "passkeyAdded": "{date}에 추가됨",
+  "passkeyLastUsed": "마지막 사용: {when}",
+  "passkeyAdded": "{when} 추가됨",
   "xSignInRejected": "X로 로그인하지 못했습니다. X 로그인을 처음부터 다시 시작하세요.",
-  "xConnectedTipArrivesAfterSenderConfirms": "X가 연결되었습니다. X에서 받은 MyDogeTip은 보낸 사람이 MyDoge 앱에서 확인하면 도착합니다."
+  "xConnectedTipArrivesAfterSenderConfirms": "X가 연결되었습니다. X에서 받은 MyDogeTip은 보낸 사람이 MyDoge 앱에서 확인하면 도착합니다.",
+  "relativeJustNow": "방금",
+  "relativeMinutesAgo": "{count, plural, other{{count}분 전}}",
+  "relativeHoursAgo": "{count, plural, other{{count}시간 전}}",
+  "relativeDaysAgo": "{count, plural, other{{count}일 전}}",
+  "relativeMonthsAgo": "{count, plural, other{{count}개월 전}}",
+  "relativeYearsAgo": "{count, plural, other{{count}년 전}}"
 }

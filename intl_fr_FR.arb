@@ -3019,8 +3019,14 @@
   "removePasskeyLastFactor": "Pour supprimer ce Passkey, ajoutez d’abord un autre Passkey ou une application d’authentification.",
   "passkeyAddedAt": "Ajouté le {date} à {time}",
   "passkeyOptions": "Options du Passkey",
-  "passkeyLastUsed": "Dernière utilisation le {date}",
-  "passkeyAdded": "Ajouté le {date}",
+  "passkeyLastUsed": "Dernière utilisation : {when}",
+  "passkeyAdded": "Ajouté {when}",
   "xSignInRejected": "Nous n’avons pas pu vous connecter avec X. Veuillez relancer la connexion avec X.",
-  "xConnectedTipArrivesAfterSenderConfirms": "X connecté. Un MyDogeTip qui vous a été envoyé sur X arrive dès que l'expéditeur le confirme dans son app MyDoge."
+  "xConnectedTipArrivesAfterSenderConfirms": "X connecté. Un MyDogeTip qui vous a été envoyé sur X arrive dès que l'expéditeur le confirme dans son app MyDoge.",
+  "relativeJustNow": "à l’instant",
+  "relativeMinutesAgo": "{count, plural, one{il y a une minute} other{il y a {count} minutes}}",
+  "relativeHoursAgo": "{count, plural, one{il y a une heure} other{il y a {count} heures}}",
+  "relativeDaysAgo": "{count, plural, one{il y a un jour} other{il y a {count} jours}}",
+  "relativeMonthsAgo": "{count, plural, one{il y a un mois} other{il y a {count} mois}}",
+  "relativeYearsAgo": "{count, plural, one{il y a un an} other{il y a {count} ans}}"
 }
