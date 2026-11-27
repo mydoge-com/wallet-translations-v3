@@ -1240,5 +1240,7 @@
   "relativeHoursAgo": "{count, plural, one{vor einer Stunde} other{vor {count} Stunden}}",
   "relativeDaysAgo": "{count, plural, one{vor einem Tag} other{vor {count} Tagen}}",
   "relativeMonthsAgo": "{count, plural, one{vor einem Monat} other{vor {count} Monaten}}",
-  "relativeYearsAgo": "{count, plural, one{vor einem Jahr} other{vor {count} Jahren}}"
+  "relativeYearsAgo": "{count, plural, one{vor einem Jahr} other{vor {count} Jahren}}",
+  "socialWalletOwnAddressesNote": "Deine Social Wallet hat eine eigene Seed-Phrase und eigene Adressen, getrennt von deinen anderen Wallets wie einer Classic- oder v2-Wallet. Um zu sehen, was eine andere Wallet enthält, wechsle über das Dropdown über deinem Guthaben zu ihr.",
+  "drc20NotShownNote": "DRC-20-Token werden in MyDoge derzeit nicht angezeigt. DRC-20-Token, die an deine Dogecoin-Adresse gesendet wurden, befinden sich weiterhin on-chain an dieser Adresse."
 }

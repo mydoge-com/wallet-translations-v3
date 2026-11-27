@@ -3760,5 +3760,7 @@
   "relativeHoursAgo": "{count, plural, one{hace una hora} other{hace {count} horas}}",
   "relativeDaysAgo": "{count, plural, one{hace un día} other{hace {count} días}}",
   "relativeMonthsAgo": "{count, plural, one{hace un mes} other{hace {count} meses}}",
-  "relativeYearsAgo": "{count, plural, one{hace un año} other{hace {count} años}}"
+  "relativeYearsAgo": "{count, plural, one{hace un año} other{hace {count} años}}",
+  "socialWalletOwnAddressesNote": "Tu Billetera DogeOS tiene su propia frase semilla y sus propias direcciones, separadas de tus otras billeteras, como una billetera Classic o v2. Para ver lo que tiene otra billetera, cámbiate a ella con el menú desplegable encima de tu saldo.",
+  "drc20NotShownNote": "Por ahora, MyDoge no muestra los tokens DRC-20. Los que se hayan enviado a tu dirección de Dogecoin siguen ahí, en la cadena."
 }

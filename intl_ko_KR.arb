@@ -3760,5 +3760,7 @@
   "relativeHoursAgo": "{count, plural, other{{count}시간 전}}",
   "relativeDaysAgo": "{count, plural, other{{count}일 전}}",
   "relativeMonthsAgo": "{count, plural, other{{count}개월 전}}",
-  "relativeYearsAgo": "{count, plural, other{{count}년 전}}"
+  "relativeYearsAgo": "{count, plural, other{{count}년 전}}",
+  "socialWalletOwnAddressesNote": "소셜 지갑에는 Classic 또는 v2 지갑 같은 다른 지갑과 별개인 자체 시드 문구와 주소가 있습니다. 다른 지갑에 있는 자산을 보려면 잔액 위의 드롭다운에서 해당 지갑으로 전환하세요.",
+  "drc20NotShownNote": "현재 MyDoge에서는 DRC-20 토큰이 표시되지 않습니다. Dogecoin 주소로 보낸 DRC-20 토큰은 온체인에서 그 주소에 그대로 있습니다."
 }

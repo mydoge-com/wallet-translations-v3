@@ -3760,5 +3760,7 @@
   "relativeHoursAgo": "{count, plural, other{{count}小时前}}",
   "relativeDaysAgo": "{count, plural, other{{count}天前}}",
   "relativeMonthsAgo": "{count, plural, other{{count}个月前}}",
-  "relativeYearsAgo": "{count, plural, other{{count}年前}}"
+  "relativeYearsAgo": "{count, plural, other{{count}年前}}",
+  "socialWalletOwnAddressesNote": "你的 DogeOS 钱包有自己的助记词和地址，与你的其他钱包（例如 Classic 或 v2 钱包）相互独立。要查看其他钱包中的资产，请使用余额上方的下拉菜单切换到该钱包。",
+  "drc20NotShownNote": "MyDoge 目前不显示 DRC-20 代币。发送到你的 Dogecoin 地址的 DRC-20 代币仍在链上，保留在该地址中。"
 }
