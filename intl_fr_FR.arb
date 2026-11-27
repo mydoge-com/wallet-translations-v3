@@ -3028,5 +3028,7 @@
   "relativeHoursAgo": "{count, plural, one{il y a une heure} other{il y a {count} heures}}",
   "relativeDaysAgo": "{count, plural, one{il y a un jour} other{il y a {count} jours}}",
   "relativeMonthsAgo": "{count, plural, one{il y a un mois} other{il y a {count} mois}}",
-  "relativeYearsAgo": "{count, plural, one{il y a un an} other{il y a {count} ans}}"
+  "relativeYearsAgo": "{count, plural, one{il y a un an} other{il y a {count} ans}}",
+  "socialWalletOwnAddressesNote": "Votre Portefeuille DogeOS a sa propre phrase de départ et ses propres adresses, distinctes de vos autres wallets, comme un wallet Classic ou v2. Pour voir le contenu d’un autre wallet, sélectionnez-le avec le menu déroulant au-dessus de votre solde.",
+  "drc20NotShownNote": "Les jetons DRC-20 ne sont pas affichés dans MyDoge pour le moment. Ceux envoyés à votre adresse Dogecoin s’y trouvent toujours, sur la blockchain."
 }

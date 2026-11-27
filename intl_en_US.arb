@@ -1282,5 +1282,13 @@
   "relativeYearsAgo": "{count, plural, one{a year ago} other{{count} years ago}}",
   "@relativeYearsAgo": {
     "placeholders": {"count": {"type": "int"}}
+  },
+  "socialWalletOwnAddressesNote": "Your Social Wallet has its own seed phrase and addresses, separate from your other wallets such as a Classic or v2 wallet. To see what another wallet holds, switch to it with the dropdown above your balance.",
+  "@socialWalletOwnAddressesNote": {
+    "description": "Note in the wallet Tokens and Collections tabs, shown only while the Social Wallet is selected. The Social Wallet has its own seed phrase, different from any Classic (local seed-phrase) or MyDoge v2 wallet, so its addresses differ; migration from v2 moves only DOGE into it. Use the same name for the Social Wallet as the socialWallet string. Keep 'Classic' and 'v2' as they are."
+  },
+  "drc20NotShownNote": "DRC-20 tokens aren't shown in MyDoge right now. Any sent to your Dogecoin address are still there on-chain.",
+  "@drc20NotShownNote": {
+    "description": "Note in the wallet Tokens tab. The Tokens list never includes Dogecoin L1 DRC-20 tokens. Must not promise they will be shown later, and must not claim more than that they are still at the user's Dogecoin address on-chain."
   }
 }

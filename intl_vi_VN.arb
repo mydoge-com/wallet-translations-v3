@@ -3760,5 +3760,7 @@
   "relativeHoursAgo": "{count, plural, other{{count} giờ trước}}",
   "relativeDaysAgo": "{count, plural, other{{count} ngày trước}}",
   "relativeMonthsAgo": "{count, plural, other{{count} tháng trước}}",
-  "relativeYearsAgo": "{count, plural, other{{count} năm trước}}"
+  "relativeYearsAgo": "{count, plural, other{{count} năm trước}}",
+  "socialWalletOwnAddressesNote": "Ví xã hội của bạn có cụm từ khôi phục và địa chỉ riêng, tách biệt với các ví khác của bạn như ví Classic hoặc v2. Để xem tài sản trong ví khác, hãy chuyển sang ví đó bằng menu thả xuống phía trên số dư của bạn.",
+  "drc20NotShownNote": "Hiện tại MyDoge không hiển thị token DRC-20. Các token DRC-20 đã gửi đến địa chỉ Dogecoin của bạn vẫn nằm ở địa chỉ đó trên chuỗi."
 }

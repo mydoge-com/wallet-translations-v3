@@ -3028,5 +3028,7 @@
   "relativeHoursAgo": "{count, plural, other{{count}時間前}}",
   "relativeDaysAgo": "{count, plural, other{{count}日前}}",
   "relativeMonthsAgo": "{count, plural, other{{count}か月前}}",
-  "relativeYearsAgo": "{count, plural, other{{count}年前}}"
+  "relativeYearsAgo": "{count, plural, other{{count}年前}}",
+  "socialWalletOwnAddressesNote": "DogeOS ウォレットには独自のシード フレーズとアドレスがあり、Classic や v2 のウォレットなど、ほかのウォレットとは別です。ほかのウォレットの資産を見るには、残高の上にあるドロップダウンでそのウォレットに切り替えてください。",
+  "drc20NotShownNote": "現在、MyDoge では DRC-20 トークンは表示されません。Dogecoin アドレスに送られた DRC-20 トークンは、オンチェーンでそのアドレスに残っています。"
 }
