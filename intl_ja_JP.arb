@@ -3029,5 +3029,7 @@
   "relativeDaysAgo": "{count, plural, other{{count}日前}}",
   "relativeMonthsAgo": "{count, plural, other{{count}か月前}}",
   "relativeYearsAgo": "{count, plural, other{{count}年前}}",
-  "connectXSignInNote": "X を接続しても、ログイン方法は変わりません。ウォレットを作成したときのログイン方法を引き続きご利用ください。代わりに X でログインすると、別のウォレットが開くことがあります。"
+  "connectXSignInNote": "X を接続しても、ログイン方法は変わりません。ウォレットを作成したときのログイン方法を引き続きご利用ください。代わりに X でログインすると、別のウォレットが開くことがあります。",
+  "walletResumeFailedTitle": "ウォレットを開けませんでした",
+  "walletResumeFailedMessage": "ログインは完了していますが、現在ウォレットを開けませんでした。しばらくしてから再試行するか、ログアウトしてやり直してください。ログアウトしてもウォレットは削除されません。"
 }

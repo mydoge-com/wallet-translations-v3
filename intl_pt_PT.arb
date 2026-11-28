@@ -3761,5 +3761,7 @@
   "relativeDaysAgo": "{count, plural, one{há um dia} other{há {count} dias}}",
   "relativeMonthsAgo": "{count, plural, one{há um mês} other{há {count} meses}}",
   "relativeYearsAgo": "{count, plural, one{há um ano} other{há {count} anos}}",
-  "connectXSignInNote": "Conectar o X não altera a forma como inicia sessão. Continue a usar o método com que configurou a sua carteira. Se iniciar sessão com o X em vez disso, pode abrir uma carteira diferente."
+  "connectXSignInNote": "Conectar o X não altera a forma como inicia sessão. Continue a usar o método com que configurou a sua carteira. Se iniciar sessão com o X em vez disso, pode abrir uma carteira diferente.",
+  "walletResumeFailedTitle": "A sua carteira não abriu",
+  "walletResumeFailedMessage": "Tem sessão iniciada, mas não conseguimos abrir a sua carteira neste momento. Tente novamente dentro de instantes ou saia para recomeçar. Sair não elimina a sua carteira."
 }

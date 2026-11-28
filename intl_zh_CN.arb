@@ -3761,5 +3761,7 @@
   "relativeDaysAgo": "{count, plural, other{{count}天前}}",
   "relativeMonthsAgo": "{count, plural, other{{count}个月前}}",
   "relativeYearsAgo": "{count, plural, other{{count}年前}}",
-  "connectXSignInNote": "连接 X 不会改变您的登录方式。请继续使用您创建钱包时所用的登录方式。改用 X 登录可能会打开另一个钱包。"
+  "connectXSignInNote": "连接 X 不会改变您的登录方式。请继续使用您创建钱包时所用的登录方式。改用 X 登录可能会打开另一个钱包。",
+  "walletResumeFailedTitle": "您的钱包未能打开",
+  "walletResumeFailedMessage": "您已登录，但我们暂时无法打开您的钱包。请稍后重试，或退出登录后重新开始。退出登录不会删除您的钱包。"
 }

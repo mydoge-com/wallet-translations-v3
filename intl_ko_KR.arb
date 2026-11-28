@@ -3761,5 +3761,7 @@
   "relativeDaysAgo": "{count, plural, other{{count}일 전}}",
   "relativeMonthsAgo": "{count, plural, other{{count}개월 전}}",
   "relativeYearsAgo": "{count, plural, other{{count}년 전}}",
-  "connectXSignInNote": "X를 연결해도 로그인 방법은 바뀌지 않습니다. 지갑을 설정할 때 사용한 로그인 방법을 계속 사용하세요. 대신 X로 로그인하면 다른 지갑이 열릴 수 있습니다."
+  "connectXSignInNote": "X를 연결해도 로그인 방법은 바뀌지 않습니다. 지갑을 설정할 때 사용한 로그인 방법을 계속 사용하세요. 대신 X로 로그인하면 다른 지갑이 열릴 수 있습니다.",
+  "walletResumeFailedTitle": "지갑을 열지 못했습니다",
+  "walletResumeFailedMessage": "로그인은 되었지만 지금은 지갑을 열 수 없습니다. 잠시 후 다시 시도하거나 로그아웃한 뒤 처음부터 다시 시작하세요. 로그아웃해도 지갑은 삭제되지 않습니다."
 }

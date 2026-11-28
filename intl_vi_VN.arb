@@ -3761,5 +3761,7 @@
   "relativeDaysAgo": "{count, plural, other{{count} ngày trước}}",
   "relativeMonthsAgo": "{count, plural, other{{count} tháng trước}}",
   "relativeYearsAgo": "{count, plural, other{{count} năm trước}}",
-  "connectXSignInNote": "Kết nối X không thay đổi cách bạn đăng nhập. Hãy tiếp tục dùng phương thức đăng nhập bạn đã dùng để thiết lập ví. Nếu đăng nhập bằng X thay vào đó, một ví khác có thể được mở."
+  "connectXSignInNote": "Kết nối X không thay đổi cách bạn đăng nhập. Hãy tiếp tục dùng phương thức đăng nhập bạn đã dùng để thiết lập ví. Nếu đăng nhập bằng X thay vào đó, một ví khác có thể được mở.",
+  "walletResumeFailedTitle": "Không mở được ví của bạn",
+  "walletResumeFailedMessage": "Bạn đã đăng nhập, nhưng hiện chúng tôi không thể mở ví của bạn. Hãy thử lại sau giây lát, hoặc đăng xuất để bắt đầu lại. Đăng xuất không xóa ví của bạn."
 }

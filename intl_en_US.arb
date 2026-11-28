@@ -1286,5 +1286,13 @@
   "connectXSignInNote": "Connecting X doesn't change how you sign in. Keep using the sign-in method you set up your wallet with. Signing in with X instead can open a different wallet.",
   "@connectXSignInNote": {
     "description": "Note on the Connect X screen. Connect X only links X for tips and the feed; it is not a sign-in method. Signing in with X when the wallet was set up with another method can open a different account and wallet."
+  },
+  "walletResumeFailedTitle": "Your wallet didn't open",
+  "@walletResumeFailedTitle": {
+    "description": "Title of the login sheet shown when sign-in succeeded but the wallet couldn't be opened because the wallet service is temporarily unavailable. The sheet offers Try again and Log out."
+  },
+  "walletResumeFailedMessage": "You're signed in, but we couldn't open your wallet right now. Try again in a moment, or log out to start over. Logging out doesn't delete your wallet.",
+  "@walletResumeFailedMessage": {
+    "description": "Body of the login sheet shown when sign-in succeeded but the wallet couldn't be opened because the wallet service is temporarily unavailable. Try again repeats opening the same wallet; Log out ends this sign-in so the user can sign in again with any method. Logging out never deletes the wallet."
   }
 }
