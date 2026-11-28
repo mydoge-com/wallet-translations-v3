@@ -1243,5 +1243,5 @@
   "relativeYearsAgo": "{count, plural, one{vor einem Jahr} other{vor {count} Jahren}}",
   "connectXSignInNote": "Das Verbinden von X ändert nichts an deiner Anmeldung. Melde dich weiter mit der Methode an, mit der du dein Wallet eingerichtet hast. Wenn du dich stattdessen mit X anmeldest, kann sich ein anderes Wallet öffnen.",
   "walletResumeFailedTitle": "Dein Wallet wurde nicht geöffnet",
-  "walletResumeFailedMessage": "Du bist angemeldet, aber wir konnten dein Wallet gerade nicht öffnen. Versuche es gleich noch einmal oder logge dich aus, um neu zu beginnen. Durch das Ausloggen wird dein Wallet nicht gelöscht."
+  "walletResumeFailedMessage": "Du bist angemeldet, aber wir konnten dein Wallet gerade nicht öffnen. Versuche es gleich noch einmal oder logge dich aus und melde dich wieder so an wie zuvor. Durch das Ausloggen wird dein Wallet nicht gelöscht."
 }

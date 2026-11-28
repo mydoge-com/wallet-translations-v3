@@ -1291,8 +1291,8 @@
   "@walletResumeFailedTitle": {
     "description": "Title of the login sheet shown when sign-in succeeded but the wallet couldn't be opened because the wallet service is temporarily unavailable. The sheet offers Try again and Log out."
   },
-  "walletResumeFailedMessage": "You're signed in, but we couldn't open your wallet right now. Try again in a moment, or log out to start over. Logging out doesn't delete your wallet.",
+  "walletResumeFailedMessage": "You're signed in, but we couldn't open your wallet right now. Try again in a moment, or log out and sign in again the way you did before. Logging out doesn't delete your wallet.",
   "@walletResumeFailedMessage": {
-    "description": "Body of the login sheet shown when sign-in succeeded but the wallet couldn't be opened because the wallet service is temporarily unavailable. Try again repeats opening the same wallet; Log out ends this sign-in so the user can sign in again with any method. Logging out never deletes the wallet."
+    "description": "Body of the login sheet shown when sign-in succeeded but the wallet couldn't be opened because the wallet service is temporarily unavailable. Try again repeats opening the same wallet; Log out ends this sign-in. It points the user back to the sign-in method they used before, because signing in with a different method can open a different account and wallet. Logging out never deletes the wallet."
   }
 }

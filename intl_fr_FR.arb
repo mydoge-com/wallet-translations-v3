@@ -3031,5 +3031,5 @@
   "relativeYearsAgo": "{count, plural, one{il y a un an} other{il y a {count} ans}}",
   "connectXSignInNote": "Connecter X ne change pas votre façon de vous connecter. Continuez d’utiliser la méthode avec laquelle vous avez créé votre portefeuille. Vous connecter avec X à la place peut ouvrir un autre portefeuille.",
   "walletResumeFailedTitle": "Votre portefeuille ne s’est pas ouvert",
-  "walletResumeFailedMessage": "Vous êtes connecté, mais nous n’avons pas pu ouvrir votre portefeuille pour le moment. Réessayez dans un instant, ou déconnectez-vous pour recommencer. Vous déconnecter ne supprime pas votre portefeuille."
+  "walletResumeFailedMessage": "Vous êtes connecté, mais nous n’avons pas pu ouvrir votre portefeuille pour le moment. Réessayez dans un instant, ou déconnectez-vous et reconnectez-vous de la même façon qu’avant. Vous déconnecter ne supprime pas votre portefeuille."
 }
