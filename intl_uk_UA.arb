@@ -3760,5 +3760,6 @@
   "relativeHoursAgo": "{count, plural, one{{count} годину тому} few{{count} години тому} many{{count} годин тому} other{{count} години тому}}",
   "relativeDaysAgo": "{count, plural, one{{count} день тому} few{{count} дні тому} many{{count} днів тому} other{{count} дня тому}}",
   "relativeMonthsAgo": "{count, plural, one{{count} місяць тому} few{{count} місяці тому} many{{count} місяців тому} other{{count} місяця тому}}",
-  "relativeYearsAgo": "{count, plural, one{{count} рік тому} few{{count} роки тому} many{{count} років тому} other{{count} року тому}}"
+  "relativeYearsAgo": "{count, plural, one{{count} рік тому} few{{count} роки тому} many{{count} років тому} other{{count} року тому}}",
+  "connectXSignInNote": "Підключення X не змінює спосіб входу. Продовжуйте входити тим способом, яким ви створили гаманець. Якщо увійти через X, може відкритися інший гаманець."
 }

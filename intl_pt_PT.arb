@@ -3760,5 +3760,6 @@
   "relativeHoursAgo": "{count, plural, one{há uma hora} other{há {count} horas}}",
   "relativeDaysAgo": "{count, plural, one{há um dia} other{há {count} dias}}",
   "relativeMonthsAgo": "{count, plural, one{há um mês} other{há {count} meses}}",
-  "relativeYearsAgo": "{count, plural, one{há um ano} other{há {count} anos}}"
+  "relativeYearsAgo": "{count, plural, one{há um ano} other{há {count} anos}}",
+  "connectXSignInNote": "Conectar o X não altera a forma como inicia sessão. Continue a usar o método com que configurou a sua carteira. Se iniciar sessão com o X em vez disso, pode abrir uma carteira diferente."
 }

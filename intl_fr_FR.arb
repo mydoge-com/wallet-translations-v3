@@ -3028,5 +3028,6 @@
   "relativeHoursAgo": "{count, plural, one{il y a une heure} other{il y a {count} heures}}",
   "relativeDaysAgo": "{count, plural, one{il y a un jour} other{il y a {count} jours}}",
   "relativeMonthsAgo": "{count, plural, one{il y a un mois} other{il y a {count} mois}}",
-  "relativeYearsAgo": "{count, plural, one{il y a un an} other{il y a {count} ans}}"
+  "relativeYearsAgo": "{count, plural, one{il y a un an} other{il y a {count} ans}}",
+  "connectXSignInNote": "Connecter X ne change pas votre façon de vous connecter. Continuez d’utiliser la méthode avec laquelle vous avez créé votre portefeuille. Vous connecter avec X à la place peut ouvrir un autre portefeuille."
 }
