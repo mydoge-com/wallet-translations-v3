@@ -3760,5 +3760,6 @@
   "relativeHoursAgo": "{count, plural, other{{count} giờ trước}}",
   "relativeDaysAgo": "{count, plural, other{{count} ngày trước}}",
   "relativeMonthsAgo": "{count, plural, other{{count} tháng trước}}",
-  "relativeYearsAgo": "{count, plural, other{{count} năm trước}}"
+  "relativeYearsAgo": "{count, plural, other{{count} năm trước}}",
+  "connectXSignInNote": "Kết nối X không thay đổi cách bạn đăng nhập. Hãy tiếp tục dùng phương thức đăng nhập bạn đã dùng để thiết lập ví. Nếu đăng nhập bằng X thay vào đó, một ví khác có thể được mở."
 }
