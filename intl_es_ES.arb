@@ -3761,5 +3761,7 @@
   "relativeDaysAgo": "{count, plural, one{hace un día} other{hace {count} días}}",
   "relativeMonthsAgo": "{count, plural, one{hace un mes} other{hace {count} meses}}",
   "relativeYearsAgo": "{count, plural, one{hace un año} other{hace {count} años}}",
-  "connectXSignInNote": "Conectar X no cambia cómo inicias sesión. Sigue usando el método con el que configuraste tu billetera. Si inicias sesión con X en su lugar, podría abrirse otra billetera."
+  "connectXSignInNote": "Conectar X no cambia cómo inicias sesión. Sigue usando el método con el que configuraste tu billetera. Si inicias sesión con X en su lugar, podría abrirse otra billetera.",
+  "walletResumeFailedTitle": "No se abrió tu billetera",
+  "walletResumeFailedMessage": "Has iniciado sesión, pero ahora mismo no pudimos abrir tu billetera. Inténtalo de nuevo en un momento o cierra sesión y vuelve a iniciarla como lo hiciste antes. Cerrar sesión no elimina tu billetera."
 }
